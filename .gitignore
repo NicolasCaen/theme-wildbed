@@ -2,8 +2,8 @@
 .DS_Store
 
 functions.php
-/variations
+
 /shortcodes
 /styles
-/functions
+
 node_modules

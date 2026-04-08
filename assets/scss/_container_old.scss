@@ -1,0 +1,22 @@
+.section-wide{
+    padding-left: var(--wp--preset--spacing--clamp-7-5);
+    padding-right: var(--wp--preset--spacing--clamp-7-5);
+    &--not-mobile{
+        @media (max-width: 500px) {
+            padding-left:0;
+            padding-right: 0;
+        }
+    }
+
+}
+.container-1920{
+    max-width: 1920px;
+    @media (min-width: 1920px) {
+       margin-right: auto;
+       margin-left: auto;
+    }
+}
+
+.container-full{
+    width: 100%;
+}

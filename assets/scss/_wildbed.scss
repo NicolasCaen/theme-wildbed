@@ -1,0 +1,182 @@
+@use 'index' as *;
+
+.wp-block-group.menu-container{
+    max-width:calc(100% - 5rem) !important;
+    margin: 0 auto !important;
+    border-radius: 100px;;
+    padding:.5rem 1.5rem!important;     
+    @include m($menu-mobile-breakpoint){
+     //   padding:.5rem .5rem!important;   
+     display:grid;  
+     grid-template-columns: 7.5rem 1fr 2.5rem;
+
+     >*{
+        &:nth-child(1){
+            grid-row: 1;
+            grid-column: 1;
+        }
+        &:nth-child(2){
+            grid-column: 3;
+              grid-row: 1;
+                 align-items: center;
+              justify-content: flex-end;
+        }
+        &:nth-child(3){
+            grid-column: 2;
+              grid-row: 1;
+              align-items: center;
+              justify-content: flex-end;
+        }
+     }
+
+    }
+}
+
+
+.section-wide-grid{
+
+    --section-wide-grid-padding: clamp(1.5rem, -9.3rem + 19.2vw, 7.5rem);
+    display: grid;
+    grid-template-rows: auto;
+    max-width: 1920px;
+    column-gap:0 !important;
+    row-gap:0 !important;
+    margin: 0 auto;
+    grid-template-columns: 
+        var(--section-wide-grid-padding)
+        1fr
+        var(--section-wide-grid-padding) !important;
+    
+    >*{
+
+        grid-column: 2;
+    }
+    >.alignfull{
+        grid-column: 1 / -1;
+    }
+    
+}
+
+.section-grid{
+grid-template-rows: auto;
+    --section-wide-grid-padding: clamp(1.5rem, -9.3rem + 19.2vw, 7.5rem);
+    display: grid;
+    max-width: 1920px;
+    column-gap:0;
+    margin: 0 auto;
+    grid-template-columns: 
+        var(--section-wide-grid-padding)
+        var(--section-wide-grid-padding)
+        1fr
+        var(--section-wide-grid-padding)
+        var(--section-wide-grid-padding) !important;
+    
+    >*{
+        grid-column: 3;
+    }
+      >.alignwide{
+        grid-column: 2 / 5;
+    }
+    >.alignfull{
+        grid-column: 1 / -1;
+    }
+    
+}
+
+
+.galerie-polaroid{
+ gap:0 !important;
+   >figure{
+    position: relative;
+    &:hover{
+        z-index: 10;
+        transition:all 1s;
+        transform: rotate(2deg) !important;
+    }
+        border: .75rem solid white;
+       &:nth-of-type(1){
+        transform: rotate(7.024deg) translateX(5rem);
+       }
+       &:nth-of-type(2){
+        transform: rotate(-2.996deg)   translateX(3.5rem);;
+       }
+       &:nth-of-type(3){
+        transform: rotate(8.471deg)   translateX(-3.5rem);
+       }
+       &:nth-of-type(4){
+        transform: rotate(-6.963deg) translateX(-5rem);
+       }
+       
+
+    }
+}
+.wp-block-media-text{
+    --media-text-gap : var(--wp--preset--spacing--clamp-4-5);
+    grid-template-columns: 1fr 1fr !important;
+    gap:var(--media-text-gap);
+     .wp-block-media-text__content{
+        padding-left:0 !important;
+     }
+    &.no-content-padding{
+        .wp-block-media-text__content{
+            padding: 0 !important;
+        }
+    }
+
+}
+// .wp-block-media-text{
+//     --media-text-gap : 72px;
+//     gap:0;
+//     display: grid !important;
+
+// grid-template-columns:
+//   [A] var(--media-text-gap)
+//   [B] 1fr
+//   [C] var(--media-text-gap)
+//   [D] 1fr
+//   [E] var(--media-text-gap)  !important;
+
+
+//     &__content{
+//         grid-column: B  !important;
+//     }
+//     &__media{
+//         grid-column: D  !important;
+//     }
+//     &.has-media-on-the-right{
+//      .wp-block-media-text{
+//           &__content{
+//             grid-column: D / -1 !important;
+//         }
+//         &__media{
+//             grid-column: 1 /B  !important;
+//         } 
+//      }
+ 
+//     }
+// }
+
+
+.grid-404{
+    >*{
+        grid-row: 1;
+        grid-column: 1 ;
+        vertical-align: center;
+        justify-content: center;
+       margin: auto;
+    }
+    figure{
+        mix-blend-mode: darken;
+    }
+}
+
+.wp-block-group:has(>.is-style-panneau){
+    position: relative;
+    >.is-style-panneau{
+        white-space: nowrap;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+}

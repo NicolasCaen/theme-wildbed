@@ -61,17 +61,17 @@
           },
         "layout": {
             "contentSize": "960px",
-            "wideSize": "1400px"
+            "wideSize": "clamp(1200px, calc(1200px + (1680 - 1200) * ((100vw - 1440px) / (1920 - 1440))), 1680px)"
         },
         "border": {
 			"radiusSizes": [
 				{
-					"name": "S",
+					"name": "S | .5rem",
 					"slug": "s",
 					"size": "0.5rem"
 				},
                 {
-                    "name": "M",
+                    "name": "M | .1rem",
                     "slug": "m",
                     "size": "1rem"
                 },
@@ -103,61 +103,71 @@
 			]
 		},
         "color": {
+               "custom": true,
+            "customDuotone": true,
+            "customGradient": true,
             "palette": [
                 {
                     "slug": "base",
-                    "name": "Base",
+                    "name": "Background (Base)",
                     "color": "#E8F2EF"
                 },
                 {
                     "slug": "base-2",
-                    "name": "Base 2",
+                    "name": "Primary (Base-2)",
                     "color": "#2E5448"
                 },
                 {
                     "slug": "base-3",
-                    "name": "Base 3",
+                    "name": "Primary Dark (Base-3)",
                     "color": "#12211C"
                 },
                 {
                     "slug": "base-4",
-                    "name": "Base 4",
+                    "name": "Primary Light (Base-4)",
                     "color": "#CEE4DD"
                 },
                 {
                     "slug": "contrast",
-                    "name": "Contrast",
-                    "color": "#CEE4DD"
+                    "name": "Secondary (Contrast)",
+                    "color": "#F9A01E"
                 },
                 {
                     "slug": "contrast-2",
-                    "name": "Contrast 2",
-                    "color": "#CEE4DD"
+                    "name": "Secondary Dark (Contrast-2)",
+                    "color": "#623C06"
+                },
+                {
+                    "slug": "contrast-3",
+                    "name": "Secondary Light (Contrast-3)",
+                    "color": "#FFEEE3"
                 },
                 {
                     "slug": "accent",
-                    "name": "Accent",
-                    "color": "#FF3F00"
+                    "name": "Contrast black (accent)",
+                    "color": "#070707"
                 },
                 {
                     "slug": "accent-2",
-                    "name": "Accent-2",
-                    "color": "#661900"
-                },
-                {
-                    "slug": "accent-3",
-                    "name": "Accent-3",
-                    "color": "#661900"
+                    "name": "Contrast white (accent-2)",
+                    "color": "#ffffff"
                 },
                 {
                     "slug": "transparent",
-                    "name": "transparent",
+                    "name": "Transparent",
                     "color": "transparent"
                 },
                 {
                     "slug": "inherit",
                     "name": "Inherit",
                     "color": "inherit"
+                }
+            ],
+    "gradients": [
+                {
+                    "slug": "black-to-transparent",
+                    "name": "Noir → Transparent",
+                    "gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0.60) 25%, rgba(0, 0, 0, 0.00) 53.85%)"
                 }
             ],
             "defaultDuotone": false,
@@ -170,34 +180,120 @@
             "fluid": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "variable-sample, sans-serif",
-                    "name": "variable-sample",
-                    "slug": "first",
+                    "fontFamily": "\"Titan One\", system-ui",
+                    "name": "Titan One",
+                    "slug": "second",
                     "fontFace": [
                         {
-                            "fontFamily": "variable-sample",
-                             "fontStyle": "auto",
-                            "fontWeight": "100 900",
-                            "fontDisplay": "swap",
                             "src": [
-                                "file:./assets/fonts/variable-sample/variable-sample-variable.woff2"
-                            ]
+                                "file:./assets/fonts/titan-one/titan-one-400-normal.woff2"
+                            ],
+                            "fontWeight": "400",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Titan One\""
                         }
                     ]
                 },
                 {
-                    "fontFamily": "variable-sample, sans-serif",
-                    "name": "variable-sample",
-                    "slug": "second",
+                    "fontFamily": "\"Open Sans\", sans-serif",
+                    "name": "Open Sans",
+                    "slug": "first",
                     "fontFace": [
                         {
-                            "fontFamily": "variable-sample",
-                            "fontStyle": "auto",
-                            "fontWeight": "100 900",
-                            "fontDisplay": "swap",
                             "src": [
-                                "file:./assets/fonts/variable-sample/variable-sample-variable.woff2"
-                            ]
+                                "file:./assets/fonts/open-sans/open-sans-300-normal.woff2"
+                            ],
+                            "fontWeight": "300",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-400-normal.woff2"
+                            ],
+                            "fontWeight": "400",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-500-normal.woff2"
+                            ],
+                            "fontWeight": "500",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-600-normal.woff2"
+                            ],
+                            "fontWeight": "600",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-700-normal.woff2"
+                            ],
+                            "fontWeight": "700",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-800-normal.woff2"
+                            ],
+                            "fontWeight": "800",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-300-italic.woff2"
+                            ],
+                            "fontWeight": "300",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-400-italic.woff2"
+                            ],
+                            "fontWeight": "400",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-500-italic.woff2"
+                            ],
+                            "fontWeight": "500",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-600-italic.woff2"
+                            ],
+                            "fontWeight": "600",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-700-italic.woff2"
+                            ],
+                            "fontWeight": "700",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
+                        },
+                        {
+                            "src": [
+                                "file:./assets/fonts/open-sans/open-sans-800-italic.woff2"
+                            ],
+                            "fontWeight": "800",
+                            "fontStyle": "italic",
+                            "fontFamily": "\"Open Sans\""
                         }
                     ]
                 }
@@ -321,37 +417,97 @@
                 {
                     "slug": "5",
                     "name": "2.5rem|40",
-                    "size": "2.5rem"
+                    "size": "clamp(2rem, 1.7222rem + 0.8889vw, 2.5rem)"
                 },
                 {
                     "slug": "6",
                     "name": "3rem|48",
-                    "size": "3rem"
+                    "size": "clamp(2rem, 1.4444rem + 1.7778vw, 3rem)"
                 },
                 {
                     "slug": "7",
                     "name": "4.5rem|72",
-                    "size": "4.5rem"
+                    "size": "clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)"
                 },
                 {
                     "slug": "8",
                     "name": "7.5rem|120",
-                    "size": "7.5rem"
+                    "size": "clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)"
                 },
                 {
                     "slug": "9",
                     "name": "10rem|160",
-                    "size": "10rem"
+                    "size": "clamp(3.5rem, -0.1111rem + 11.5556vw, 10rem)"
                 },
                 {
                     "slug": "10",
                     "name": "12.5rem|200",
-                    "size": "12.5rem"
+                    "size": "clamp(3.5rem, -1.5rem + 16vw, 12.5rem)"
                 },
                 {
                     "slug": "headerheight",
                     "name": "header height",
                     "size": "var(--header-height)"
+                },
+                                 {
+                    "slug": "h-1-2",
+                    "name": "H|.25rem|4",
+                    "size": ".25rem"
+                },
+                {
+                    "slug": "h-1",
+                    "name": "H|.5rem|8",
+                    "size": ".5rem"
+                },
+                {
+                    "slug": "h-1-5",
+                    "name": "H|.75rem|12",
+                    "size": ".75rem"
+                },
+                {
+                    "slug": "h-2",
+                    "name": "H|1rem|16",
+                    "size": "1rem"
+                },
+                {
+                    "slug": "h-3",
+                    "name": "H|1.5rem|24",
+                    "size": "1.5rem"
+                },
+                {
+                    "slug": "h-4",
+                    "name": "H|2rem|32",
+                    "size": "2rem"
+                },
+                {
+                    "slug": "h-5",
+                    "name": "H|2.5rem|40",
+                    "size": "clamp(1rem, 0.1667rem + 2.6667vw, 2.5rem)"
+                },
+                {
+                    "slug": "h-6",
+                    "name": "H|3rem|48",
+                    "size": "clamp(1rem, -0.1111rem + 3.5556vw, 3rem)"
+                },
+                {
+                    "slug": "h-7",
+                    "name": "H|4.5rem|72",
+                    "size": "clamp(1rem, -0.9444rem + 6.2222vw, 4.5rem)"
+                },
+                {
+                    "slug": "h-8",
+                    "name": "H|7.5rem|120",
+                    "size": "clamp(1rem, -2.6111rem + 11.5556vw, 7.5rem)"
+                },
+                {
+                    "slug": "h-9",
+                    "name": "H|10rem|160",
+                    "size": "clamp(1rem, -4rem + 16vw, 10rem)"
+                },
+                {
+                    "slug": "h-10",
+                    "name": "H|12.5rem|200",
+                    "size": "clamp(1rem, -5.3889rem + 20.4444vw, 12.5rem)"
                 }
             ],
             "defaultSpacingSizes": false,
@@ -368,10 +524,17 @@
     "styles": {
         "css": "where(.wp-site-blocks) > * { margin-block-start: 0 !important; margin-block-end: 0 !important; }",
         "typography": {
-            "fontFamily": "var(--wp--preset--font-family--first)"
+            "fontFamily": "var(--wp--preset--font-family--first)",
+            "lineHeight" : "1.25"
+        },
+        "color": {
+            "background": "var(--wp--preset--color--base)"
         },
         "elements": {
             "heading": {
+                "color":{
+                    "text" : "var(--wp--preset--color--base-2)"
+                },
                 "typography": {
                     "fontFamily": "var(--wp--preset--font-family--second)"
                 }
@@ -432,47 +595,41 @@
                     }
                 }
             },
-            "core/button": {
-                "css" : "transition:all .4s",
-                "border":{
-                    "radius": "0",
-                    "color": "var(--wp--preset--color--accent)",
-                    "width": "2px",
-                    "style": "solid"
-                },
-                "color": {
-                    "text": "currentColor",
-                    "background": "var(--wp--preset--color--accent)"
-                },
-                "typography": {
-                    "textTransform": "none",
-                    "fontSize": "var(--wp--preset--font-size--s)",
-                    "fontWeight": "600"
-                },
-                "spacing": {
-                            "padding": {
-                                "bottom": ".5rem",
-                                "left": "1rem",
-                                "right": "1rem",
-                                "top": ".5rem"
-                            }
-                        },
-                "variations": {
-                    "outline": {
-                        "color": {
-                            "background": "transparent",
-                            "text": "var(--wp--preset--color--accent)"
-                        },
-                        "border": {
-                            "color": "currentColor"
-                        },
-                        "typography": {
-                            "textTransform": "none",
-                            "fontSize": "var(--wp--preset--font-size--s)",
-                            "fontWeight": "600"
-                        }
-                    }
+            "core/image":{
+                "border": {
+                    "radius": "var(--wp--preset--border-radius--l)"
                 }
+            },
+            "core/media-text":{
+                "css":"& img{border-radius:var(--wp--preset--border-radius--l}"
+    
+            },
+            "core/button": {
+                "css": "transition: all 0.3s ease; &:hover{background:var(--btn-hover-bg,var(--wp--preset--color--base-2));}",
+            "color": {
+                "background": "var(--wp--preset--color--contrast)"
+            },
+            "border": {
+                "color": "var(--wp--preset--color--base)",
+                "radius": {
+                "topLeft": "var(--wp--preset--border-radius--l)",
+                "topRight": "var(--wp--preset--border-radius--l)",
+                "bottomLeft": "var(--wp--preset--border-radius--l)",
+                "bottomRight": "var(--wp--preset--border-radius--l)"
+                }
+            },
+            "spacing": {
+                "padding": {
+                "top": "var(--wp--preset--spacing--1)",
+                "bottom": "var(--wp--preset--spacing--1)",
+                "left": "var(--wp--preset--spacing--2)",
+                "right": "var(--wp--preset--spacing--2)"
+                }
+            },
+            "typography": {
+                "lineHeight": "1.25",
+                "fontWeight" :"700"
+            }
             }
         }
     }

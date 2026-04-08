@@ -3,11 +3,17 @@
 .nowrap{
     white-space: nowrap;
 }
-:where(.wp-site-blocks) > * {
-    margin-block-start: 0 !important;
-    margin-block-end: 0 !important;
+ :where(.wp-site-blocks) > * {
+     margin-block-start: 0 !important;
+     margin-block-end: 0 !important;
+ }
+header.fixed{
+    position: fixed;
+    top: 2.5rem;
+    left: 0;
+    right: 0;
+    z-index: 1000;
 }
-
 .only-desktop{
     @include m($breakpoint-mobitab){
         display: none !important;
@@ -22,4 +28,7 @@
     @include p($breakpoint-mobitab){
         display: none !important;
     }
+}
+.overflow-visible{
+    overflow: visible !important;
 }

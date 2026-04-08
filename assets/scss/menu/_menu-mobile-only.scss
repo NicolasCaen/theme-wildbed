@@ -1,4 +1,26 @@
 /* Menu mobile (burger actif) */
 .wp-block-navigation.is-responsive .wp-block-navigation__responsive-container-open {
   /* styles mobile */
+
+}
+
+
+.has-modal-open{
+
+  .wp-block-navigation__responsive-container-content{
+     // background :red !important;
+  }
+  .wp-block-navigation__container {
+    width: 100% !important;
+    padding: 0 min(7.5rem, 5vw);
+    >li{
+      
+      grid-column: 2;
+    }
+  }
+}
+
+.v-card{
+  background:transparent !important;
+  font-family: inherit !important;
 }

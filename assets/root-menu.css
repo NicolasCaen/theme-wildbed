@@ -1,0 +1,38 @@
+/** changement du breakpoint du menu */
+@media (max-width: 1200px) {
+  .wp-block-navigation__responsive-container-open:not(.always-shown) {
+    display: flex;
+  }
+}
+@media (max-width: 1200px) {
+  .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+    bottom: 0;
+    display: none;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+  }
+}
+/* Menu desktop (non burger) */
+.wp-block-navigation:not(.is-responsive) .wp-block-navigation__responsive-container {
+  /* styles desktop */
+}
+
+/* Menu mobile (burger actif) */
+.wp-block-navigation.is-responsive .wp-block-navigation__responsive-container-open {
+  /* styles mobile */
+}
+
+.has-modal-open .wp-block-navigation__container {
+  width: 100% !important;
+  padding: 0 min(7.5rem, 5vw);
+}
+.has-modal-open .wp-block-navigation__container > li {
+  grid-column: 2;
+}
+
+.v-card {
+  background: transparent !important;
+  font-family: inherit !important;
+}
