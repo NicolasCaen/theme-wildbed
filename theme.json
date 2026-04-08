@@ -383,132 +383,140 @@
             ]
         },
         "spacing": {
+
             "spacingSizes": [
-                 {
-                    "slug": "1-2",
-                    "name": ".25rem|4",
+                {
+                    "slug": "4",
+                    "name": "0.25rem (4px)",
                     "size": ".25rem"
                 },
                 {
-                    "slug": "1",
-                    "name": ".5rem|8",
+                    "slug": "8",
+                    "name": "0.5rem (8px)",
                     "size": ".5rem"
                 },
                 {
-                    "slug": "1-5",
-                    "name": ".75rem|12",
+                    "slug": "12",
+                    "name": "0.75rem (12px)",
                     "size": ".75rem"
                 },
                 {
-                    "slug": "2",
-                    "name": "1rem|16",
+                    "slug": "16",
+                    "name": "1rem (16px)",
                     "size": "1rem"
                 },
+
                 {
-                    "slug": "3",
-                    "name": "1.5rem|24",
+                    "slug": "24",
+                    "name": "1.5rem (24px)",
                     "size": "1.5rem"
                 },
                 {
-                    "slug": "4",
-                    "name": "2rem|32",
+                    "slug": "32",
+                    "name": "2rem (32px)",
                     "size": "2rem"
                 },
                 {
-                    "slug": "5",
-                    "name": "2.5rem|40",
+                    "slug": "32-40",
+                    "name": "2rem (32px) → 2.5rem (40px)",
                     "size": "clamp(2rem, 1.7222rem + 0.8889vw, 2.5rem)"
                 },
+               {
+                    "slug": "32-80",
+                    "name": "2rem (32px) → 5rem (80px)",
+                    "size": "clamp(2rem, 0.3333rem + 5.3333vw, 5rem)"
+                },
                 {
-                    "slug": "6",
-                    "name": "3rem|48",
+                    "slug": "32-48",
+                    "name": "2rem (32px) → 3rem (48px)",
                     "size": "clamp(2rem, 1.4444rem + 1.7778vw, 3rem)"
                 },
                 {
-                    "slug": "7",
-                    "name": "4.5rem|72",
+                    "slug": "32-72",
+                    "name": "2rem (32px) → 4.5rem (72px)",
                     "size": "clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)"
                 },
                 {
-                    "slug": "8",
-                    "name": "7.5rem|120",
+                    "slug": "56-120",
+                    "name": "3.5rem (56px) → 7.5rem (120px)",
                     "size": "clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)"
                 },
                 {
-                    "slug": "9",
-                    "name": "10rem|160",
+                    "slug": "56-160",
+                    "name": "3.5rem (56px) → 10rem (160px)",
                     "size": "clamp(3.5rem, -0.1111rem + 11.5556vw, 10rem)"
                 },
                 {
-                    "slug": "10",
-                    "name": "12.5rem|200",
+                    "slug": "56-200",
+                    "name": "3.5rem (56px) → 12.5rem (200px)",
                     "size": "clamp(3.5rem, -1.5rem + 16vw, 12.5rem)"
                 },
                 {
                     "slug": "headerheight",
-                    "name": "header height",
+                    "name": "Header Height",
                     "size": "var(--header-height)"
-                },
-                                 {
-                    "slug": "h-1-2",
-                    "name": "H|.25rem|4",
-                    "size": ".25rem"
-                },
-                {
-                    "slug": "h-1",
-                    "name": "H|.5rem|8",
-                    "size": ".5rem"
-                },
-                {
-                    "slug": "h-1-5",
-                    "name": "H|.75rem|12",
-                    "size": ".75rem"
-                },
-                {
-                    "slug": "h-2",
-                    "name": "H|1rem|16",
-                    "size": "1rem"
-                },
-                {
-                    "slug": "h-3",
-                    "name": "H|1.5rem|24",
-                    "size": "1.5rem"
                 },
                 {
                     "slug": "h-4",
-                    "name": "H|2rem|32",
-                    "size": "2rem"
-                },
-                {
-                    "slug": "h-5",
-                    "name": "H|2.5rem|40",
-                    "size": "clamp(1rem, 0.1667rem + 2.6667vw, 2.5rem)"
-                },
-                {
-                    "slug": "h-6",
-                    "name": "H|3rem|48",
-                    "size": "clamp(1rem, -0.1111rem + 3.5556vw, 3rem)"
-                },
-                {
-                    "slug": "h-7",
-                    "name": "H|4.5rem|72",
-                    "size": "clamp(1rem, -0.9444rem + 6.2222vw, 4.5rem)"
+                    "name": "H | 0.25rem (4px)",
+                    "size": ".25rem"
                 },
                 {
                     "slug": "h-8",
-                    "name": "H|7.5rem|120",
+                    "name": "H | 0.5rem (8px)",
+                    "size": ".5rem"
+                },
+                {
+                    "slug": "h-12",
+                    "name": "H | 0.75rem (12px)",
+                    "size": ".75rem"
+                },
+                {
+                    "slug": "h-16",
+                    "name": "H | 1rem (16px)",
+                    "size": "1rem"
+                },
+                {
+                    "slug": "h-24",
+                    "name": "H | 1.5rem (24px)",
+                    "size": "1.5rem"
+                },
+                {
+                    "slug": "h-32",
+                    "name": "H | 2rem (32px)",
+                    "size": "2rem"
+                },
+                {
+                    "slug": "h-16-40",
+                    "name": "H | 1rem (16px) → 2.5rem (40px)",
+                    "size": "clamp(1rem, 0.1667rem + 2.6667vw, 2.5rem)"
+                },
+                {
+                    "slug": "h-16-48",
+                    "name": "H | 1rem (16px) → 3rem (48px)",
+                    "size": "clamp(1rem, -0.1111rem + 3.5556vw, 3rem)"
+                },
+                {
+                    "slug": "h-16-72",
+                    "name": "H | 1rem (16px) → 4.5rem (72px)",
+                    "size": "clamp(1rem, -0.9444rem + 6.2222vw, 4.5rem)"
+                },
+                {
+                    "slug": "h-16-120",
+                    "name": "H | 1rem (16px) → 7.5rem (120px)",
                     "size": "clamp(1rem, -2.6111rem + 11.5556vw, 7.5rem)"
                 },
                 {
-                    "slug": "h-9",
-                    "name": "H|10rem|160",
+                    "slug": "h-16-160",
+                    "name": "H | 1rem (16px) → 10rem (160px)",
                     "size": "clamp(1rem, -4rem + 16vw, 10rem)"
                 },
                 {
-                    "slug": "h-10",
-                    "name": "H|12.5rem|200",
+                    "slug": "h-16-200",
+                    "name": "H | 1rem (16px) → 12.5rem (200px)",
                     "size": "clamp(1rem, -5.3889rem + 20.4444vw, 12.5rem)"
                 }
+
             ],
             "defaultSpacingSizes": false,
             "units": [
@@ -597,11 +605,11 @@
             },
             "core/image":{
                 "border": {
-                    "radius": "var(--wp--preset--border-radius--l)"
+                    "radius": "var(--wp--preset--border-radius--s)"
                 }
             },
             "core/media-text":{
-                "css":"& img{border-radius:var(--wp--preset--border-radius--l}"
+                "css":"& img{border-radius:var(--wp--preset--border-radius--s)}"
     
             },
             "core/button": {
@@ -620,10 +628,10 @@
             },
             "spacing": {
                 "padding": {
-                "top": "var(--wp--preset--spacing--1)",
-                "bottom": "var(--wp--preset--spacing--1)",
-                "left": "var(--wp--preset--spacing--2)",
-                "right": "var(--wp--preset--spacing--2)"
+                "top": "var(--wp--preset--spacing--8)",
+                "bottom": "var(--wp--preset--spacing--8)",
+                "left": "var(--wp--preset--spacing--16)",
+                "right": "var(--wp--preset--spacing--16)"
                 }
             },
             "typography": {

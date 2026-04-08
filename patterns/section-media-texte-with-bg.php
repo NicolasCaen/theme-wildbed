@@ -13,8 +13,8 @@
 <h2 class="wp-block-heading is-style-one-row-grid is-style-panneau">Le concept Wild Bed</h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","className":"no-padding-content","style":{"spacing":{"padding":{"right":"var:preset|spacing|clamp-4-5","left":"var:preset|spacing|clamp-4-5","top":"var:preset|spacing|clamp-4-5","bottom":"var:preset|spacing|clamp-4-5"}}}} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile no-padding-content" style="padding-top:var(--wp--preset--spacing--clamp-4-5);padding-right:var(--wp--preset--spacing--clamp-4-5);padding-bottom:var(--wp--preset--spacing--clamp-4-5);padding-left:var(--wp--preset--spacing--clamp-4-5)"><div class="wp-block-media-text__content"><!-- wp:heading -->
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","className":"no-padding-content","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-72"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile no-padding-content" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-72);padding-left:var(--wp--preset--spacing--h-16-72)"><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2 class="wp-block-heading">Bienvenue au Camping Les Pâtis</h2>
 <!-- /wp:heading -->
 

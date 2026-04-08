@@ -1,8 +1,102 @@
-$max-steps: 120; 
+// Généré automatiquement depuis le theme.json
 
-@for $i from 1 through $max-steps {
-
-  .has-gap-#{$i}{
-    gap: calc(#{$i}rem / 16);
-  }
+.has-gap-4 {
+  gap: var(--wp--preset--spacing--4);
 }
+
+.has-gap-8 {
+  gap: var(--wp--preset--spacing--8);
+}
+
+.has-gap-12 {
+  gap: var(--wp--preset--spacing--12);
+}
+
+.has-gap-16 {
+  gap: var(--wp--preset--spacing--16);
+}
+
+.has-gap-24 {
+  gap: var(--wp--preset--spacing--24);
+}
+
+.has-gap-32 {
+  gap: var(--wp--preset--spacing--32);
+}
+
+.has-gap-32-40 {
+  gap: var(--wp--preset--spacing--32-40);
+}
+
+.has-gap-32-48 {
+  gap: var(--wp--preset--spacing--32-48);
+}
+
+.has-gap-32-72 {
+  gap: var(--wp--preset--spacing--32-72);
+}
+
+.has-gap-56-120 {
+  gap: var(--wp--preset--spacing--56-120);
+}
+
+.has-gap-56-160 {
+  gap: var(--wp--preset--spacing--56-160);
+}
+
+.has-gap-56-200 {
+  gap: var(--wp--preset--spacing--56-200);
+}
+
+.has-gap-headerheight {
+  gap: var(--wp--preset--spacing--headerheight);
+}
+
+.has-gap-h-4 {
+  gap: var(--wp--preset--spacing--h-4);
+}
+
+.has-gap-h-8 {
+  gap: var(--wp--preset--spacing--h-8);
+}
+
+.has-gap-h-12 {
+  gap: var(--wp--preset--spacing--h-12);
+}
+
+.has-gap-h-16 {
+  gap: var(--wp--preset--spacing--h-16);
+}
+
+.has-gap-h-24 {
+  gap: var(--wp--preset--spacing--h-24);
+}
+
+.has-gap-h-32 {
+  gap: var(--wp--preset--spacing--h-32);
+}
+
+.has-gap-h-16-40 {
+  gap: var(--wp--preset--spacing--h-16-40);
+}
+
+.has-gap-h-16-48 {
+  gap: var(--wp--preset--spacing--h-16-48);
+}
+
+.has-gap-h-16-72 {
+  gap: var(--wp--preset--spacing--h-16-72);
+}
+
+.has-gap-h-16-120 {
+  gap: var(--wp--preset--spacing--h-16-120);
+}
+
+.has-gap-h-16-160 {
+  gap: var(--wp--preset--spacing--h-16-160);
+}
+
+.has-gap-h-16-200 {
+  gap: var(--wp--preset--spacing--h-16-200);
+}
+

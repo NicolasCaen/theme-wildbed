@@ -9,12 +9,13 @@
 ?>
 <!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg-3","layout":{"type":"default"}} -->
 <div class="wp-block-group alignfull section-media-texte-with-bg-3"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg-3__wrapper align-ultrawide","backgroundColor":"base-4","layout":{"type":"constrained"}} -->
-<div class="wp-block-group section-media-texte-with-bg-3__wrapper align-ultrawide has-base-4-background-color has-background"><!-- wp:heading {"className":"is-style-one-row-grid is-style-panneau"} -->
-<h2 class="wp-block-heading is-style-one-row-grid is-style-panneau">Le Food Truck</h2>
+<div class="wp-block-group section-media-texte-with-bg-3__wrapper align-ultrawide has-base-4-background-color has-background"><!-- wp:heading {"className":"is-style-one-row-grid is-style-panneau","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-40","left":"var:preset|spacing|h-16-40"}}}} -->
+<h2 class="wp-block-heading is-style-one-row-grid is-style-panneau" style="padding-right:var(--wp--preset--spacing--h-16-40);padding-left:var(--wp--preset--spacing--h-16-40)">Le Food Truck</h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","className":"no-padding-content","style":{"spacing":{"padding":{"right":"var:preset|spacing|clamp-4-5","left":"var:preset|spacing|clamp-4-5","top":"var:preset|spacing|clamp-4-5","bottom":"var:preset|spacing|clamp-4-5"}}}} -->
-<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile no-padding-content" style="padding-top:var(--wp--preset--spacing--clamp-4-5);padding-right:var(--wp--preset--spacing--clamp-4-5);padding-bottom:var(--wp--preset--spacing--clamp-4-5);padding-left:var(--wp--preset--spacing--clamp-4-5)"><div class="wp-block-media-text__content"><!-- wp:heading -->
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","imageFill":true,"className":"no-padding-content has-gap-h-16-72","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-40"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill-element no-padding-content has-gap-h-16-72" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-40);padding-left:var(--wp--preset--spacing--h-16-72)"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|h-16-72","bottom":"var:preset|spacing|h-16-72"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--h-16-72)"><!-- wp:heading -->
 <h2 class="wp-block-heading">Notre cuisine, nos producteurs, votre plaisir</h2>
 <!-- /wp:heading -->
 
@@ -32,19 +33,19 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|1-5","bottom":"var:preset|spacing|1-5","left":"var:preset|spacing|2","right":"var:preset|spacing|2"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--1-5);padding-right:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--1-5);padding-left:var(--wp--preset--spacing--2)"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|8"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph -->
 <p><strong>Avril, mai, juin &amp; septembre</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right">Ven,Sam,Dim</p>
+<p class="has-text-align-right">Ven, Sam, Dim</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|1-5","bottom":"var:preset|spacing|1-5","left":"var:preset|spacing|2","right":"var:preset|spacing|2"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--1-5);padding-right:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--1-5);padding-left:var(--wp--preset--spacing--2)"><!-- wp:paragraph {"style":{"layout":{"columnSpan":1,"rowSpan":1}}} -->
+<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph -->
 <p><strong>Sur demande (autres soirs)</strong></p>
 <!-- /wp:paragraph -->
 
@@ -53,8 +54,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|1-5","bottom":"var:preset|spacing|1-5","left":"var:preset|spacing|2","right":"var:preset|spacing|2"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--1-5);padding-right:var(--wp--preset--spacing--2);padding-bottom:var(--wp--preset--spacing--1-5);padding-left:var(--wp--preset--spacing--2)"><!-- wp:paragraph {"style":{"layout":{"columnSpan":1,"rowSpan":1}}} -->
+<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph -->
 <p><strong>Juillet &amp; août</strong></p>
 <!-- /wp:paragraph -->
 
@@ -62,7 +63,8 @@
 <p class="has-text-align-right">7j/7 . 16h-21h30</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full" style="object-position:50% 50%"/></figure></div>
 <!-- /wp:media-text --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
