@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[6]]></id>
+  <slug><![CDATA[accueil]]></slug>
+  <type><![CDATA[page]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-12 16:30:56]]></date>
+  <date_gmt><![CDATA[2026-03-12 16:30:56]]></date_gmt>
+  <title><![CDATA[Accueil]]></title>
+  <content><![CDATA[<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/03/Ellipse-47-1024x485.jpg","id":256,"alt":"Vue du camping les patis","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"large","align":"full","className":"is-style-default  overflow-visible","style":{"spacing":{"padding":{"top":"var:preset|spacing|5","bottom":"var:preset|spacing|5"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center is-style-default overflow-visible" style="padding-top:var(--wp--preset--spacing--5);padding-bottom:var(--wp--preset--spacing--5);min-height:100vh"><img class="wp-block-cover__image-background wp-image-256 size-large" alt="Vue du camping les patis" src="https://wildbed.local/wp-content/uploads/2026/03/Ellipse-47-1024x485.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"840px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">Camping les Pâtis</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Séjournez dans un camping à Amboise, au cœur des Châteaux de la Loire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:shortcode -->
+[ctv_search]
+<!-- /wp:shortcode --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-wide__wrapper align-ultrawide","layout":{"type":"constrained","contentSize":"754px"}} -->
+<div class="wp-block-group section-wide__wrapper align-ultrawide"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Séjournez au plus près de la nature, explorez la faune et le patrimoine du Val de Loire</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Le Camping les Pâtis, est un camping 3 étoiles à taille humaine situé à 3 km d’Amboise.  Un cadre naturel idéal pour découvrir les châteaux de la Loire, observer la faune locale et profiter d’un séjour ressourçant en Touraine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">En savoir plus</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Section Full"},"align":"full","className":"section-full is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-full is-style-style-2" style="padding-top:var(--wp--preset--spacing--7);padding-bottom:var(--wp--preset--spacing--7)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-full__wrapper align-ultrawide","layout":{"type":"default"}} -->
+<div class="wp-block-group section-full__wrapper align-ultrawide"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Nos hébergements pour un séjour unique</h2>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[ctv_product_list type="accommodation"]
+<!-- /wp:shortcode -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wildbed.local/?page_id=254">Découvrir nos hébergements</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|8","metadata":{"name":"Espacement 7.5 | 120px","categories":["layout"],"patternName":"ng1-base/spacer-8"},"className":"is-style-spacer-8"} -->
+<div style="height:var(--wp--preset--spacing--8)" aria-hidden="true" class="wp-block-spacer is-style-spacer-8"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide section-wide__wrapper"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Vivez l’Aventure Wild Bed</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","fontFamily":"first"} -->
+<p class="has-text-align-center has-first-font-family">Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-heritage-1.svg" alt="" class="wp-image-138"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Séjournez au cœur des châteaux de la Loire et plongez dans l’histoire.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-4","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group is-style-style-4" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-nature-1.svg" alt="" class="wp-image-139"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Explorez la Loire à vélo et laissez-vous surprendre par des paysages préservés.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-animal-1.svg" alt="" class="wp-image-137"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Observez la faune au plus près, du zoo de Beauval aux fermes pédagogiques.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Découvir l'aventure Wild Bed</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
+<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
+<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide section-wide__wrapper"><!-- wp:heading -->
+<h2 class="wp-block-heading">Pourquoi choisir le Camping Les Pâtis ?</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Section | not mobile"},"align":"full","className":"section-wide section-wide\u002d\u002dnot-mobile","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide section-wide--not-mobile"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper is-style-style-4","style":{"spacing":{"padding":{"right":"var:preset|spacing|clamp-7-5","left":"var:preset|spacing|clamp-7-5","bottom":"var:preset|spacing|7","top":"5.25rem"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide section-wide__wrapper is-style-style-4 has-base-2-background-color has-background" style="padding-top:5.25rem;padding-right:var(--wp--preset--spacing--clamp-7-5);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--clamp-7-5)"><!-- wp:heading {"textAlign":"center","className":"is-style-panneau"} -->
+<h2 class="wp-block-heading has-text-align-center is-style-panneau">Quoi de nouveau ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":133,"mediaLink":"https://wildbed.local/accueil/picsum-id-39/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Contenu…"} -->
+<p>Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/image.jpeg" alt="" class="wp-image-133 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-1"><!-- wp:heading -->
+<h2 class="wp-block-heading">TITRE H2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat <a href="https://wildbed.local/" data-type="page" data-id="32-48">non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2"><!-- wp:heading -->
+<h2 class="wp-block-heading">TITRE H2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat <a href="https://wildbed.local/" data-type="page" data-id="32-48">non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2"><!-- wp:paragraph -->
+<p>TEST</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>TEST</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">TITRE H2</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-20 15:42:55]]></modified>
+  <media>
+    <file type="content" original_id="138">
+      <filename><![CDATA[2026/03/wildbed-heritage-1.svg]]></filename>
+      <title><![CDATA[wildbed heritage 1]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/svg+xml]]></mime>
+    </file>
+    <file type="content" original_id="139">
+      <filename><![CDATA[2026/03/wildbed-nature-1.svg]]></filename>
+      <title><![CDATA[wildbed nature 1]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/svg+xml]]></mime>
+    </file>
+    <file type="content" original_id="137">
+      <filename><![CDATA[2026/03/wildbed-animal-1.svg]]></filename>
+      <title><![CDATA[wildbed animal 1]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/svg+xml]]></mime>
+    </file>
+    <file type="content" original_id="133">
+      <filename><![CDATA[2026/03/image.jpeg]]></filename>
+      <title><![CDATA[Picsum ID: 39]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_edit_lock"><![CDATA[1776699774:1]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_uplg_file_name"><![CDATA[accueil]]></key>
+    <key name="blah"><![CDATA[]]></key>
+  </meta>
+  <taxonomies/>
+</content>

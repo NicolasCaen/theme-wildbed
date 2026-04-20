@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "3cols",
+    "title": "3 colonnes",
+    "blockTypes": [
+        "core/list"
+    ],
+    "styles": {
+        "css": "column-count:3;column-gap:2rem; & li{margin-bottom:.75rem;}"
+    }
+}

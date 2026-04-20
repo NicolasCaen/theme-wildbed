@@ -1,0 +1,12 @@
+@use "../mixins" as *;
+
+.wp-block-query {
+    > .columns-3{
+        @include b(500,1200) {
+         
+            grid-template-columns: repeat(2, 1fr) !important;
+            gap: 1.5rem;
+        }
+        
+    }
+}

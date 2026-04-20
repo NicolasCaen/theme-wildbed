@@ -1,3 +1,5 @@
 <?php
 // ICI : Les taconomies du site
-// include_once 'category.php';
+include_once __DIR__ . '/wildbed.php';
+ include_once __DIR__ . '/type.php';
+ include_once __DIR__ . '/distance.php';

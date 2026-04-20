@@ -1,0 +1,9 @@
+.section-bento-contact__aside{
+ flex: 0 0 clamp(36%, (740px - 100vw) * 1000, 100%);
+ min-width: 300px;
+}
+
+.section-bento-contact__content{
+ flex:1;
+	min-width:300px;
+}

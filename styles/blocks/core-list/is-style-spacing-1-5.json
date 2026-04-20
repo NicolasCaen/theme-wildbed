@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "spacing-1-5",
+    "title": "espacement 24px",
+    "blockTypes": [
+        "core/list"
+    ],
+    "styles": {
+        "css": " & li{margin-bottom:var(--wp--preset--spacing--24);}"
+    }
+}

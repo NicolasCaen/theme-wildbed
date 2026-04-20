@@ -1,0 +1,40 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "panneau",
+    "title": "Panneau",
+    "blockTypes": [
+        "core/paragraph",
+        "core/heading",
+        "core/post-terms"
+    ],
+    "styles": {
+        "css": "width:fit-content; margin:0 auto;text-wrap :no-wrap",
+        "color": {
+            "background": "var(--wp--preset--color--contrast)",
+            "text":"var(--wp--preset--color--accent-2)"
+        },
+        "border":{
+            "radius" :".5rem"
+        },
+        "spacing": {
+            "padding": {
+                "top": ".75rem",
+                 "bottom": ".75rem",
+                  "right": "var(--wp--preset--spacing--h-24)",
+                   "left": "var(--wp--preset--spacing--h-24)"
+            },
+            "margin":{
+                     "top": "0",
+                 "bottom": "0",
+                  "right": "auto",
+                   "left": "auto"
+            }  
+        },
+        "typography": {
+            "fontSize" : "44px",
+            "lineHeight" :"1.25"
+        }
+
+    }
+}

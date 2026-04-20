@@ -1,18 +1,23 @@
 $aspect-ratios: (
-  "1-1":   "1" ,
-  "4-3":   "4 / 3",
-  "3-2":   "3 / 2",
-  "16-9":  "16 / 9",
-  "21-9":  "21 / 9",
-  "9-16":  "9 / 16",
-  "2-3":   "2 / 3",
-  "3-4":   "3 / 4"
+  "1-1":  1,
+  "4-3":  4 / 3,
+  "3-2":  3 / 2,
+  "16-9": 16 / 9,
+  "21-9": 21 / 9,
+  "9-16": 9 / 16,
+  "2-3":  2 / 3,
+  "3-4":  3 / 4,
+  "2-1":  2 / 1,
+  "1-2":  1 / 2
 );
 
-// Génération des classes .aspect-{clé}
 @each $name, $ratio in $aspect-ratios {
   .has-aspect-ratio-#{$name} {
-    aspect-ratio: $ratio;
+    aspect-ratio: #{$ratio} !important;
+        img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
   }
-
 }

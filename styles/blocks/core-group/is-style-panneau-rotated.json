@@ -1,0 +1,49 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "panneau-rotated",
+    "title": "Panneau (rotated)",
+    "blockTypes": [
+        "core/paragraph",
+        "core/heading",
+        "core/post-terms",
+        "core/query-title"
+    ],
+    "styles": {
+        "css": "width:fit-content; margin:0 auto;text-wrap :no-wrap; transform:rotate(-3.315deg)",
+        "color": {
+            "background": "var(--wp--preset--color--contrast)",
+            "text":"var(--wp--preset--color--accent-2)"
+        },
+        "border":{
+            "radius" :".5rem"
+        },
+        "spacing": {
+            "padding": {
+                "top": ".75rem",
+                 "bottom": ".75rem",
+                  "right": "var(--wp--preset--spacing--h-24)",
+                   "left": "var(--wp--preset--spacing--h-24)"
+            },
+            "margin":{
+                     "top": "0",
+                 "bottom": "0",
+                  "right": "auto",
+                   "left": "auto"
+            }  
+        },
+        "typography": {
+             "fontFamily": "var(--wp--preset--font-family--second)",
+            "fontSize" : "1.5rem",
+            "lineHeight" :"1.25"
+        },
+        "elements": {
+            "link": {
+                "color": {
+                    "text": "inherit"
+                }
+            }
+        }
+
+    }
+}

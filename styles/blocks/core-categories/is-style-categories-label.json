@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "categories-label",
+    "title": "Labels",
+    "blockTypes": [
+        "core/categories"
+    ],
+    "styles": {
+        "css": "gap:10px; margin:0 auto;display:flex; flex-wrap:wrap; justify-content:center;list-style-type:none; & li>a{font-weight:700;display:inline-block;width:fit-content; margin:0 auto;text-wrap:no-wrap;padding:.5rem 1rem; background:var(--wp--preset--color--base);color:var(--wp--preset--color--base-3);border-radius:5rem;transition:all .4s ease-in-out;}& li>a:hover, & li.current-cat > a{background:var(--wp--preset--color--contrast); color:var(--wp--preset--color--accent-2)}"
+   
+    
+
+    }
+}

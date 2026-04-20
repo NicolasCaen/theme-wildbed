@@ -1,0 +1,16 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "rounded",
+    "title": "Arrondie",
+    "blockTypes": [
+        "core/image"
+    ],
+    "styles": {
+        "css": "& img { aspect-ratio: 1/1 !important; width:130px; height:130px; object-fit:cover; }",
+        "border": {
+            "radius": "50%"
+        }
+    }
+    
+}

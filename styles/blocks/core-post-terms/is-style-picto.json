@@ -1,0 +1,29 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "picto",
+    "title": "Picto",
+    "blockTypes": [
+        "core/post-terms"
+    ],
+    "styles": {
+        "elements": {
+            "link": {
+                "css" :"text-decoration:none;display:inline-flex; align-items:center; justify-content:center; height:2rem; width:2rem; padding:0; font-size:0; &::before{font-size:1rem;display:inline-block} &[href*='/animal/']::before{content:'🐘'}&[href*='/heritage/']::before{content:'🏛️'}&[href*='/nature/']::before{content:'🌿'&[href*='/explorer-amboise/']{display:none}",
+                "typography": {
+
+                    "fontSize": "0"
+                   
+                },
+             
+                      "color": {
+                    "background": "var(--wp--preset--color--contrast)",
+                    "text": "var(--wp--preset--color--base)"
+                },
+                "border": {
+                    "radius":"5rem"
+                }
+            }
+        }
+    }
+}

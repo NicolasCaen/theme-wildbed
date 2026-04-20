@@ -5,8 +5,8 @@
  * Block Types: core/group
  */
 ?>
-<!-- wp:media-text {"align":"","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","metadata":{"name":"Média \u0026 texte Reverse"},"className":"no-padding-content align-ultrawide section-media-texte section-media-texte\u002d\u002dreverse"} -->
-<div class="wp-block-media-text is-stacked-on-mobile no-padding-content align-ultrawide section-media-texte section-media-texte--reverse"><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","className":"no-padding-content align-ultrawide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile no-padding-content align-ultrawide" style="margin-top:0;margin-bottom:0"><div class="wp-block-media-text__content"><!-- wp:heading -->
 <h2 class="wp-block-heading">Bienvenue au Camping Les Pâtis</h2>
 <!-- /wp:heading -->
 
@@ -20,5 +20,5 @@
 
 <!-- wp:paragraph -->
 <p>Que vous arriviez à vélo sur la Loire à Vélo, en voiture pour un week-end en Touraine, ou en itinérance pour une grande traversée de la région, le Camping Les Pâtis vous offre un point de chute chaleureux, bien équipé et fièrement ancré dans son territoire. Bienvenue chez nous.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
 <!-- /wp:media-text -->

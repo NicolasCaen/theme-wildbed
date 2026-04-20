@@ -13,8 +13,16 @@
 
 ?>
 <!-- wp:pattern {"slug":"ng1-base/section-banner-with-images"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-media-texte"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg-2"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-media-texte-reverse"} /-->
- <!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg-3"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
+  <!-- wp:pattern {"slug":"ng1-base/section-media-texte-reverse"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+  <!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg-2"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg-3"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->

@@ -14,9 +14,18 @@
 ?>
 
 <!-- wp:pattern {"slug":"ng1-base/section-banner-texte"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-information"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-offres-speciales"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-disponibilites"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-texte-ultrawide"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-2cols"} /-->
+  <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/section-labels"} /-->
+
+ <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-cta-bon-cadeau"} /-->

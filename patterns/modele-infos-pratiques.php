@@ -13,9 +13,18 @@
 
 ?>
 <!-- wp:pattern {"slug":"ng1-base/section-banner-texte"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-bento-2cols"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-bento-2cols"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-cta-bon-cadeau"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-texte-ultrawide"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-bento-3cols"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-bento-3cols"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-bento-2-2-1"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-list-ultrawide"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-bento-6-3-2"} /-->
+<!-- wp:pattern {"slug":"ng1-base/spacer-56-144"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-bento-3-33-66"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-144"} /-->
+  <!-- wp:pattern {"slug":"ng1-base/section-faq"} /-->
+   <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
+     <!-- wp:pattern {"slug":"ng1-base/section-bento-contact"} /-->
+      <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
+
+
