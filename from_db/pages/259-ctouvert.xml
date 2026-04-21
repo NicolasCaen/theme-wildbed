@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[259]]></id>
+  <slug><![CDATA[ctouvert]]></slug>
+  <type><![CDATA[page]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-17 13:01:40]]></date>
+  <date_gmt><![CDATA[2026-03-17 13:01:40]]></date_gmt>
+  <title><![CDATA[Ctouvert]]></title>
+  <content><![CDATA[<!-- wp:shortcode -->
+[ctv_search]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[ctv_availability]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[ctv_availability]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[ctv_availability]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[ctv_availability]
+<!-- /wp:shortcode -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
+  <media/>
+  <meta>
+    <key name="_edit_lock"><![CDATA[1773754527:1]]></key>
+  </meta>
+  <taxonomies/>
+</content>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[25]]></id>
+  <slug><![CDATA[section-sample]]></slug>
+  <type><![CDATA[page]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-13 09:43:24]]></date>
+  <date_gmt><![CDATA[2026-03-13 09:43:24]]></date_gmt>
+  <title><![CDATA[SEction sample]]></title>
+  <content><![CDATA[<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section","backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section has-base-background-color has-background"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"className":"section__wrapper","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section__wrapper"><!-- wp:paragraph -->
+<p>content</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
+  <media/>
+  <meta>
+    <key name="_edit_lock"><![CDATA[1773395092:1]]></key>
+    <key name="_wp_page_template"><![CDATA[sections-sample]]></key>
+  </meta>
+  <taxonomies/>
+</content>
