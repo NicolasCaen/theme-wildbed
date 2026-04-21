@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[5]]></id>
+  <slug><![CDATA[navigation]]></slug>
+  <type><![CDATA[wp_navigation]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-12 16:28:34]]></date>
+  <date_gmt><![CDATA[2026-03-12 16:28:34]]></date_gmt>
+  <title><![CDATA[Menu principal]]></title>
+  <content><![CDATA[<!-- wp:navigation-link {"label":"Accueil","type":"page","id":6,"url":"https://wildbed.local/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Le Camping","type":"page","id":94,"url":"https://wildbed.local/camping/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Hébergements","type":"page","id":254,"url":"https://wildbed.local/hebergements/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"L’aventure Wild Bed","type":"page","url":"https://wildbed.local/aventures/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Tarifs \u0026amp; Offres","type":"page","id":96,"url":"https://wildbed.local/tarifs-offres/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Infos pratiques","type":"page","id":97,"url":"https://wildbed.local/infos-pratiques/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:35:25]]></modified>
+  <media/>
+  <meta/>
+  <taxonomies/>
+</content>
