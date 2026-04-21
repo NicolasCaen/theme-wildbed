@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[201]]></id>
+  <slug><![CDATA[menu-3]]></slug>
+  <type><![CDATA[wp_navigation]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-17 08:56:37]]></date>
+  <date_gmt><![CDATA[2026-03-17 08:56:37]]></date_gmt>
+  <title><![CDATA[Footer]]></title>
+  <content><![CDATA[<!-- wp:navigation-link {"label":"Accueil","type":"page","id":6,"url":"https://wildbed.local/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Camping","type":"page","id":94,"url":"https://wildbed.local/camping/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"L'expérience Wild Bed","type":"page","id":202,"url":"https://wildbed.local/experience-wild-bed/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Tarifs \u0026amp; Offres","type":"page","id":96,"url":"https://wildbed.local/tarifs-offres/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-link {"label":"Infos pratiques","type":"page","id":97,"url":"https://wildbed.local/infos-pratiques/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:41:56]]></modified>
+  <media/>
+  <meta/>
+  <taxonomies/>
+</content>
