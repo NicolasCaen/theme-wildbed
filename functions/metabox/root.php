@@ -16,7 +16,6 @@ if (file_exists(__DIR__ . '/class-ugm-metabox.php')) {
 
 // Inclure les metaboxes
 include_once __DIR__ . '/inc/mtawildbed_0.php';
-include_once __DIR__ . '/inc/metatest_1.php';
 
 add_action('admin_enqueue_scripts', function($hook) {
     $allowed = array('post.php', 'post-new.php', 'edit-tags.php', 'term.php');
