@@ -11,3 +11,8 @@ function wildbed_editor_styles_setup() {
   add_editor_style('editor.css');
 }
 add_action('after_setup_theme', 'wildbed_editor_styles_setup');
+
+function enqueue_menu_toggle_svg() {
+  wp_enqueue_script('menu-toggle-custom', get_stylesheet_directory_uri() . '/assets/js/menu-toggle-custom.js', [], '', true);
+}
+add_action('wp_enqueue_scripts', 'enqueue_menu_toggle_svg');

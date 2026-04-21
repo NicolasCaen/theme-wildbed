@@ -9,7 +9,17 @@
   <title><![CDATA[Menu principal]]></title>
   <content><![CDATA[<!-- wp:navigation-link {"label":"Accueil","type":"page","id":6,"url":"https://wildbed.local/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
 
-<!-- wp:navigation-link {"label":"Le Camping","type":"page","id":94,"url":"https://wildbed.local/camping/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-submenu {"label":"Le Camping","type":"page","id":94,"url":"https://wildbed.local/camping/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} -->
+<!-- wp:navigation-link {"label":"Les Pâtis","type":"page","url":"/camping#les-patis","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Le concept","type":"page","url":"/camping#concept","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"L'insolite","type":"page","url":"/camping#insolite","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Amboise","type":"page","url":"/camping#amboise","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Foodtruck","type":"page","url":"/camping#foodtruck","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"Hébergements","type":"page","id":254,"url":"https://wildbed.local/hebergements/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
 
@@ -19,7 +29,7 @@
 
 <!-- wp:navigation-link {"label":"Infos pratiques","type":"page","id":97,"url":"https://wildbed.local/infos-pratiques/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 07:35:25]]></modified>
+  <modified><![CDATA[2026-04-21 11:54:59]]></modified>
   <media/>
   <meta/>
   <taxonomies/>

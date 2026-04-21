@@ -770,9 +770,73 @@ select {
     top: 0;
   }
 }
+.wp-block-navigation-submenu .wp-block-navigation__submenu-icon svg {
+  stroke: none !important;
+  position: relative;
+  z-index: 10;
+  margin-left: 0.5rem;
+}
+
 /* Menu desktop (non burger) */
 .wp-block-navigation:not(.is-responsive) .wp-block-navigation__responsive-container {
   /* styles desktop */
+}
+
+.wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
+.wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,
+.wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container {
+  --parent-width: 106px;
+  background: var(--wp--preset--color--base);
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  min-width: auto !important;
+  white-space: nowrap;
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  width: auto;
+  min-width: var(--parent-width) !important;
+}
+.wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container:before,
+.wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container:before,
+.wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2rem;
+  transform: translateY(-100%);
+  background: var(--wp--preset--color--base);
+  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+}
+
+.wp-block-navigation-item.has-child:hover {
+  background: white;
+}
+.wp-block-navigation-item.has-child:hover > .wp-block-navigation-item__content {
+  position: relative;
+  z-index: 100;
+  padding: 0 !important;
+}
+.wp-block-navigation-item.has-child:hover::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container {
+  border: none;
+}
+
+.wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
+  padding: 6px 0 !important;
 }
 
 /* Menu mobile (burger actif) */
