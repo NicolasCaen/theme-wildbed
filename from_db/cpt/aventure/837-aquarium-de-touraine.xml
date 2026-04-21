@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[837]]></id>
+  <slug><![CDATA[aquarium-de-touraine]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:23]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:23]]></date_gmt>
+  <title><![CDATA[Aquarium de Touraine]]></title>
+  <content><![CDATA[Le Grand Aquarium de Touraine vous propose 10 salles thématiques aux décors originaux et surprenants et 60 bassins pour découvrir les poissons des eaux douces à l'océan.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="838">
+      <filename><![CDATA[2026/04/aquarium-touraine.png]]></filename>
+      <title><![CDATA[aquarium-touraine]]></title>
+      <alt><![CDATA[Aquarium de Touraine]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.grandaquariumdetouraine.com/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.grandaquariumdetouraine.com/]]></key>
+    <key name="_thumbnail_id"><![CDATA[838]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242113:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="animal"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="aquarium"/>
+    </taxonomy>
+  </taxonomies>
+</content>

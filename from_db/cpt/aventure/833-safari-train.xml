@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[833]]></id>
+  <slug><![CDATA[safari-train]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:18]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:18]]></date_gmt>
+  <title><![CDATA[Safari Train]]></title>
+  <content><![CDATA[Visitez le parc animalier en petit train. Idéal pour une sortie en famille. Cerfs, autruches, walabis, sangliers, ...]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="834">
+      <filename><![CDATA[2026/04/safari-train-de-beaumarchais-autreche-152709310834.jpg]]></filename>
+      <title><![CDATA[safari-train-de-beaumarchais-autreche-152709310834]]></title>
+      <alt><![CDATA[Safari Train]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.reserve-de-beaumarchais.com/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.reserve-de-beaumarchais.com/]]></key>
+    <key name="_thumbnail_id"><![CDATA[834]]></key>
+    <key name="_edit_lock"><![CDATA[1776242245:1]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="animal"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="zoo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

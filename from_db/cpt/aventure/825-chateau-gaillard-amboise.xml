@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[825]]></id>
+  <slug><![CDATA[chateau-gaillard-amboise]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:17]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:17]]></date_gmt>
+  <title><![CDATA[Château Gaillard (Amboise)]]></title>
+  <content><![CDATA[Découvrez "le plus italien des châteaux de la Loire", nouvellement restauré à Amboise. Parc, jardins, collection d'agrumes.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="826">
+      <filename><![CDATA[2026/04/chateau-gaillard.jpg]]></filename>
+      <title><![CDATA[chateau-gaillard]]></title>
+      <alt><![CDATA[Château Gaillard (Amboise)]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://chateau-gaillard-amboise.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://chateau-gaillard-amboise.fr/]]></key>
+    <key name="_thumbnail_id"><![CDATA[826]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="chateau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

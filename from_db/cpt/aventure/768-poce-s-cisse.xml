@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[768]]></id>
+  <slug><![CDATA[poce-s-cisse]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:05]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:05]]></date_gmt>
+  <title><![CDATA[Pocé s/ Cisse]]></title>
+  <content><![CDATA[Randonnées autour de Pocé s/Cisse]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media/>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.wildbed.fr/nos-aventures/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.wildbed.fr/nos-aventures/]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="randonnee"/>
+    </taxonomy>
+  </taxonomies>
+</content>

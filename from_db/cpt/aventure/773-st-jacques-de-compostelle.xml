@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[773]]></id>
+  <slug><![CDATA[st-jacques-de-compostelle]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:09]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:09]]></date_gmt>
+  <title><![CDATA[St Jacques de Compostelle]]></title>
+  <content><![CDATA[Chemin de Trèves]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="774">
+      <filename><![CDATA[2026/04/20200519_182052-scaled-1.jpg]]></filename>
+      <title><![CDATA[20200519_182052-scaled-1]]></title>
+      <alt><![CDATA[St Jacques de Compostelle]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.wildbed.fr/nos-aventures/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.wildbed.fr/nos-aventures/]]></key>
+    <key name="_thumbnail_id"><![CDATA[774]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="randonnee"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[831]]></id>
+  <slug><![CDATA[zoo-de-beauval]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:18]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:18]]></date_gmt>
+  <title><![CDATA[Zoo de Beauval]]></title>
+  <content><![CDATA[Classé parmi les 5 meilleurs zoos du monde, Le ZooParc de Beauval présente la plus grande diversité animalière de France.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="832">
+      <filename><![CDATA[2026/04/zoo.jpg]]></filename>
+      <title><![CDATA[zoo]]></title>
+      <alt><![CDATA[Zoo de Beauval]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.zoobeauval.com/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.zoobeauval.com/]]></key>
+    <key name="_thumbnail_id"><![CDATA[832]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242454:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="animal"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="zoo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

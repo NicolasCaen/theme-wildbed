@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[752]]></id>
+  <slug><![CDATA[locations-velos]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:26:51]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:26:51]]></date_gmt>
+  <title><![CDATA[Locations vélos]]></title>
+  <content><![CDATA[Sur place : VTC+ VAE disponibles. 
+Réservation possible pour d'autres vélos sur demande.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="753">
+      <filename><![CDATA[2026/04/Drapeau-5-velo.png]]></filename>
+      <title><![CDATA[Drapeau-5-velo]]></title>
+      <alt><![CDATA[Locations vélos]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[753]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242368:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="velo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

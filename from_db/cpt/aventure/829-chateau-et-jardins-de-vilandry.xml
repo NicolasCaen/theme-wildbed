@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[829]]></id>
+  <slug><![CDATA[chateau-et-jardins-de-vilandry]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:18]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:18]]></date_gmt>
+  <title><![CDATA[Château et jardins de Vilandry]]></title>
+  <content><![CDATA[Le château de Villandry est un ensemble entremêlant intimement architecture et jardins, situé à 15 km à l'ouest de Tours.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="830">
+      <filename><![CDATA[2026/04/chateau-villandry.jpg]]></filename>
+      <title><![CDATA[chateau-villandry]]></title>
+      <alt><![CDATA[Château et jardins de Vilandry]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.chateauvillandry.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.chateauvillandry.fr/]]></key>
+    <key name="_thumbnail_id"><![CDATA[830]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="chateau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

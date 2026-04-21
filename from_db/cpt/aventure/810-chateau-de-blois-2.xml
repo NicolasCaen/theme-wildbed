@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[810]]></id>
+  <slug><![CDATA[chateau-de-blois-2]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:15]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:15]]></date_gmt>
+  <title><![CDATA[Château de Blois]]></title>
+  <content><![CDATA[Le château royal de Blois, situé dans le département de Loir-et-Cher, fait partie des châteaux de la Loire. Il fut la résidence favorite des rois de France à la Renaissance.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="811">
+      <filename><![CDATA[2026/04/blois-1.jpg]]></filename>
+      <title><![CDATA[blois-1]]></title>
+      <alt><![CDATA[Château de Blois]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.chateaudeblois.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.chateaudeblois.fr/]]></key>
+    <key name="_thumbnail_id"><![CDATA[811]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="chateau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

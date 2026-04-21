@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[775]]></id>
+  <slug><![CDATA[pret-location]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:14]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:14]]></date_gmt>
+  <title><![CDATA[Prêt / Location]]></title>
+  <content><![CDATA[Demandez à l'accueil les coordonnées des loueurs de canoës pour de belles balades sus le Loire ou sur le Cher.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="776">
+      <filename><![CDATA[2026/04/canoe2.jpg]]></filename>
+      <title><![CDATA[canoe2]]></title>
+      <alt><![CDATA[Prêt / Location]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[776]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="eau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

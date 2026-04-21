@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[841]]></id>
+  <slug><![CDATA[slow-tourisme-voyagez-a-velo]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:24]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:24]]></date_gmt>
+  <title><![CDATA[Slow Tourisme - Voyagez à vélo]]></title>
+  <content><![CDATA[Offrez-vous un séjour tout compris : Hébergement en cabane bois, repas, petits-déjeuners, vélos électriques. Renseignements à la réception.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="842">
+      <filename><![CDATA[2026/04/slow-tourisme-2.jpg.png]]></filename>
+      <title><![CDATA[slow-tourisme-2.jpg]]></title>
+      <alt><![CDATA[Slow Tourisme - Voyagez à vélo]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[842]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242188:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="velo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[835]]></id>
+  <slug><![CDATA[zoo-de-la-haute-touche]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:23]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:23]]></date_gmt>
+  <title><![CDATA[Zoo de la Haute Touche]]></title>
+  <content><![CDATA[Plus de 1 300 animaux des 5 continents réunis dans un domaine forestier boisé de 436 hectares. Un parc zoologique du Muséum national d'Histoire naturelle]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="836">
+      <filename><![CDATA[2026/04/zoo-haute-touche.jpg]]></filename>
+      <title><![CDATA[zoo-haute-touche]]></title>
+      <alt><![CDATA[Zoo de la Haute Touche]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.zoodelahautetouche.fr/fr]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.zoodelahautetouche.fr/fr]]></key>
+    <key name="_thumbnail_id"><![CDATA[836]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242448:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="animal"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="zoo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

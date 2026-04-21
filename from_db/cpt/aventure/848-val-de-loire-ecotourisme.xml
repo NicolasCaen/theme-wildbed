@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[848]]></id>
+  <slug><![CDATA[val-de-loire-ecotourisme]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:34]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:34]]></date_gmt>
+  <title><![CDATA[Val de Loire Ecotourisme]]></title>
+  <content><![CDATA[Avec Grégoire, partenaire nature du camping, partez à la découverte de la nature dans le val de loire. Sorties à pieds, en vélos, eco-séjours, activités à la carte...]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="849">
+      <filename><![CDATA[2026/04/val-de-loire-ecotourime-1.png]]></filename>
+      <title><![CDATA[val-de-loire-ecotourime-1]]></title>
+      <alt><![CDATA[Val de Loire Ecotourisme]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.valdeloire-ecotourisme.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.valdeloire-ecotourisme.fr/]]></key>
+    <key name="_thumbnail_id"><![CDATA[849]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242159:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="reserve"/>
+    </taxonomy>
+  </taxonomies>
+</content>

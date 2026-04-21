@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[763]]></id>
+  <slug><![CDATA[st-jacques-a-velo]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:02]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:02]]></date_gmt>
+  <title><![CDATA[St Jacques à vélo]]></title>
+  <content><![CDATA[Préparez votre itinéraire pour Saint Jacques de Compostelle en choisissant le Camping les Patis comme étape.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="764">
+      <filename><![CDATA[2026/04/stjacques-velo.jpg]]></filename>
+      <title><![CDATA[stjacques-velo]]></title>
+      <alt><![CDATA[St Jacques à vélo]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.touraineloirevalley.com/preparer/itinerance/velo/saint-jacques-a-velo/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.touraineloirevalley.com/preparer/itinerance/velo/saint-jacques-a-velo/]]></key>
+    <key name="_thumbnail_id"><![CDATA[764]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="velo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

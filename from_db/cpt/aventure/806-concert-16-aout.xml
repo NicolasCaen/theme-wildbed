@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[806]]></id>
+  <slug><![CDATA[concert-16-aout]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:28:03]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:28:03]]></date_gmt>
+  <title><![CDATA[Concert 16 août]]></title>
+  <content><![CDATA[Charlie, jeune chanteuse normande en concert de 20h à 22h autour du snack-bar]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="807">
+      <filename><![CDATA[2026/04/charlie.jpg]]></filename>
+      <title><![CDATA[charlie]]></title>
+      <alt><![CDATA[Concert 16 août]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.charlieofficiel.fr/musique]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.charlieofficiel.fr/musique]]></key>
+    <key name="_thumbnail_id"><![CDATA[807]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[812]]></id>
+  <slug><![CDATA[chateau-de-cheverny]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:15]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:15]]></date_gmt>
+  <title><![CDATA[Château de Cheverny]]></title>
+  <content><![CDATA[Habité par la même famille depuis plus de 6 siècles, le Château de Cheverny, ses jardins, son labyrinthe et son exposition Tintin en 3D vous feront passer une journée inoubliable en famille ou entre amis. Hergé s'en inspira pour dessiner le chateau de Moulinsart.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="813">
+      <filename><![CDATA[2026/04/cheverny.jpg]]></filename>
+      <title><![CDATA[cheverny]]></title>
+      <alt><![CDATA[Château de Cheverny]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.chateau-cheverny.fr]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.chateau-cheverny.fr]]></key>
+    <key name="_thumbnail_id"><![CDATA[813]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="chateau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

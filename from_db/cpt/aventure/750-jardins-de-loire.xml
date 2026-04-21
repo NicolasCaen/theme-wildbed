@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[750]]></id>
+  <slug><![CDATA[jardins-de-loire]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:26:51]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:26:51]]></date_gmt>
+  <title><![CDATA[Jardins de Loire]]></title>
+  <content><![CDATA[Avec Sophie, partez à la découverte des jardins des bords de Cisse (au départ de Nazelles-Négron).]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="751">
+      <filename><![CDATA[2026/04/Jardins-de-Loire-Sophie-Le-Berre.webp]]></filename>
+      <title><![CDATA[Jardins-de-Loire-Sophie-Le-Berre]]></title>
+      <alt><![CDATA[Jardins de Loire]]></alt>
+      <mime><![CDATA[image/webp]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.jardinsdeloire.com/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.jardinsdeloire.com/]]></key>
+    <key name="_thumbnail_id"><![CDATA[751]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="nature"/>
+    </taxonomy>
+  </taxonomies>
+</content>

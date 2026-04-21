@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[850]]></id>
+  <slug><![CDATA[jardins-de-chedigny]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:34]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:34]]></date_gmt>
+  <title><![CDATA[Jardins de Chédigny]]></title>
+  <content><![CDATA[Au sud d'Amboise, découvrez ce jardin village, tout entier jardin de roses, et son petit jardin de curé.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="851">
+      <filename><![CDATA[2026/04/chedigny_jardin_cure_presbytere_france_adt_touraine_jc-coutand-2032-14.jpg]]></filename>
+      <title><![CDATA[chedigny_jardin_cure_presbytere_france_adt_touraine_jc-coutand-2032-14]]></title>
+      <alt><![CDATA[Jardins de Chédigny]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.touraineloirevalley.com/village-jardin-de-chedigny/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.touraineloirevalley.com/village-jardin-de-chedigny/]]></key>
+    <key name="_thumbnail_id"><![CDATA[851]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776243133:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="reserve"/>
+    </taxonomy>
+  </taxonomies>
+</content>

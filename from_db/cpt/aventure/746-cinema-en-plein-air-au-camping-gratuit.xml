@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[746]]></id>
+  <slug><![CDATA[cinema-en-plein-air-au-camping-gratuit]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:26:41]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:26:41]]></date_gmt>
+  <title><![CDATA[Cinéma en plein air au camping (gratuit)]]></title>
+  <content><![CDATA[Tous les ans, le 25 juillet.
+Après l'Ours en Moi en 2024, En 2025, ce sera un film sur le fleuve la Loire.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="747">
+      <filename><![CDATA[2026/04/2024-ours-en-moi-3.jpg]]></filename>
+      <title><![CDATA[2024-ours-en-moi-3]]></title>
+      <alt><![CDATA[Cinéma en plein air au camping (gratuit)]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[http://bande annonce : https://youtu.be/8RMnbzaSgY8?si=JMJLey-n-SxTqW1j]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[http://bande annonce : https://youtu.be/8RMnbzaSgY8?si=JMJLey-n-SxTqW1j]]></key>
+    <key name="_thumbnail_id"><![CDATA[747]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="nature"/>
+    </taxonomy>
+  </taxonomies>
+</content>

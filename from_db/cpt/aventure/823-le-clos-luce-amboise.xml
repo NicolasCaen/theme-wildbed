@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[823]]></id>
+  <slug><![CDATA[le-clos-luce-amboise]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:17]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:17]]></date_gmt>
+  <title><![CDATA[Le Clos Lucé (Amboise)]]></title>
+  <content><![CDATA[Plongez au coeur même de l'histoire de France. Le Clos Lucé fût la demeure de Léonard de Vinci qui y séjourna de 1516 à 1519 sur l'invitation de François Ier.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="824">
+      <filename><![CDATA[2026/04/amboise-clos-luce.jpg]]></filename>
+      <title><![CDATA[amboise-clos-luce]]></title>
+      <alt><![CDATA[Le Clos Lucé (Amboise)]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.vinci-closluce.com]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.vinci-closluce.com]]></key>
+    <key name="_thumbnail_id"><![CDATA[824]]></key>
+    <key name="_edit_lock"><![CDATA[1776242323:1]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="monument"/>
+    </taxonomy>
+  </taxonomies>
+</content>

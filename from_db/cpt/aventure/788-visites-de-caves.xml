@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[788]]></id>
+  <slug><![CDATA[visites-de-caves]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:25]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:25]]></date_gmt>
+  <title><![CDATA[Visites de caves]]></title>
+  <content><![CDATA[Visites de caves chez les Vignerons du village : Romaric Rochette et Montdomaine]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="789">
+      <filename><![CDATA[2026/04/cave-troglo.jpg]]></filename>
+      <title><![CDATA[cave-troglo]]></title>
+      <alt><![CDATA[Visites de caves]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.google.com/search?client=firefox-b-d&q=romaric%20rochette&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=10548437286903311953&lqi=ChByb21hcmljIHJvY2hldHRlWiQKEHJvbWFyaWMgcm9jaGV0dGUiEHJvbWFyaWMgcm9jaGV0dGU&ved=2ahUKEwjUqf7kjMnuAhUCzIUKHRavCJcQvS4wBXoECAMQLw&rlst=f#rlfi=hd:;si:10548437286903311953,l,ChByb21hcmljIHJvY2hldHRlWiQKEHJvbWFyaWMgcm9jaGV0dGUiEHJvbWFyaWMgcm9jaGV0dGU;mv:[[47.446127399999995,0.9384492999999999],[47.4294673,0.9277773]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.google.com/search?client=firefox-b-d&q=romaric%20rochette&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=10548437286903311953&lqi=ChByb21hcmljIHJvY2hldHRlWiQKEHJvbWFyaWMgcm9jaGV0dGUiEHJvbWFyaWMgcm9jaGV0dGU&ved=2ahUKEwjUqf7kjMnuAhUCzIUKHRavCJcQvS4wBXoECAMQLw&rlst=f#rlfi=hd:;si:10548437286903311953,l,ChByb21hcmljIHJvY2hldHRlWiQKEHJvbWFyaWMgcm9jaGV0dGUiEHJvbWFyaWMgcm9jaGV0dGU;mv:[[47.446127399999995,0.9384492999999999],[47.4294673,0.9277773]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9]]></key>
+    <key name="_thumbnail_id"><![CDATA[789]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+  </taxonomies>
+</content>

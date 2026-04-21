@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[779]]></id>
+  <slug><![CDATA[loueurs-amboise]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:17]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:17]]></date_gmt>
+  <title><![CDATA[Loueurs Amboise]]></title>
+  <content><![CDATA[A 3 km du camping, Loire aventure vous accompagne pour descendre le plus sauvage fleuve d'Europe.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="780">
+      <filename><![CDATA[2026/04/loire-aventure.png]]></filename>
+      <title><![CDATA[loire-aventure]]></title>
+      <alt><![CDATA[Loueurs Amboise]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[http://www.loire-aventure.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[http://www.loire-aventure.fr/]]></key>
+    <key name="_thumbnail_id"><![CDATA[780]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="eau"/>
+    </taxonomy>
+  </taxonomies>
+</content>

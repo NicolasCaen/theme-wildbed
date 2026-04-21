@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[783]]></id>
+  <slug><![CDATA[eglise-de-nazelles-negron]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:17]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:17]]></date_gmt>
+  <title><![CDATA[Eglise de Nazelles-Négron]]></title>
+  <content><![CDATA[Eglise classée. Pour visiter, se renseigner à la mairie.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="784">
+      <filename><![CDATA[2026/04/Eglise_de_Nazelles-Negron.jpg]]></filename>
+      <title><![CDATA[Eglise_de_Nazelles-Negron]]></title>
+      <alt><![CDATA[Eglise de Nazelles-Négron]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[784]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="monument"/>
+    </taxonomy>
+  </taxonomies>
+</content>

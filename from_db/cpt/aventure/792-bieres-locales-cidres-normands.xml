@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[792]]></id>
+  <slug><![CDATA[bieres-locales-cidres-normands]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:27]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:27]]></date_gmt>
+  <title><![CDATA[Bières locales, cidres normands]]></title>
+  <content><![CDATA[Le camping vous propose des bières locales et bio (Brasserie la Pigeonnelle et brasserie d'Amboise), des cidres bio de Normandie, des jus de pommes et divers sodas.
+Kéfir et Kombucha de Touraine.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="793">
+      <filename><![CDATA[2026/04/20220619_162430-scaled-1.jpg]]></filename>
+      <title><![CDATA[20220619_162430-scaled-1]]></title>
+      <alt><![CDATA[Bières locales, cidres normands]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[793]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+  </taxonomies>
+</content>

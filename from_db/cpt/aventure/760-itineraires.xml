@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[760]]></id>
+  <slug><![CDATA[itineraires]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:02]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:02]]></date_gmt>
+  <title><![CDATA[Itinéraires]]></title>
+  <content><![CDATA[Partez pour Chenonceaux ou découvrez d'autres itinéraires autour d'Amboise entre la Loire et le Cher.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media/>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.loireavelo.fr/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.loireavelo.fr/]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="velo"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[839]]></id>
+  <slug><![CDATA[office-de-tourisme-amboise-val-de-loire]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:29:24]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:29:24]]></date_gmt>
+  <title><![CDATA[Office de Tourisme Amboise Val de Loire]]></title>
+  <content><![CDATA[Office de Tourisme Amboise Val de Loire]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="840">
+      <filename><![CDATA[2026/04/OT-Amboise.jpg]]></filename>
+      <title><![CDATA[OT-Amboise]]></title>
+      <alt><![CDATA[Office de Tourisme Amboise Val de Loire]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[link]]></key>
+    <key name="_ucm_content_value"><![CDATA[https://www.amboise-valdeloire.com/]]></key>
+    <key name="_wildbed_aventure_publication_mode"><![CDATA[url]]></key>
+    <key name="_wildbed_aventure_publication_value"><![CDATA[https://www.amboise-valdeloire.com/]]></key>
+    <key name="_thumbnail_id"><![CDATA[840]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+    <key name="_edit_lock"><![CDATA[1776242217:1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="nature"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="randonnee"/>
+    </taxonomy>
+  </taxonomies>
+</content>

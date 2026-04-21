@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[781]]></id>
+  <slug><![CDATA[journees-du-patrimoine]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:17]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:17]]></date_gmt>
+  <title><![CDATA[Journées du patrimoine]]></title>
+  <content><![CDATA[20-21 septembre 2025. Des visites de lieux culturels sont programmées dans le village et alentour.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:55]]></modified>
+  <media>
+    <file type="featured" original_id="782">
+      <filename><![CDATA[2026/04/journee-patrimoine.png]]></filename>
+      <title><![CDATA[journee-patrimoine]]></title>
+      <alt><![CDATA[Journées du patrimoine]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[782]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+      <term slug="heritage"/>
+    </taxonomy>
+    <taxonomy name="aventure_type">
+      <term slug="monument"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[804]]></id>
+  <slug><![CDATA[jeux-en-fete-2-jours]]></slug>
+  <type><![CDATA[aventure]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-15 08:27:55]]></date>
+  <date_gmt><![CDATA[2026-04-15 08:27:55]]></date_gmt>
+  <title><![CDATA[Jeux en Fête (2 jours)]]></title>
+  <content><![CDATA[Journée jeux de 14h à 19h le samedi 26 et dimanche 27 juillet. Gratuit.]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-21 07:48:54]]></modified>
+  <media>
+    <file type="featured" original_id="805">
+      <filename><![CDATA[2026/04/2024-affiche-jeux.png]]></filename>
+      <title><![CDATA[2024-affiche-jeux]]></title>
+      <alt><![CDATA[Jeux en Fête (2 jours)]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_thumbnail_id"><![CDATA[805]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wildbed">
+      <term slug="explorer-amboise"/>
+    </taxonomy>
+  </taxonomies>
+</content>
