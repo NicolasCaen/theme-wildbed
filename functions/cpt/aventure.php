@@ -74,3 +74,32 @@ if ( ! function_exists( 'wildbed_filter_aventure_permalink' ) ) {
     }
 }
 add_filter( 'post_type_link', 'wildbed_filter_aventure_permalink', 10, 2 );
+
+if ( ! function_exists( 'wildbed_aventure_admin_columns' ) ) {
+    function wildbed_aventure_admin_columns( $columns ) {
+        $new = [];
+        foreach ( $columns as $key => $label ) {
+            if ( 'title' === $key ) {
+                $new['wildbed_thumbnail'] = __( 'Image', 'wildbed' );
+            }
+            $new[ $key ] = $label;
+        }
+        return $new;
+    }
+}
+add_filter( 'manage_aventure_posts_columns', 'wildbed_aventure_admin_columns' );
+
+if ( ! function_exists( 'wildbed_aventure_admin_column_content' ) ) {
+    function wildbed_aventure_admin_column_content( $column, $post_id ) {
+        if ( 'wildbed_thumbnail' !== $column ) {
+            return;
+        }
+
+        if ( has_post_thumbnail( $post_id ) ) {
+            echo get_the_post_thumbnail( $post_id, [ 60, 60 ], [ 'style' => 'width:60px;height:60px;object-fit:cover;border-radius:4px;' ] );
+        } else {
+            echo '<span style="display:inline-block;width:60px;height:60px;background:#f0f0f1;border-radius:4px;"></span>';
+        }
+    }
+}
+add_action( 'manage_aventure_posts_custom_column', 'wildbed_aventure_admin_column_content', 10, 2 );
