@@ -29,7 +29,6 @@
 .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
 .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,
 .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container {
-  --parent-width: 106px;
   background: var(--wp--preset--color--base);
   border-bottom-right-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
