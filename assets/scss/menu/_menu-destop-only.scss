@@ -1,29 +1,32 @@
 /* Menu desktop (non burger) */
-.wp-block-navigation:not(.is-responsive) .wp-block-navigation__responsive-container {
-  /* styles desktop */
+.wp-block-navigation .wp-block-navigation__responsive-container {
+
 
 }
-
+  .wp-block-navigation{
+      //1680 : 2.5rem 1280: 1rem
+      gap : clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
+  }
 .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]~.wp-block-navigation__submenu-container, 
 .wp-block-navigation .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container, 
 .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within>.wp-block-navigation__submenu-container{
 
-//   z-index: 10;
-background:var(--wp--preset--color--base);
-border-bottom-right-radius: .5rem;
-border-bottom-left-radius: .5rem;
-  min-width: auto !important;
-     white-space: nowrap;
-//   background:red ;
-   margin-left:-1.25rem;
- margin-right: -1.25rem;
- padding-top: 1.5rem;
- padding-bottom: 1.5rem;
- padding-left: 1.25rem;
- padding-right: 1.25rem;
- width: auto;
- min-width:var(--parent-width) !important;
-//  width: calc(100% + 2.5rem);
+    //   z-index: 10;
+    background:var(--wp--preset--color--base);
+    border-bottom-right-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+    min-width: auto !important;
+    white-space: nowrap;
+    //   background:red ;
+    margin-left:-1.25rem;
+    margin-right: -1.25rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    width: auto;
+    min-width:var(--parent-width) !important;
+    //  width: calc(100% + 2.5rem);
     &:before{
       content:"";
       position: absolute;

@@ -770,16 +770,18 @@ select {
     top: 0;
   }
 }
+.wp-block-navigation-submenu .wp-block-navigation__submenu-icon {
+  margin-left: 0.5rem !important;
+}
 .wp-block-navigation-submenu .wp-block-navigation__submenu-icon svg {
   stroke: none !important;
   position: relative;
   z-index: 10;
-  margin-left: 0.5rem;
 }
 
 /* Menu desktop (non burger) */
-.wp-block-navigation:not(.is-responsive) .wp-block-navigation__responsive-container {
-  /* styles desktop */
+.wp-block-navigation {
+  gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
 .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,

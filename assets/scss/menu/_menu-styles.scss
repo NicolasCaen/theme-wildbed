@@ -1,10 +1,11 @@
 .is-style-menu{
     
 }
-
-.wp-block-navigation-submenu .wp-block-navigation__submenu-icon svg{
-    stroke: none !important;
-    position:relative;
-    z-index: 10;
-    margin-left: .5rem;
+.wp-block-navigation-submenu .wp-block-navigation__submenu-icon{
+    margin-left: 0.5rem !important;
+    svg{
+        stroke: none !important;
+        position:relative;
+        z-index: 10;
+    }
 }
