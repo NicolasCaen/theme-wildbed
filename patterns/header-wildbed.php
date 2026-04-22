@@ -15,7 +15,7 @@
 <figure class="wp-block-image"><img src="<?php echo home_url(); ?>/wp-content/themes/wildbed/assets/images/logo-horizontal.svg" alt="logo-horizontal.svg"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:navigation {"ref":5,"textColor":"inherit","align":"full","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"layout":{"type":"flex","justifyContent":"space-between"}} /-->
+<!-- wp:navigation {"ref":5,"textColor":"inherit","align":"full","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"layout":{"type":"flex","justifyContent":"space-between"}} /-->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->

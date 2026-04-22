@@ -1,8 +1,14 @@
+@media (max-width: 1400px) {
+  header .wp-block-image {
+    max-width: clamp(9.375rem, 2.5665rem + 10.6383vw, 11.875rem);
+  }
+}
+
 .wp-block-group.menu-container {
   max-width: calc(100% - 5rem) !important;
   margin: 0 auto !important;
   border-radius: 100px;
-  padding: 0.5rem 1.5rem !important;
+  padding: 0.5rem 1.5rem 0.5rem 0.75rem !important;
 }
 @media (max-width: 1200px) {
   .wp-block-group.menu-container {

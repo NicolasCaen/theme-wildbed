@@ -1,10 +1,18 @@
 @use 'index' as *;
+header{
 
+
+     @include m(1400){
+.wp-block-image{
+    max-width: clamp(9.375rem, 2.5665rem + 10.6383vw, 11.875rem);
+}
+ }
+}
 .wp-block-group.menu-container{
     max-width:calc(100% - 5rem) !important;
     margin: 0 auto !important;
     border-radius: 100px;;
-    padding:.5rem 1.5rem!important;     
+    padding:.5rem 1.5rem .5rem .75rem !important;     
     @include m($menu-mobile-breakpoint){
      //   padding:.5rem .5rem!important;   
      display:grid;  
