@@ -3,9 +3,9 @@ header{
 
 
      @include m(1400){
-.wp-block-image{
-    max-width: clamp(9.375rem, 2.5665rem + 10.6383vw, 11.875rem);
-}
+        .wp-block-image{
+     max-width: clamp(9.375rem, 2.5665rem + 10.6383vw, 11.875rem);
+        }
  }
 }
 .wp-block-group.menu-container{
