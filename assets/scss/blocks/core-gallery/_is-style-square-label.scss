@@ -1,0 +1,21 @@
+@media (max-width: 481px) {
+    .is-style-square-label.wp-block-gallery {
+        display: grid !important;
+        grid-template-columns: repeat(6, 1fr) !important;
+        /* Les 3 premiers prennent 2 colonnes chacun (2×3 = 6) */
+        .wp-block-image{
+            /* Les 3 premiers prennent 2 colonnes chacun (2×3 = 6) */
+            &:nth-child(1),
+            &:nth-child(2) {
+                grid-column: span 3;
+            }
+
+            /* Les 2 suivants prennent 3 colonnes chacun (3×2 = 6) */
+             &:nth-child(3),
+            &:nth-child(4),
+            &:nth-child(5) {
+                grid-column: span 2;
+            }
+        }
+    }
+}

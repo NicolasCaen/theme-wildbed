@@ -186,7 +186,7 @@
                     "fontFace": [
                         {
                             "src": [
-                                "file:./assets/fonts/titan-one/titan-one-400-normal.woff2"
+                                "file:./assets/fonts/titan-one/titan-one.woff2"
                             ],
                             "fontWeight": "400",
                             "fontStyle": "normal",
@@ -513,6 +513,11 @@
                     "slug": "h-16-200",
                     "name": "H | 1rem (16px) → 12.5rem (200px)",
                     "size": "clamp(1rem, -5.3889rem + 20.4444vw, 12.5rem)"
+                },
+                {
+                    "slug": "custom",
+                    "name": "Custom var(--custom-size)",
+                    "size": "var(--custom-size)"
                 }
 
             ],
@@ -582,7 +587,8 @@
         "blocks": {
             "core/heading": {
                 "typography": {
-                    "lineHeight" :"1.25"
+                    "lineHeight" :"1.25",
+                    "fontWeight" :"400"
                 },
                 "spacing": {
                     "margin": {

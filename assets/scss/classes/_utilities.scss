@@ -1,4 +1,4 @@
-@use 'index' as *;
+@use '../index' as *;
 .overflow-clip{
     overflow: clip;
 }
@@ -36,8 +36,22 @@ header.fixed{
 }
 .overflow-visible{
     overflow: visible !important;
+    .swiper{
+        overflow: visible !important;
+    }
 }
+.overflow-hidden{
+    overflow: hidden !important;
+
+}
+
 
 .flex-1{
     flex: 1;
+}
+.bg-white{
+    background: white;
+}
+.bg-trip{
+background:#34E0A1;
 }
