@@ -50,7 +50,7 @@
 <!-- /wp:group -->
 <!-- /wp:post-template -->
 
-<!-- wp:query-pagination {"className":"query-loop__pagination"} -->
+<!-- wp:query-pagination {"className":"query-loop__pagination","layout":{"type":"flex","justifyContent":"center"}} -->
 <!-- wp:query-pagination-previous /-->
 
 <!-- wp:query-pagination-numbers /-->
