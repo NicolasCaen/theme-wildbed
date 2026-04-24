@@ -15,8 +15,8 @@
 
 <!-- wp:query-title {"type":"archive","textAlign":"center","showPrefix":false,"className":"is-style-panneau-rotated"} /-->
 
-<!-- wp:paragraph {"align":"center","metadata":{"bindings":{"content":{"source":"ugm/term-meta","args":{"key":"titre"}}}},"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"h-one","fontFamily":"second"} -->
-<p class="has-text-align-center has-second-font-family has-h-one-font-size" style="margin-top:0;margin-bottom:0"></p>
+<!-- wp:paragraph {"align":"center","metadata":{"bindings":{"content":{"source":"ugm/term-meta","args":{"key":"titre"}}}},"style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base","fontSize":"h-one","fontFamily":"second"} -->
+<p class="has-text-align-center has-base-color has-text-color has-link-color has-second-font-family has-h-one-font-size" style="margin-top:0;margin-bottom:0"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:term-description {"textAlign":"center"} /-->

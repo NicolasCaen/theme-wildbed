@@ -206,6 +206,13 @@ Text Domain: ng1-base
   height: 40px;
   color: white;
 }
+.wp-block-up-cb-carousel .upcb-button-next:hover, .wp-block-up-cb-carousel .upcb-button-prev:hover {
+  background: var(--wp--preset--color--base-2);
+}
+
+.upcb-carousel-block .upcb-pagination-bullet.swiper-pagination-bullet-active {
+  background: var(--wp--preset--color--base);
+}
 
 .align-s {
   max-width: 754px;

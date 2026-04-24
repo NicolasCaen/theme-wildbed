@@ -217,13 +217,16 @@ figure:nth-of-type(5) {
         display:inliine-flex;
         justify-content:center;
         align-items:center;
-        background:
+          background: var(--wp--preset--color--contrast);
         border-radius:100%;
         width:auto;
         height: 40px;
         color:white;
         &:hover{
-            background:var(--wp--preset--color--base-2);
+            background:var(--wp--preset--color--base-2)
         }
     }
+}
+.upcb-carousel-block .upcb-pagination-bullet.swiper-pagination-bullet-active {
+    background: var(--wp--preset--color--base);
 }

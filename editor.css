@@ -190,6 +190,13 @@
   height: 40px;
   color: white;
 }
+.wp-block-up-cb-carousel .upcb-button-next:hover, .wp-block-up-cb-carousel .upcb-button-prev:hover {
+  background: var(--wp--preset--color--base-2);
+}
+
+.upcb-carousel-block .upcb-pagination-bullet.swiper-pagination-bullet-active {
+  background: var(--wp--preset--color--base);
+}
 
 .has-gap-4 {
   gap: var(--wp--preset--spacing--4);
