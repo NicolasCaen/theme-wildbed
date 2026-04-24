@@ -25,7 +25,7 @@
  <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-2cols"} /-->
   <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
- <!-- wp:pattern {"slug":"ng1-base/section-labels"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/section-labels-paiement"} /-->
 
  <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-cta-bon-cadeau"} /-->

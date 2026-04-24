@@ -7,7 +7,7 @@
         "core/paragraph"
     ],
     "styles": {
-        "css": "width:fit-content; margin:0 auto;text-wrap:no-wrap",
+        "css": "width:fit-content; margin:0 auto;text-wrap:no-wrap; & img{height:2ch;transform:translateY(0.5ch); width:auto !important; }",
         "color": {
             "background": "var(--wp--preset--color--base-4)",
             "text":"var(--wp--preset--color--base-2)"
