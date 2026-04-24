@@ -17,6 +17,8 @@
 <!-- wp:pattern {"slug":"ng1-base/section-bento-2-2-1"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-list-ultrawide"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+  <!-- wp:pattern {"slug":"ng1-base/section-cta-animation"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-6-3-2"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-144"} /-->
