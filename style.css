@@ -194,6 +194,19 @@ Text Domain: ng1-base
   }
 }
 
+.wp-block-up-cb-carousel .upcb-button-next, .wp-block-up-cb-carousel .upcb-button-prev {
+  padding: 0.5em;
+  aspect-ratio: 1/1;
+  display: inliine-flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--wp--preset--color--contrast);
+  border-radius: 100%;
+  width: auto;
+  height: 40px;
+  color: white;
+}
+
 .align-s {
   max-width: 754px;
 }
@@ -705,6 +718,10 @@ header.fixed {
 
 .overflow-hidden {
   overflow: hidden !important;
+}
+
+.overflow-x-hidden {
+  overflow-x: clip !important;
 }
 
 .flex-1 {

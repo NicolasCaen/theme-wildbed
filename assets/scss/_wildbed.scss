@@ -208,3 +208,22 @@ figure:nth-of-type(5) {
         }
     }
 }
+
+
+.wp-block-up-cb-carousel{
+    .upcb-button-next,.upcb-button-prev{
+        padding: 0.5em;
+        aspect-ratio: 1/1;
+        display:inliine-flex;
+        justify-content:center;
+        align-items:center;
+        background:
+        border-radius:100%;
+        width:auto;
+        height: 40px;
+        color:white;
+        &:hover{
+            background:var(--wp--preset--color--base-2);
+        }
+    }
+}

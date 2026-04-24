@@ -16,6 +16,7 @@
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-media-texte"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/section-slider"} /-->
  <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->

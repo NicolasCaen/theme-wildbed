@@ -44,7 +44,10 @@ header.fixed{
     overflow: hidden !important;
 
 }
+.overflow-x-hidden{
+    overflow-x: clip !important;
 
+}
 
 .flex-1{
     flex: 1;
