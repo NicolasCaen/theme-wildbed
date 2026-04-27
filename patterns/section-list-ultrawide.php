@@ -7,7 +7,7 @@
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Section | Texte Ultrawide "},"align":"","className":"section-text-ultrawide align-ultrawide","layout":{"type":"default"}} -->
-<div class="wp-block-group section-text-ultrawide align-ultrawide"><!-- wp:heading -->
+<div id="services" class="wp-block-group section-text-ultrawide align-ultrawide"><!-- wp:heading -->
 <h2 class="wp-block-heading">Équipements &amp; services</h2>
 <!-- /wp:heading -->
 

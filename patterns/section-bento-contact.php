@@ -7,7 +7,7 @@
 ?>
 <?php $is_editor = is_admin() || wp_is_json_request() || (function_exists('get_current_screen') && get_current_screen() && get_current_screen()->is_block_editor()); ?>
 <!-- wp:group {"align":"","className":"align-ultrawide section-bento-contact","layout":{"type":"constrained"}} -->
-<div class="wp-block-group align-ultrawide section-bento-contact"><!-- wp:heading {"textAlign":"center","align":"full"} -->
+<div id="contact" class="wp-block-group align-ultrawide section-bento-contact"><!-- wp:heading {"textAlign":"center","align":"full"} -->
 <h2 class="wp-block-heading alignfull has-text-align-center">Nous contacter</h2>
 <!-- /wp:heading -->
 

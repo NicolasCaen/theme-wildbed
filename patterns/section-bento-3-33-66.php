@@ -7,7 +7,7 @@
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Section Bento 6 | 3-2"},"align":"","className":"section-bento-6-3-2 align-ultrawide","layout":{"type":"default"}} -->
-<div class="wp-block-group section-bento-6-3-2 align-ultrawide"><!-- wp:heading {"align":"full"} -->
+<div id="acces" class="wp-block-group section-bento-6-3-2 align-ultrawide"><!-- wp:heading {"align":"full"} -->
 <h2 class="wp-block-heading alignfull">Accès &amp; situation</h2>
 <!-- /wp:heading -->
 

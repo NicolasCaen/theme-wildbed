@@ -6,8 +6,8 @@
  * Block Types: core/group
  */
 ?>
-<!-- wp:group {"align":"","className":"align-ultrawide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group align-ultrawide"><!-- wp:heading {"align":"full"} -->
+<!-- wp:group {"metadata":{"name":"FAQ"},"align":"","className":"align-ultrawide","layout":{"type":"constrained"}} -->
+<div id="faq" class="wp-block-group align-ultrawide"><!-- wp:heading {"align":"full"} -->
 <h2 class="wp-block-heading alignfull">Question fréquentes</h2>
 <!-- /wp:heading -->
 
