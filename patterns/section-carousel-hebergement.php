@@ -7,8 +7,8 @@
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Section | Carousel Hebergement"},"align":"full","className":"overflow-hidden is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|32-72","bottom":"var:preset|spacing|32-72"},"blockGap":"var:preset|spacing|h-16-40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull overflow-hidden is-style-style-2" style="padding-top:var(--wp--preset--spacing--32-72);padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:heading {"textAlign":"center","align":"wide"} -->
-<h2 class="wp-block-heading alignwide has-text-align-center">Nos hébergements pour un séjour unique</h2>
+<div class="wp-block-group alignfull overflow-hidden is-style-style-2" style="padding-top:var(--wp--preset--spacing--32-72);padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:heading {"textAlign":"center","align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16"}}}} -->
+<h2 class="wp-block-heading alignwide has-text-align-center" style="padding-right:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)">Nos hébergements pour un séjour unique</h2>
 <!-- /wp:heading -->
 
 <!-- wp:up-cb/carousel {"spaceBetween":40,"navigation":false,"rtl":false,"resizeObserver":true,"breakpoints":[{"label":"Mobile","minWidth":0,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":false,"pagination":true,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false},{"label":"Tablet","minWidth":768,"slidesPerView":2,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":true,"pagination":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false},{"label":"Desktop","minWidth":1240,"slidesPerView":3,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":true,"pagination":true,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false}],"className":"upcb-arrows-top-left align-ultrawide overflow-visible"} -->
