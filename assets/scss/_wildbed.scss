@@ -236,3 +236,41 @@ figure:nth-of-type(5) {
 .upcb-carousel-block .upcb-pagination-bullet.swiper-pagination-bullet-active {
     background: var(--wp--preset--color--base);
 }
+
+.grid-footer-logo{
+        @include m(600){
+  display:flex;
+  flex-wrap:wrap;
+  max-width:600px !important;
+    grid-template-columns: repeat(3,1fr);
+    >div{
+
+                        &:nth-of-type(3){
+                    order:-1;
+                    }
+
+            }
+        }
+}
+.footer-section-column__items{
+          @include m(768){
+            display:grid !important;
+              grid-template-columns: 1fr 1fr;
+              > div{
+                .footer-section-logo{
+                    max-width: 100px;
+                    margin-top: 2rem;
+                }
+                &:nth-of-type(1){
+                  grid-column: 1 / 3;
+                }
+                   &:nth-of-type(2){
+                  grid-column: 1 / 3;
+                }
+                   &:nth-of-type(3){
+                  grid-column: 1 / 3;
+          
+                }
+              }
+          }
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[189]]></id>
+  <slug><![CDATA[footer]]></slug>
+  <type><![CDATA[wp_template_part]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-03-17 08:30:10]]></date>
+  <date_gmt><![CDATA[2026-03-17 08:30:10]]></date_gmt>
+  <title><![CDATA[Footer]]></title>
+  <content><![CDATA[<!-- wp:group {"metadata":{"name":"Decoration"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:image {"id":188,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"-2vw"}}}} -->
+<figure class="wp-block-image alignfull size-full" style="margin-top:0;margin-bottom:-2vw"><img src="https://wildbed.local/wp-content/uploads/2026/03/wilbed-footer-2.svg" alt="" class="wp-image-188"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:group {"metadata":{"name":"Section | Footer wildbed"},"align":"full","className":"section-wide footer-wildbed container-1920 is-style-style-2","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide footer-wildbed container-1920 is-style-style-2" style="margin-top:0;margin-bottom:0"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-wide__wrapper align-ultrawide","style":{"spacing":{"padding":{"right":"var:preset|spacing|2","left":"var:preset|spacing|2"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-wide__wrapper align-ultrawide" style="padding-right:var(--wp--preset--spacing--2);padding-left:var(--wp--preset--spacing--2)"><!-- wp:group {"align":"full","className":"footer-section-column__items","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull footer-section-column__items"><!-- wp:group {"metadata":{"name":"Group | 196px"},"layout":{"type":"constrained","contentSize":"196px","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"className":"footer-section-logo"} -->
+<figure class="wp-block-image footer-section-logo"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/logo-vertical-light.svg" alt="logo-vertical-light.svg"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Groupe | 499px"},"className":"container-full is-style-default flex-1","layout":{"type":"constrained","contentSize":"499px","justifyContent":"center"}} -->
+<div class="wp-block-group container-full is-style-default flex-1"><!-- wp:columns {"align":"wide","className":"is-style-default"} -->
+<div class="wp-block-columns alignwide is-style-default"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Liens</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:navigation {"ref":201,"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|1-2"}},"layout":{"type":"flex","orientation":"vertical"}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Camping Les Patîs</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Rue Camille Breton</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37530 Nazelles Négron</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>France</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>+33 6 98 10 29 71</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>camping-lespatis@wildbed.fr</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Goupe | 181px"},"layout":{"type":"constrained","contentSize":"181px"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"is-style-default  grid-footer-logo","style":{"spacing":{"blockGap":"var:preset|spacing|4"}},"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}} -->
+<div class="wp-block-group is-style-default grid-footer-logo"><!-- wp:group {"className":"is-style-style-3","style":{"border":{"width":"0px","style":"none","radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-3" style="border-style:none;border-width:0px;border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:image {"id":192,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"rowSpan":1}}} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/accueil-velo-1024x1024.png" alt="Label accueil -velo" class="wp-image-192"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-3","style":{"border":{"width":"0px","style":"none","radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-3" style="border-style:none;border-width:0px;border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:image {"id":191,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"rowSpan":1}}} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/qualidog-1024x1024.png" alt="label qualidog" class="wp-image-191"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-3","style":{"border":{"width":"0px","style":"none","radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}},"layout":{"columnSpan":2}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-3" style="border-style:none;border-width:0px;border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:image {"id":194,"sizeSlug":"full","linkDestination":"none","style":{"layout":{"rowSpan":1}}} -->
+<figure class="wp-block-image size-full"><img src="https://wildbed.local/wp-content/uploads/2026/03/refuges-lpo.png" alt="Label Refuges LPO" class="wp-image-194"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-3","style":{"border":{"width":"0px","style":"none","radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}},"layout":{"columnSpan":2}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-3" style="border-style:none;border-width:0px;border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:image {"id":193,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"rowSpan":1}}} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/camping-qualite.svg" alt="Label camping qualité" class="wp-image-193"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"align":"full"} -->
+<hr class="wp-block-separator alignfull has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--24);padding-bottom:var(--wp--preset--spacing--24)"><!-- wp:navigation {"ref":76,"overlayMenu":"never"} /-->
+
+<!-- wp:paragraph -->
+<p>© Design &amp; Développement Pixelea - 2026</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|3","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--3)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-27 07:43:14]]></modified>
+  <media>
+    <file type="content" original_id="188">
+      <filename><![CDATA[2026/03/wilbed-footer-2.svg]]></filename>
+      <title><![CDATA[wilbed-footer-2]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/svg+xml]]></mime>
+    </file>
+    <file type="content" original_id="194">
+      <filename><![CDATA[2026/03/refuges-lpo.png]]></filename>
+      <title><![CDATA[refuges-lpo]]></title>
+      <alt><![CDATA[Label Refuges LPO]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="193">
+      <filename><![CDATA[2026/03/camping-qualite.svg]]></filename>
+      <title><![CDATA[camping-qualite]]></title>
+      <alt><![CDATA[Label camping qualité]]></alt>
+      <mime><![CDATA[image/svg+xml]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="origin"><![CDATA[theme]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wp_theme">
+      <term slug="wildbed"/>
+    </taxonomy>
+    <taxonomy name="wp_template_part_area">
+      <term slug="footer"/>
+    </taxonomy>
+  </taxonomies>
+</content>
