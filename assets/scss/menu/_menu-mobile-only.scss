@@ -6,11 +6,20 @@
 
 
 .has-modal-open{
-
+.wp-block-navigation__responsive-container-close{
+  right: 1rem !important;
+  color:white;
+}
   .wp-block-navigation__responsive-container-content{
-     // background :red !important;
+      background :var(--wp--preset--color--contrast) !important;
+      min-height: 100svh;
+      a{
+        color:white !important;
+        font-size:1.2rem;
+      }
   }
   .wp-block-navigation__container {
+
     width: 100% !important;
     padding: 0 min(7.5rem, 5vw);
     >li{
