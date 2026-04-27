@@ -1,4 +1,8 @@
 @use 'index' as *;
+html {
+    overflow-wrap: break-word;
+word-break: keep-all;
+}
 header{
     .wp-block-image{
     @include m(600){
@@ -100,14 +104,44 @@ grid-template-rows: auto;
 
 .galerie-polaroid{
  gap:0 !important;
+
+&.wp-block-gallery.wp-block-gallery-4{
+    figure.wp-block-image:not(#individual-image) {
+        width: calc(25% - var(--wp--style--unstable-gallery-gap, 16px) * .75);
+          @include m(600){
+              width: calc(23% - var(--wp--style--unstable-gallery-gap, 16px) * .75);
+          }
+    }
+}
+
+
+
    >figure{
     position: relative;
+     @include m(600){
+           border: .25rem solid white;
+       &:nth-of-type(1){
+        transform: rotate(4deg) translateX(2vw);
+       }
+       &:nth-of-type(2){
+        transform: rotate(-3deg)   translateX(1vw);;
+       }
+       &:nth-of-type(3){
+        transform: rotate(4deg)   translateX(-1vw);
+       }
+       &:nth-of-type(4){
+        transform: rotate(-3deg) translateX(-2vw);
+       }
+     }
+     @include p(600){
     &:hover{
         z-index: 10;
         transition:all 1s;
         transform: rotate(2deg) !important;
     }
+    
         border: .75rem solid white;
+        
        &:nth-of-type(1){
         transform: rotate(7.024deg) translateX(5rem);
        }
@@ -120,9 +154,8 @@ grid-template-rows: auto;
        &:nth-of-type(4){
         transform: rotate(-6.963deg) translateX(-5rem);
        }
-       
-
     }
+}
 }
 
 
