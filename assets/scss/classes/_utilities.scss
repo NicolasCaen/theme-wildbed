@@ -68,7 +68,9 @@ background:#34E0A1;
         grid-template-columns: 1fr 1fr;
     }
 }
-
+.min-h-50svh{
+min-height: 50svh !important;
+}
 .min-h-100svh{
 min-height: 100svh !important;
 }

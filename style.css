@@ -17,6 +17,7 @@ Text Domain: ng1-base
 html {
   overflow-wrap: break-word;
   word-break: keep-all;
+  overflow-X: clip;
 }
 
 @media (max-width: 600px) {
@@ -852,6 +853,10 @@ header.fixed {
   }
 }
 
+.min-h-50svh {
+  min-height: 50svh !important;
+}
+
 .min-h-100svh {
   min-height: 100svh !important;
 }
@@ -866,41 +871,53 @@ header.fixed {
   min-width: 300px;
 }
 
-.section-pourquoi {
-  --wp--preset--spacing--custom:105px;
+@media (max-width: 600px) {
+  .section-pourquoi {
+    --wp--preset--spacing--custom:.5rem;
+  }
 }
-.section-pourquoi__columns {
-  gap: 0;
+@media (min-width: 600px) {
+  .section-pourquoi {
+    --wp--preset--spacing--custom:105px;
+  }
+  .section-pourquoi__columns {
+    gap: 0;
+  }
+  .section-pourquoi__column--1, .section-pourquoi__column--3 {
+    position: relative;
+    z-index: 2;
+  }
+  .section-pourquoi__column--2 {
+    transform: scale(1.2);
+    position: relative;
+    z-index: 1;
+  }
+  .section-pourquoi__card--1 {
+    max-width: 342px;
+    justify-self: right;
+  }
+  .section-pourquoi__card--2 {
+    max-width: 355px;
+  }
+  .section-pourquoi__card--3 {
+    justify-self: right;
+    max-width: 337px;
+  }
+  .section-pourquoi__card--4 {
+    max-width: 364px;
+  }
+  .section-pourquoi__card--5 {
+    max-width: 289px;
+    justify-self: right;
+  }
+  .section-pourquoi__card--6 {
+    max-width: 356px;
+  }
 }
-.section-pourquoi__column--1, .section-pourquoi__column--3 {
-  position: relative;
-  z-index: 2;
-}
-.section-pourquoi__column--2 {
-  transform: scale(1.2);
-  position: relative;
-  z-index: 1;
-}
-.section-pourquoi__card--1 {
-  max-width: 342px;
-  justify-self: right;
-}
-.section-pourquoi__card--2 {
-  max-width: 355px;
-}
-.section-pourquoi__card--3 {
-  justify-self: right;
-  max-width: 337px;
-}
-.section-pourquoi__card--4 {
-  max-width: 364px;
-}
-.section-pourquoi__card--5 {
-  max-width: 289px;
-  justify-self: right;
-}
-.section-pourquoi__card--6 {
-  max-width: 356px;
+@media (max-width: 600px) {
+  .section-link-3cols__grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .wp-block-media-text:not([class*=has-gap-]) {
@@ -968,6 +985,13 @@ header.fixed {
     grid-column: span 2;
   }
 }
+@media (max-width: 600px) {
+  .wp-block-list.is-style-3cols {
+    -moz-column-count: 2 !important;
+         column-count: 2 !important;
+  }
+}
+
 /** changement du breakpoint du menu */
 @media (max-width: 1200px) {
   .wp-block-navigation__responsive-container-open:not(.always-shown) {

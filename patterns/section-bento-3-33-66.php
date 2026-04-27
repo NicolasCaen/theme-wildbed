@@ -11,8 +11,8 @@
 <h2 class="wp-block-heading alignfull">Accès &amp; situation</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"align":"full","className":"section-bento-6-3-2__items","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
-<div class="wp-block-group alignfull section-bento-6-3-2__items"><!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|16"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"align":"full","className":"section-bento-6-3-2__items","backgroundColor":"base","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull section-bento-6-3-2__items has-base-background-color has-background"><!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|16"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph -->
 <p><strong>Adresse</strong></p>
 <!-- /wp:paragraph -->
@@ -26,8 +26,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"layout":{"columnSpan":2,"rowSpan":2},"background":{"backgroundImage":{"url":"<?php echo home_url(); ?>/wp-content/uploads/2026/04/Mapposition.png","id":550,"source":"file","title":"Mapposition"},"backgroundSize":"cover"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"></div>
+<!-- wp:group {"className":"min-h-50svh","style":{"layout":{"columnSpan":2,"rowSpan":2},"background":{"backgroundImage":{"url":"<?php echo home_url(); ?>/wp-content/uploads/2026/04/Mapposition.png","id":550,"source":"file","title":"Mapposition"},"backgroundSize":"cover"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group min-h-50svh" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|16"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->

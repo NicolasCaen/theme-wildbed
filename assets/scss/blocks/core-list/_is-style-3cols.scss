@@ -1,0 +1,6 @@
+@use '../../index' as *;
+.wp-block-list.is-style-3cols{
+    @include m(600) {
+        column-count: 2 !important;
+    }
+}
