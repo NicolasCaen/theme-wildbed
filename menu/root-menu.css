@@ -28,7 +28,7 @@
   gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
-html.has-modal-open .wp-block-navigation-item:has(a[href*="#"]) {
+html.has-modal-open .wp-block-navigation-item:has(> a[href*="#"]) {
   display: none !important;
 }
 
