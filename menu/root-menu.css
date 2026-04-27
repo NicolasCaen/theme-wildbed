@@ -29,10 +29,6 @@ header .wp-block-navigation {
        column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
-html.has-modal-open .wp-block-navigation-item:has(> a[href*="#"]) {
-  display: none !important;
-}
-
 html:not(.has-modal-open) .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
 html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,
 html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container {
@@ -92,8 +88,8 @@ html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover .wp-block-na
 }
 
 .has-modal-open .wp-block-navigation__responsive-container-close {
-  right: 1.5rem !important;
-  top: 1.5rem;
+  right: 2rem !important;
+  top: 2rem;
   color: white;
 }
 .has-modal-open .wp-block-navigation__responsive-container-content {
