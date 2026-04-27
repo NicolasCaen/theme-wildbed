@@ -852,6 +852,10 @@ header.fixed {
   }
 }
 
+.min-h-100svh {
+  min-height: 100svh !important;
+}
+
 .section-bento-contact__aside {
   flex: 0 0 clamp(36%, (740px - 100vw) * 1000, 100%);
   min-width: 300px;
