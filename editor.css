@@ -243,6 +243,22 @@
   }
 }
 
+@media (max-width: 600px) {
+  .section-footer__column__items {
+    padding-top: 2.5rem;
+    row-gap: 2.5rem;
+    -moz-column-gap: 0rem;
+         column-gap: 0rem;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .section-footer__column__item {
+    grid-column: span 2;
+  }
+}
+
 .has-gap-4 {
   gap: var(--wp--preset--spacing--4);
 }
@@ -588,6 +604,15 @@ header.fixed {
 
 .bg-trip {
   background: #34E0A1;
+}
+
+.grid-2colmns-mobile {
+  display: grid;
+}
+@media (max-width: 600px) {
+  .grid-2colmns-mobile {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .section-bento-contact__aside {

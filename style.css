@@ -259,6 +259,22 @@ Text Domain: ng1-base
   }
 }
 
+@media (max-width: 600px) {
+  .section-footer__column__items {
+    padding-top: 2.5rem;
+    row-gap: 2.5rem;
+    -moz-column-gap: 0rem;
+         column-gap: 0rem;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .section-footer__column__item {
+    grid-column: span 2;
+  }
+}
+
 .align-s {
   max-width: 754px;
 }
@@ -795,6 +811,15 @@ header.fixed {
   background: #34E0A1;
 }
 
+.grid-2colmns-mobile {
+  display: grid;
+}
+@media (max-width: 600px) {
+  .grid-2colmns-mobile {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .section-bento-contact__aside {
   flex: 0 0 clamp(36%, (740px - 100vw) * 1000, 100%);
   min-width: 300px;
@@ -933,8 +958,9 @@ header.fixed {
 }
 
 /* Menu desktop (non burger) */
-.wp-block-navigation {
-  gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
+header .wp-block-navigation {
+  -moz-column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
+       column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
 html.has-modal-open .wp-block-navigation-item:has(> a[href*="#"]) {

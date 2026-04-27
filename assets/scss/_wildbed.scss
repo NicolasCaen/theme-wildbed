@@ -274,3 +274,21 @@ figure:nth-of-type(5) {
               }
           }
 }
+
+.section-footer__column{
+    &__items{
+        
+        @include m(600){
+            padding-top:2.5rem;
+            row-gap:2.5rem;
+            column-gap: 0rem;
+            display:grid !important;
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+    &__item{
+        @include m(600){
+            grid-column: span 2;
+        }
+    }
+}

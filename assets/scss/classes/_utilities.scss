@@ -61,3 +61,11 @@ header.fixed{
 .bg-trip{
 background:#34E0A1;
 }
+
+.grid-2colmns-mobile{
+    display: grid;
+    @include m(600){
+        grid-template-columns: 1fr 1fr;
+    }
+}
+

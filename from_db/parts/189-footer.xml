@@ -16,16 +16,16 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:group {"metadata":{"name":"Section | Footer wildbed"},"align":"full","className":"section-wide footer-wildbed container-1920 is-style-style-2","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull section-wide footer-wildbed container-1920 is-style-style-2" style="margin-top:0;margin-bottom:0"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-wide__wrapper align-ultrawide","style":{"spacing":{"padding":{"right":"var:preset|spacing|2","left":"var:preset|spacing|2"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group section-wide__wrapper align-ultrawide" style="padding-right:var(--wp--preset--spacing--2);padding-left:var(--wp--preset--spacing--2)"><!-- wp:group {"align":"full","className":"footer-section-column__items","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignfull footer-section-column__items"><!-- wp:group {"metadata":{"name":"Group | 196px"},"layout":{"type":"constrained","contentSize":"196px","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:image {"className":"footer-section-logo"} -->
-<figure class="wp-block-image footer-section-logo"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/logo-vertical-light.svg" alt="logo-vertical-light.svg"/></figure>
+<div class="wp-block-group section-wide__wrapper align-ultrawide" style="padding-right:var(--wp--preset--spacing--2);padding-left:var(--wp--preset--spacing--2)"><!-- wp:group {"align":"full","className":"section-footer__column__items","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull section-footer__column__items"><!-- wp:group {"metadata":{"name":"Group | 196px"},"className":"section-footer__column__item section-footer__column__item\u002d\u002d1","layout":{"type":"constrained","contentSize":"196px","justifyContent":"center"}} -->
+<div class="wp-block-group section-footer__column__item section-footer__column__item--1"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/logo-vertical-light.svg" alt="logo-vertical-light.svg"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Groupe | 499px"},"className":"container-full is-style-default flex-1","layout":{"type":"constrained","contentSize":"499px","justifyContent":"center"}} -->
-<div class="wp-block-group container-full is-style-default flex-1"><!-- wp:columns {"align":"wide","className":"is-style-default"} -->
-<div class="wp-block-columns alignwide is-style-default"><!-- wp:column -->
+<!-- wp:group {"metadata":{"name":"Groupe | 499px"},"className":"container-full is-style-default flex-1 section-footer__column__item section-footer__column__item\u002d\u002d2","layout":{"type":"constrained","contentSize":"499px","justifyContent":"center"}} -->
+<div class="wp-block-group container-full is-style-default flex-1 section-footer__column__item section-footer__column__item--2"><!-- wp:columns {"isStackedOnMobile":false,"align":"wide","className":"is-style-default"} -->
+<div class="wp-block-columns alignwide is-not-stacked-on-mobile is-style-default"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Liens</strong></p>
 <!-- /wp:paragraph -->
@@ -63,8 +63,8 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Goupe | 181px"},"layout":{"type":"constrained","contentSize":"181px"}} -->
-<div class="wp-block-group"><!-- wp:group {"className":"is-style-default  grid-footer-logo","style":{"spacing":{"blockGap":"var:preset|spacing|4"}},"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}} -->
+<!-- wp:group {"metadata":{"name":"Goupe | 181px"},"className":"section-footer__column__item section-footer__column__item\u002d\u002d3","layout":{"type":"constrained","contentSize":"181px"}} -->
+<div class="wp-block-group section-footer__column__item section-footer__column__item--3"><!-- wp:group {"className":"is-style-default  grid-footer-logo","style":{"spacing":{"blockGap":"var:preset|spacing|4"}},"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}} -->
 <div class="wp-block-group is-style-default grid-footer-logo"><!-- wp:group {"className":"is-style-style-3","style":{"border":{"width":"0px","style":"none","radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}},"spacing":{"padding":{"top":"var:preset|spacing|8","bottom":"var:preset|spacing|8","left":"var:preset|spacing|8","right":"var:preset|spacing|8"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-style-3" style="border-style:none;border-width:0px;border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--8);padding-right:var(--wp--preset--spacing--8);padding-bottom:var(--wp--preset--spacing--8);padding-left:var(--wp--preset--spacing--8)"><!-- wp:image {"id":192,"sizeSlug":"large","linkDestination":"none","style":{"layout":{"rowSpan":1}}} -->
 <figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/accueil-velo-1024x1024.png" alt="Label accueil -velo" class="wp-image-192"/></figure>
@@ -111,7 +111,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-27 07:43:14]]></modified>
+  <modified><![CDATA[2026-04-27 08:09:08]]></modified>
   <media>
     <file type="content" original_id="188">
       <filename><![CDATA[2026/03/wilbed-footer-2.svg]]></filename>

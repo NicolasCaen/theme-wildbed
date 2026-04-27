@@ -24,8 +24,9 @@
 }
 
 /* Menu desktop (non burger) */
-.wp-block-navigation {
-  gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
+header .wp-block-navigation {
+  -moz-column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
+       column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
 html.has-modal-open .wp-block-navigation-item:has(> a[href*="#"]) {
