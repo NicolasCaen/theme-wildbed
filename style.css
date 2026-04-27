@@ -307,12 +307,6 @@ html {
   }
 }
 
-@media (max-width: 600px) {
-  .section-banner-with-images {
-    padding-top: 7.5rem !important;
-  }
-}
-
 .align-s {
   max-width: 754px;
 }
