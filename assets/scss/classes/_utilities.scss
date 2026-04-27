@@ -15,6 +15,9 @@
 header.fixed{
     position: fixed;
     top: 2.5rem;
+    @include m(600){
+       top: 1rem;
+    }
     left: 0;
     right: 0;
     z-index: 1000;

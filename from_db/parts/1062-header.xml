@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[1062]]></id>
+  <slug><![CDATA[header]]></slug>
+  <type><![CDATA[wp_template_part]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-04-27 06:58:50]]></date>
+  <date_gmt><![CDATA[2026-04-27 06:58:50]]></date_gmt>
+  <title><![CDATA[Haut de page]]></title>
+  <content><![CDATA[<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-full container-1920","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-full container-1920"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"full","className":"section__wrapper","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section__wrapper"><!-- wp:group {"metadata":{"name":"Menu Container"},"align":"full","className":"menu-container","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}}},"backgroundColor":"accent-2","textColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull menu-container has-base-2-color has-accent-2-background-color has-text-color has-background has-link-color"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/logo-horizontal.svg" alt="logo-horizontal.svg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:navigation {"ref":5,"textColor":"inherit","align":"full","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"layout":{"type":"flex","justifyContent":"space-between"}} /-->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Réserver</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-04-27 06:59:22]]></modified>
+  <media/>
+  <meta>
+    <key name="origin"><![CDATA[theme]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wp_theme">
+      <term slug="wildbed"/>
+    </taxonomy>
+    <taxonomy name="wp_template_part_area">
+      <term slug="header"/>
+    </taxonomy>
+  </taxonomies>
+</content>

@@ -5,7 +5,6 @@
  * Categories: media
  * Keywords: media, banner
  * Block Types: core/cover
- * Inserter: true
  */
 ?>
 <?php $is_editor = is_admin() || wp_is_json_request() || (function_exists('get_current_screen') && get_current_screen() && get_current_screen()->is_block_editor()); ?>
