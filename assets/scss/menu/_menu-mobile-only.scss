@@ -19,7 +19,7 @@
       }
   }
   .wp-block-navigation__container {
-
+    gap:.75rem !important;
     width: 100% !important;
     padding: 0 min(7.5rem, 5vw);
     >li{
