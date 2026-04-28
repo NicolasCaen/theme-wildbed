@@ -996,6 +996,10 @@ header.fixed {
   }
 }
 
+.section-conditions strong {
+  color: var(--wp--preset--color--base-2);
+}
+
 /** changement du breakpoint du menu */
 @media (max-width: 1200px) {
   .wp-block-navigation__responsive-container-open:not(.always-shown) {
