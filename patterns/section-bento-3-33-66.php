@@ -18,11 +18,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Camping Les Pâtis <br>Rue Camille Breton <br>37530 Nazelles-Négron</p>
+<p>Camping Les Pâtis<br>Rue Camille Breton<br>37530 Nazelles-Négron</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>À 3 km du centre d'Amboise Boulangerie, pharmacie, restaurant à 100 m Supermarché à 3 km</p>
+<p>À 3 km du centre d'AmboiseBoulangerie, pharmacie, restaurant à 100 mSupermarché à 3 km</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -37,11 +37,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>En voiture </strong></p>
+<p><strong>En voiture</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Depuis Tours : A85 sortie Amboise, 20 min </p>
+<p>Depuis Tours : A85 sortie Amboise, 20 min</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,7 +51,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>En train </strong></p>
+<p><strong>En train</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -61,7 +61,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>À vélo </strong></p>
+<p><strong>À vélo</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
