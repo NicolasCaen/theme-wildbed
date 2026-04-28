@@ -9,7 +9,10 @@
 
 
 .section-pourquoi{
-
+	.wp-block-image{
+	display:flex;
+		justify-content:center;
+	}
  --wp--preset--spacing--custom:105px;  
         &__columns{
             gap:0;

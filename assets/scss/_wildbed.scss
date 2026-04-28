@@ -285,6 +285,9 @@ figure:nth-of-type(5) {
 
             }
         }
+        img{
+            width: 100%;
+        }
 }
 .footer-section-column__items{
           @include m(768){
