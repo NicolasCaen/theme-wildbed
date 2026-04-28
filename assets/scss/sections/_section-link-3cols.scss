@@ -1,7 +1,3 @@
-@use '../index' as *;
-
 .section-link-3cols__grid{
-        @include m(600) {
-            grid-template-columns : 1fr;
-    }
+grid-template-columns : 1fr;
 }
