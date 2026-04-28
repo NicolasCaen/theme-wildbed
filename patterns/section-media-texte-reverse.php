@@ -8,7 +8,8 @@
  */
 ?>
 <!-- wp:media-text {"align":"","mediaId":270,"mediaLink":"<?php echo home_url(); ?>/camping/frame-1022/","mediaType":"image","metadata":{"name":"Média \u0026 texte Reverse"},"className":"no-padding-content align-ultrawide section-media-texte section-media-texte\u002d\u002dreverse"} -->
-<div class="wp-block-media-text is-stacked-on-mobile no-padding-content align-ultrawide section-media-texte section-media-texte--reverse"><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading -->
+<div class="wp-block-media-text is-stacked-on-mobile no-padding-content align-ultrawide section-media-texte section-media-texte--reverse"><figure class="wp-block-media-text__media"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div id="insolites" class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Des hébergements insolites</h2>
 <!-- /wp:heading -->
 
@@ -26,5 +27,6 @@
 
 <!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Découvrir les hébergements</a></div>
-<!-- /wp:button --></div></div>
+<!-- /wp:button --></div>
+<!-- /wp:group --></div></div>
 <!-- /wp:media-text -->
