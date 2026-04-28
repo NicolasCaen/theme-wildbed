@@ -581,11 +581,11 @@ html {
 
 header.fixed {
   position: fixed;
-  top: 2.5rem;
+  top: calc(2.5rem + var(--decalage-top, 0px));
 }
 @media (max-width: 600px) {
   header.fixed {
-    top: 1rem;
+    top: calc(1rem + var(--decalage-top, 0px));
   }
 }
 header.fixed {
