@@ -7,7 +7,7 @@
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Section | Bento Informations"},"align":"","className":"bento-information align-ultrawide","layout":{"type":"default"}} -->
-<div class="wp-block-group bento-information align-ultrawide"><!-- wp:heading -->
+<div id="tarifs" class="wp-block-group bento-information align-ultrawide"><!-- wp:heading -->
 <h2 class="wp-block-heading">Les tarifs en un coup d’oeil</h2>
 <!-- /wp:heading -->
 
