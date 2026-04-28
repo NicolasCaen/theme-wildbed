@@ -21,7 +21,9 @@
 <!-- wp:navigation-link {"label":"Foodtruck","type":"page","url":"/camping#foodtruck","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"Hébergements","type":"page","id":254,"url":"https://wildbed.local/hebergements/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- wp:navigation-submenu {"label":"Hébergements","type":"page","id":254,"url":"https://wildbed.local/hebergements/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} -->
+<!-- wp:navigation-link {"label":"Ctouvert","type":"page","id":259,"url":"https://wildbed.local/ctouvert/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"L’aventure Wild Bed","type":"page","url":"https://wildbed.local/aventures/","kind":"post-type"} /-->
 
@@ -29,7 +31,7 @@
 
 <!-- wp:navigation-link {"label":"Infos pratiques","type":"page","id":97,"url":"https://wildbed.local/infos-pratiques/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 11:54:59]]></modified>
+  <modified><![CDATA[2026-04-28 08:28:07]]></modified>
   <media/>
   <meta/>
   <taxonomies/>

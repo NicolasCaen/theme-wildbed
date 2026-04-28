@@ -36,10 +36,10 @@
   .wp-block-navigation__container {
     gap:.75rem !important;
     width: 100% !important;
-    padding: 0 min(7.5rem, 5vw);
+    padding: 0;
     >li{
-      
-      grid-column: 2;
+      width: 100%;
+      grid-column: auto;
     }
   }
 }
