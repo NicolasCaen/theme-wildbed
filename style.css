@@ -1089,6 +1089,10 @@ html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover .wp-block-na
   /* styles mobile */
 }
 
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content {
+  padding: 3rem 3rem 1rem 3rem;
+}
+
 .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container {
   padding-top: 0.5rem;
   padding-right: 0;
