@@ -119,6 +119,7 @@ grid-template-rows: auto;
 
    >figure{
     position: relative;
+      transition:all .5s;
      @include m(600){
            border: .25rem solid white;
        &:nth-of-type(1){
@@ -138,7 +139,18 @@ grid-template-rows: auto;
     &:hover{
         z-index: 10;
         transition:all 1s;
-        transform: rotate(2deg) !important;
+           &:nth-of-type(1){
+        transform: rotate(3.5deg) translateX(2vw);
+       }
+       &:nth-of-type(2){
+        transform: rotate(-2.5deg)   translateX(1vw);;
+       }
+       &:nth-of-type(3){
+        transform: rotate(3.5deg)   translateX(-1vw);
+       }
+       &:nth-of-type(4){
+        transform: rotate(-2.5deg) translateX(-2vw);
+       }
     }
     
         border: .75rem solid white;

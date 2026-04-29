@@ -18,7 +18,7 @@
 <!-- /wp:group -->
 <!-- /wp:post-template -->
 
-<!-- wp:query-pagination {"className":"query-loop__pagination"} -->
+<!-- wp:query-pagination {"className":"query-loop__pagination","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}}}} -->
 <!-- wp:query-pagination-previous /-->
 
 <!-- wp:query-pagination-numbers /-->

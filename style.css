@@ -119,6 +119,7 @@ html {
 }
 .galerie-polaroid > figure {
   position: relative;
+  transition: all 0.5s;
 }
 @media (max-width: 600px) {
   .galerie-polaroid > figure {
@@ -141,7 +142,18 @@ html {
   .galerie-polaroid > figure:hover {
     z-index: 10;
     transition: all 1s;
-    transform: rotate(2deg) !important;
+  }
+  .galerie-polaroid > figure:hover:nth-of-type(1) {
+    transform: rotate(3.5deg) translateX(2vw);
+  }
+  .galerie-polaroid > figure:hover:nth-of-type(2) {
+    transform: rotate(-2.5deg) translateX(1vw);
+  }
+  .galerie-polaroid > figure:hover:nth-of-type(3) {
+    transform: rotate(3.5deg) translateX(-1vw);
+  }
+  .galerie-polaroid > figure:hover:nth-of-type(4) {
+    transform: rotate(-2.5deg) translateX(-2vw);
   }
   .galerie-polaroid > figure {
     border: 0.75rem solid white;
@@ -1081,6 +1093,73 @@ header.fixed {
     -moz-column-count: 2 !important;
          column-count: 2 !important;
   }
+}
+
+.is-style-picto {
+  justify-content: center;
+  align-items: center;
+}
+.is-style-picto [href*="/nature/"]::before {
+  content: "";
+  background-image: url("assets/images/pictos/nature.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-flex;
+}
+.is-style-picto [href*="/heritage/"]::before {
+  content: "";
+  background-image: url("assets/images/pictos/heritage.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-block;
+}
+.is-style-picto [href*="/animal/"]::before {
+  content: "";
+  background-image: url("assets/images/pictos/animal.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-block;
+}
+
+.is-style-categories-label a[href*="/nature/"], .is-style-categories-label a[href*="/heritage/"], .is-style-categories-label a[href*="/animal/"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.is-style-categories-label a[href*="/nature/"]::before, .is-style-categories-label a[href*="/heritage/"]::before, .is-style-categories-label a[href*="/animal/"]::before {
+  border-radius: 100%;
+  content: "";
+  background-size: 0.8em 0.8em;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: var(--wp--preset--color--contrast);
+  display: inline-flex;
+}
+.is-style-categories-label a[href*="/nature/"]:hover, .is-style-categories-label a[href*="/heritage/"]:hover, .is-style-categories-label a[href*="/animal/"]:hover {
+  background-color: var(--wp--preset--color--contrast);
+}
+.is-style-categories-label a[href*="/nature/"]:hover::before, .is-style-categories-label a[href*="/heritage/"]:hover::before, .is-style-categories-label a[href*="/animal/"]:hover::before {
+  background-color: var(--wp--preset--color--base-2);
+}
+.is-style-categories-label a[href*="/nature/"]::before {
+  background-image: url("assets/images/pictos/nature.svg");
+}
+.is-style-categories-label a[href*="/heritage/"]::before {
+  background-image: url("assets/images/pictos/heritage.svg");
+}
+.is-style-categories-label a[href*="/animal/"]::before {
+  background-image: url("assets/images/pictos/animal.svg");
 }
 
 .section-conditions strong {

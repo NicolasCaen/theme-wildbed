@@ -2,23 +2,23 @@
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
     "templateParts": [
-		{
-			"area": "header",
-			"name": "header",
-			"title": "Haut de page"
-		},
-		{
-			"area": "footer",
-			"name": "footer",
-			"title": "Footer"
-		},
         {
-			"area": "uncategorized",
-			"name": "query-loop",
-			"title": "Boucle d'articles"
-		}
-	],
-	"customTemplates": [
+            "area": "header",
+            "name": "header",
+            "title": "Haut de page"
+        },
+        {
+            "area": "footer",
+            "name": "footer",
+            "title": "Footer"
+        },
+        {
+            "area": "uncategorized",
+            "name": "query-loop",
+            "title": "Boucle d'articles"
+        }
+    ],
+    "customTemplates": [
         {
             "name": "index-small",
             "title": "Index Small"
@@ -27,51 +27,51 @@
             "name": "index-wide",
             "title": "Index Wide"
         },
-		{
-			"name": "search",
-			"title": "Recherche"
-		}
-	],
+        {
+            "name": "search",
+            "title": "Recherche"
+        }
+    ],
     "settings": {
         "custom": {
             "navigation": {
-              "footer": "Footer Menu"
+                "footer": "Footer Menu"
             }
         },
         "appearanceTools": true,
         "shadow": {
             "defaultPresets": false,
             "presets": [
-              {
-                "name": "Crisp",
-                "slug": "crisp",
-                "shadow": "6px 6px 0px 0px var(--wp--preset--color--accent)"
-              },
-              {
-                "name": "Outlined",
-                "slug": "outlined",
-                "shadow": "0px 4px 40px 0px rgba(0, 0, 0, 0.20)"
-              },
-              {
-                "name": "Outlined 2",
-                "slug": "outlined 2",
-                "shadow": "0px 2px 10px 0px rgba(31, 69, 96, 0.25)"
-              }
+                {
+                    "name": "Crisp",
+                    "slug": "crisp",
+                    "shadow": "6px 6px 0px 0px var(--wp--preset--color--accent)"
+                },
+                {
+                    "name": "Outlined",
+                    "slug": "outlined",
+                    "shadow": "0px 4px 40px 0px rgba(0, 0, 0, 0.20)"
+                },
+                {
+                    "name": "Outlined 2",
+                    "slug": "outlined 2",
+                    "shadow": "0px 2px 10px 0px rgba(31, 69, 96, 0.25)"
+                }
             ]
-          },
+        },
         "layout": {
             "contentSize": "960px",
             "wideSize": "clamp(1200px, calc(1200px + (1680 - 1200) * ((100vw - 1440px) / (1920 - 1440))), 1680px)"
         },
         "border": {
-			"radiusSizes": [
-				{
-					"name": "S | .5rem",
-					"slug": "s",
-					"size": "0.5rem"
-				},
+            "radiusSizes": [
                 {
-                    "name": "M | .1rem",
+                    "name": "S |\u00a0.5rem",
+                    "slug": "s",
+                    "size": "0.5rem"
+                },
+                {
+                    "name": "M |\u00a0.1rem",
                     "slug": "m",
                     "size": "1rem"
                 },
@@ -100,10 +100,10 @@
                     "slug": "rounded",
                     "size": "10rem"
                 }
-			]
-		},
+            ]
+        },
         "color": {
-               "custom": true,
+            "custom": true,
             "customDuotone": true,
             "customGradient": true,
             "palette": [
@@ -163,10 +163,10 @@
                     "color": "inherit"
                 }
             ],
-    "gradients": [
+            "gradients": [
                 {
                     "slug": "black-to-transparent",
-                    "name": "Noir → Transparent",
+                    "name": "Noir \u2192 Transparent",
                     "gradient": "linear-gradient(0deg, rgba(0, 0, 0, 0.60) 25%, rgba(0, 0, 0, 0.00) 53.85%)"
                 }
             ],
@@ -296,70 +296,87 @@
                             "fontFamily": "\"Open Sans\""
                         }
                     ]
+                },
+                {
+                    "fontFamily": "\"pictos\", sans-serif",
+                    "name": "pictos",
+                    "slug": "pictos",
+                    "fontFace": [
+                        {
+                            "fontFamily": "pictos",
+                            "src": [
+                                "file:./assets/fonts/pictos/pictos.woff",
+                                "file:./assets/fonts/pictos/pictos.ttf",
+                                "file:./assets/fonts/pictos/pictos.eot",
+                                "file:./assets/fonts/pictos/pictos.svg"
+                            ],
+                            "fontDisplay": "swap"
+                        }
+                    ]
                 }
             ],
-    "fontSizes": [
+            "fontSizes": [
                 {
-          "slug": "xs",
-          "name": "P extra small — 13px",
-          "size": "0.8125rem"
-        },
-        {
-          "slug": "s",
-          "name": "P small — 14px",
-          "size": "0.875rem"
-        },
-        {
-          "slug": "m",
-          "name": "P default — 16px",
-          "size": "1rem"
-        },
-        {
-          "slug": "ml",
-          "name": "P large — 18px",
-          "size": "1.125rem"
-        },
-        {
-          "slug": "l",
-          "name": "P huge — 24px",
-          "size": "1.5rem"
-        },
-        {
-          "slug": "xl",
-          "name": "P giga — 36px",
-          "size": "2.25rem"
-        },
-        {
-          "slug": "h-six",
-          "name": "Title XS - 20px",
-          "size": "clamp(0.875rem, 0.5rem + 1.25vw, 1.25rem)"
-        },
-        {
-          "slug": "h-five",
-          "name": "Title S - 24px",
-          "size": "clamp(1rem, 0.5rem + 1.6667vw, 1.5rem)"
-        },
-        {
-          "slug": "h-four",
-          "name": "Title M - 32px",
-          "size": "clamp(1.3125rem, 0.6458rem + 2.2222vw, 2rem)"
-        },
-        {
-          "slug": "h-three",
-          "name": "Title L - 36px",
-          "size": "clamp(1.5rem, 0.75rem + 2.5vw, 2.25rem)"
-        },
-        {
-          "slug": "h-two",
-          "name": "Title XL - 44px",
-          "size": "clamp(1.875rem, 0.9167rem + 3.1944vw, 2.75rem)"
-        },
-        {
-          "slug": "h-one",
-          "name": "Title XXL - 80px",
-          "size": "clamp(2.5rem, -0.5rem + 10vw, 5rem)"
-        }
-      ]
+                    "slug": "xs",
+                    "name": "P extra small \u2014 13px",
+                    "size": "0.8125rem"
+                },
+                {
+                    "slug": "s",
+                    "name": "P small \u2014 14px",
+                    "size": "0.875rem"
+                },
+                {
+                    "slug": "m",
+                    "name": "P default \u2014 16px",
+                    "size": "1rem"
+                },
+                {
+                    "slug": "ml",
+                    "name": "P large \u2014 18px",
+                    "size": "1.125rem"
+                },
+                {
+                    "slug": "l",
+                    "name": "P huge \u2014 24px",
+                    "size": "1.5rem"
+                },
+                {
+                    "slug": "xl",
+                    "name": "P giga \u2014 36px",
+                    "size": "2.25rem"
+                },
+                {
+                    "slug": "h-six",
+                    "name": "Title XS - 20px",
+                    "size": "clamp(0.875rem, 0.5rem + 1.25vw, 1.25rem)"
+                },
+                {
+                    "slug": "h-five",
+                    "name": "Title S - 24px",
+                    "size": "clamp(1rem, 0.5rem + 1.6667vw, 1.5rem)"
+                },
+                {
+                    "slug": "h-four",
+                    "name": "Title M - 32px",
+                    "size": "clamp(1.3125rem, 0.6458rem + 2.2222vw, 2rem)"
+                },
+                {
+                    "slug": "h-three",
+                    "name": "Title L - 36px",
+                    "size": "clamp(1.5rem, 0.75rem + 2.5vw, 2.25rem)"
+                },
+                {
+                    "slug": "h-two",
+                    "name": "Title XL - 44px",
+                    "size": "clamp(1.875rem, 0.9167rem + 3.1944vw, 2.75rem)"
+                },
+                {
+                    "slug": "h-one",
+                    "name": "Title XXL - 80px",
+                    "size": "clamp(2.5rem, -0.5rem + 10vw, 5rem)"
+                }
+            ]
         },
         "spacing": {
             "blockGap": "0",
@@ -386,12 +403,12 @@
                 },
                 {
                     "slug": "16-32",
-                    "name": "1rem (16px) → 2rem (32px)",
+                    "name": "1rem (16px) \u2192 2rem (32px)",
                     "size": "clamp(1rem, 0.6667rem + 1.6667vw, 2rem)"
                 },
-               {
+                {
                     "slug": "16-36",
-                    "name": "1rem (16px) → 2.25rem (36px)",
+                    "name": "1rem (16px) \u2192 2.25rem (36px)",
                     "size": "clamp(1rem, 0.6667rem + 1.6667vw, 2.25rem)"
                 },
                 {
@@ -406,22 +423,22 @@
                 },
                 {
                     "slug": "32-40",
-                    "name": "2rem (32px) → 2.5rem (40px)",
+                    "name": "2rem (32px) \u2192 2.5rem (40px)",
                     "size": "clamp(2rem, 1.7222rem + 0.8889vw, 2.5rem)"
                 },
-               {
+                {
                     "slug": "32-80",
-                    "name": "2rem (32px) → 5rem (80px)",
+                    "name": "2rem (32px) \u2192 5rem (80px)",
                     "size": "clamp(2rem, 0.3333rem + 5.3333vw, 5rem)"
                 },
                 {
                     "slug": "32-48",
-                    "name": "2rem (32px) → 3rem (48px)",
+                    "name": "2rem (32px) \u2192 3rem (48px)",
                     "size": "clamp(2rem, 1.4444rem + 1.7778vw, 3rem)"
                 },
                 {
                     "slug": "32-72",
-                    "name": "2rem (32px) → 4.5rem (72px)",
+                    "name": "2rem (32px) \u2192 4.5rem (72px)",
                     "size": "clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)"
                 },
                 {
@@ -431,22 +448,22 @@
                 },
                 {
                     "slug": "56-120",
-                    "name": "3.5rem (56px) → 7.5rem (120px)",
+                    "name": "3.5rem (56px) \u2192 7.5rem (120px)",
                     "size": "clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)"
                 },
                 {
                     "slug": "56-144",
-                    "name": "3.5rem (56px) → 9rem (144px)",
+                    "name": "3.5rem (56px) \u2192 9rem (144px)",
                     "size": "clamp(3.5rem, 0.5rem + 9.6667vw, 9rem)"
                 },
                 {
                     "slug": "56-160",
-                    "name": "3.5rem (56px) → 10rem (160px)",
+                    "name": "3.5rem (56px) \u2192 10rem (160px)",
                     "size": "clamp(3.5rem, -0.1111rem + 11.5556vw, 10rem)"
                 },
                 {
                     "slug": "56-200",
-                    "name": "3.5rem (56px) → 12.5rem (200px)",
+                    "name": "3.5rem (56px) \u2192 12.5rem (200px)",
                     "size": "clamp(3.5rem, -1.5rem + 16vw, 12.5rem)"
                 },
                 {
@@ -491,37 +508,37 @@
                 },
                 {
                     "slug": "h-16-40",
-                    "name": "H | 1rem (16px) → 2.5rem (40px)",
+                    "name": "H | 1rem (16px) \u2192 2.5rem (40px)",
                     "size": "clamp(1rem, 0.1667rem + 2.6667vw, 2.5rem)"
                 },
                 {
                     "slug": "h-16-48",
-                    "name": "H | 1rem (16px) → 3rem (48px)",
+                    "name": "H | 1rem (16px) \u2192 3rem (48px)",
                     "size": "clamp(1rem, -0.1111rem + 3.5556vw, 3rem)"
                 },
                 {
                     "slug": "h-16-56",
-                    "name": "H | 1rem (16px) → 3.5rem (56px)",
+                    "name": "H | 1rem (16px) \u2192 3.5rem (56px)",
                     "size": "clamp(1rem, -0.1111rem + 3.5556vw, 3.5rem)"
                 },
                 {
                     "slug": "h-16-72",
-                    "name": "H | 1rem (16px) → 4.5rem (72px)",
+                    "name": "H | 1rem (16px) \u2192 4.5rem (72px)",
                     "size": "clamp(1rem, -0.9444rem + 6.2222vw, 4.5rem)"
                 },
                 {
                     "slug": "h-16-120",
-                    "name": "H | 1rem (16px) → 7.5rem (120px)",
+                    "name": "H | 1rem (16px) \u2192 7.5rem (120px)",
                     "size": "clamp(1rem, -2.6111rem + 11.5556vw, 7.5rem)"
                 },
                 {
                     "slug": "h-16-160",
-                    "name": "H | 1rem (16px) → 10rem (160px)",
+                    "name": "H | 1rem (16px) \u2192 10rem (160px)",
                     "size": "clamp(1rem, -4rem + 16vw, 10rem)"
                 },
                 {
                     "slug": "h-16-200",
-                    "name": "H | 1rem (16px) → 12.5rem (200px)",
+                    "name": "H | 1rem (16px) \u2192 12.5rem (200px)",
                     "size": "clamp(1rem, -5.3889rem + 20.4444vw, 12.5rem)"
                 },
                 {
@@ -529,7 +546,6 @@
                     "name": "Custom var(--custom-size)",
                     "size": "var(--custom-size)"
                 }
-
             ],
             "defaultSpacingSizes": false,
             "units": [
@@ -546,59 +562,58 @@
         "css": "where(.wp-site-blocks) > * ,{ margin-block-start: 0 !important; margin-block-end: 0 !important; }",
         "typography": {
             "fontFamily": "var(--wp--preset--font-family--first)",
-            "fontSize" : "var(--wp--preset--font-size--m)",
-            "lineHeight" : "1.25"
+            "fontSize": "var(--wp--preset--font-size--m)",
+            "lineHeight": "1.25"
         },
         "color": {
             "background": "var(--wp--preset--color--base)"
         },
         "elements": {
             "heading": {
-                "color":{
-                    "text" : "var(--wp--preset--color--base-2)"
+                "color": {
+                    "text": "var(--wp--preset--color--base-2)"
                 },
                 "typography": {
                     "fontFamily": "var(--wp--preset--font-family--second)"
                 }
             },
             "h1": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-one)",
-					"lineHeight": "1.15"
-				}
-			},
-			"h2": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-two)"
-                  
-				}
-			},
-			"h3": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-three)"
-				}
-			},
-			"h4": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-four)"
-				}
-			},
-			"h5": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-five)"
-				}
-			},
-            			"h6": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--h-six)"
-				}
-			}
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-one)",
+                    "lineHeight": "1.15"
+                }
+            },
+            "h2": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-two)"
+                }
+            },
+            "h3": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-three)"
+                }
+            },
+            "h4": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-four)"
+                }
+            },
+            "h5": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-five)"
+                }
+            },
+            "h6": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--h-six)"
+                }
+            }
         },
         "blocks": {
             "core/heading": {
                 "typography": {
-                    "lineHeight" :"1.25",
-                    "fontWeight" :"400"
+                    "lineHeight": "1.25",
+                    "fontWeight": "400"
                 },
                 "spacing": {
                     "margin": {
@@ -606,7 +621,7 @@
                     }
                 }
             },
-            "core/details":{
+            "core/details": {
                 "css": "& summary { cursor: pointer; font-weight:700; list-style: none; }; & summary::-webkit-details-marker { display: none; }; & summary::-webkit-details-marker { display: none; } &[open] summary::after { transform: rotate(180deg); } & summary::after { content: ''; float:right; display: inline-block; width: 16px; height: 16px; background-image: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16' fill='none'%3E%3Cpath d='M13.0283 5.02876C13.2886 4.76841 13.7106 4.76841 13.971 5.02876C14.2313 5.28911 14.2313 5.71113 13.971 5.97146L8.47101 11.4715C8.22694 11.7155 7.84088 11.7306 7.57907 11.517L7.52827 11.4715L2.02827 5.97146C1.76792 5.71112 1.76792 5.28911 2.02827 5.02876C2.28862 4.76841 2.71063 4.76841 2.97097 5.02876L7.99961 10.0574L13.0283 5.02876Z' fill='%232E5448'/%3E%3C/svg%3E\"); background-repeat: no-repeat; background-position: center; transition: transform 0.2s; }; & details[open] summary::after { transform: rotate(180deg); }; & p { margin-top: var(--wp--preset--spacing--12) !important; }",
                 "color": {
                     "background": "white"
@@ -617,14 +632,14 @@
                         "bottom": "var(--wp--preset--spacing--24)",
                         "left": "var(--wp--preset--spacing--12)",
                         "right": "var(--wp--preset--spacing--12)",
-                        "top" : "var(--wp--preset--spacing--24)"
+                        "top": "var(--wp--preset--spacing--24)"
                     }
                 },
                 "border": {
                     "radius": "var(--wp--preset--border-radius--s)"
                 }
             },
-            "core/spacer":{
+            "core/spacer": {
                 "spacing": {
                     "margin": {
                         "bottom": "0",
@@ -632,9 +647,7 @@
                     }
                 }
             },
-
-            "core/list":{
-              
+            "core/list": {
                 "spacing": {
                     "padding": {
                         "left": "1rem",
@@ -646,10 +659,10 @@
                     }
                 }
             },
-            "core/paragraph":{
+            "core/paragraph": {
                 "typography": {
                     "fontSize": "var(--wp--preset--font-size--m)",
-                    "lineHeight" : "1.25"
+                    "lineHeight": "1.25"
                 },
                 "spacing": {
                     "margin": {
@@ -666,16 +679,16 @@
                     }
                 }
             },
-            "core/post-terms" :{
-                     "spacing": {
+            "core/post-terms": {
+                "spacing": {
                     "margin": {
                         "bottom": "0",
                         "top": "0"
                     }
                 }
             },
-            "core/categories" :{
-                     "spacing": {
+            "core/categories": {
+                "spacing": {
                     "margin": {
                         "bottom": "0",
                         "top": "0"
@@ -685,59 +698,58 @@
             "core/quote": {
                 "typography": {
                     "fontSize": "var(--wp--preset--font-size--h-four)",
-                    "fontWeight" :"600",
+                    "fontWeight": "600",
                     "lineHeight": "1.15",
                     "textAlign": "center",
-                    "fontStyle" : "italic"
+                    "fontStyle": "italic"
                 },
-                 "css": "text-wrap:pretty;"
+                "css": "text-wrap:pretty;"
             },
             "core/list-item": {
                 "typography": {
                     "fontSize": "var(--wp--preset--font-size--m)",
-                    "lineHeight" : "1.25"
+                    "lineHeight": "1.25"
                 },
                 "spacing": {
-                "margin": {
-                    "bottom": "var:preset|spacing|1"
+                    "margin": {
+                        "bottom": "var:preset|spacing|1"
                     }
                 }
             },
-            "core/image":{
+            "core/image": {
                 "border": {
                     "radius": "var(--wp--preset--border-radius--s)"
                 }
             },
-            "core/media-text":{
-                "css":"& > .wp-block-media-text__content{overflow-wrap: break-word;word-break: keep-all !important;} & img{border-radius:var(--wp--preset--border-radius--s)}"
-    
+            "core/media-text": {
+                "css": "& > .wp-block-media-text__content{overflow-wrap: break-word;word-break: keep-all !important;} & img{border-radius:var(--wp--preset--border-radius--s)}"
             },
             "core/button": {
                 "css": "transition: all 0.3s ease; &:hover{background:var(--btn-hover-bg,var(--wp--preset--color--base-2));}",
-            "color": {
-                "background": "var(--wp--preset--color--contrast)"
-            },
-            "border": {
-                "color": "var(--wp--preset--color--base)",
-                "radius": {
-                "topLeft": "var(--wp--preset--border-radius--l)",
-                "topRight": "var(--wp--preset--border-radius--l)",
-                "bottomLeft": "var(--wp--preset--border-radius--l)",
-                "bottomRight": "var(--wp--preset--border-radius--l)"
+                "color": {
+                    "background": "var(--wp--preset--color--contrast)"
+                },
+                "border": {
+                    "color": "var(--wp--preset--color--base)",
+                    "radius": {
+                        "topLeft": "var(--wp--preset--border-radius--l)",
+                        "topRight": "var(--wp--preset--border-radius--l)",
+                        "bottomLeft": "var(--wp--preset--border-radius--l)",
+                        "bottomRight": "var(--wp--preset--border-radius--l)"
+                    }
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "var(--wp--preset--spacing--8)",
+                        "bottom": "var(--wp--preset--spacing--8)",
+                        "left": "var(--wp--preset--spacing--16)",
+                        "right": "var(--wp--preset--spacing--16)"
+                    }
+                },
+                "typography": {
+                    "lineHeight": "1.25",
+                    "fontWeight": "700"
                 }
-            },
-            "spacing": {
-                "padding": {
-                "top": "var(--wp--preset--spacing--8)",
-                "bottom": "var(--wp--preset--spacing--8)",
-                "left": "var(--wp--preset--spacing--16)",
-                "right": "var(--wp--preset--spacing--16)"
-                }
-            },
-            "typography": {
-                "lineHeight": "1.25",
-                "fontWeight" :"700"
-            }
             }
         }
     }

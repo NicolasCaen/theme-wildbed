@@ -1,0 +1,84 @@
+.is-style-picto {
+    justify-content: center;
+    align-items: center;
+    & [href*='/nature/']::before {
+        content: '';
+        background-image: url('assets/images/pictos/nature.svg');
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1.2em;
+        height: 1.2em;
+    
+        display: inline-flex;
+    }
+    & [href*='/heritage/']::before {
+            content: '';
+        background-image: url('assets/images/pictos/heritage.svg');
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1.2em;
+        height: 1.2em;
+        display: inline-block;
+    }
+        & [href*='/animal/']::before {
+            content: '';
+        background-image: url('assets/images/pictos/animal.svg');
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1.2em;
+        height: 1.2em;
+        display: inline-block;
+    }
+}       
+
+.is-style-categories-label{
+  
+   a{
+    &[href*='/nature/'],
+    &[href*='/heritage/'],
+    &[href*='/animal/'] {
+      display: inline-flex;
+     align-items: center;
+     gap:.5rem;
+      &::before{
+        border-radius:100%;
+                content: '';
+               background-size: .8em .8em; 
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 1.25rem;
+        height: 1.25rem;
+        background-color:var(--wp--preset--color--contrast);
+    
+        display: inline-flex;
+    }
+    &:hover{
+         background-color:var(--wp--preset--color--contrast);
+        &::before{
+            background-color:var(--wp--preset--color--base-2);
+        }
+        
+    }
+   }
+      }
+     a[href*='/nature/']::before {
+
+        background-image: url('assets/images/pictos/nature.svg');
+     
+       
+    }
+    a[href*='/heritage/']::before {
+
+        background-image: url('assets/images/pictos/heritage.svg');
+  
+    }
+    a[href*='/animal/']::before {
+     
+        background-image: url('assets/images/pictos/animal.svg');
+
+
+    }
+}
