@@ -1,7 +1,8 @@
 <?php
 /**
- * Title: Content | 404
- * Slug: ng1-base/variation-block-
+ * Title: Contenu 404
+ * Slug: ng1-base/content-404
+ * Post Types: wp_template
  */
 ?>
 <!-- wp:group {"tagName":"main","className":"grid-404","layout":{"type":"grid","minimumColumnWidth":null,"columnCount":1}} -->
