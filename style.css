@@ -323,6 +323,12 @@ html {
   }
 }
 
+@media (min-width: 600px) {
+  .title-404 {
+    font-size: 370px !important;
+  }
+}
+
 .align-s {
   max-width: 754px;
 }

@@ -11,8 +11,8 @@
 
 <!-- wp:group {"tagName":"main","className":"grid-404","layout":{"type":"grid","minimumColumnWidth":null,"columnCount":1}} -->
 <main class="wp-block-group grid-404"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"40vh"},"elements":{"link":{"color":{"text":"var:preset|color|base-4"}}}},"textColor":"base-4"} -->
-<h2 class="wp-block-heading has-text-align-center has-base-4-color has-text-color has-link-color" style="font-size:40vh">404</h2>
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","className":"title-404","style":{"typography":{"fontSize":"40vh"},"elements":{"link":{"color":{"text":"var:preset|color|base-4"}}}},"textColor":"base-4","fitText":true} -->
+<h2 class="wp-block-heading has-text-align-center title-404 has-fit-text has-base-4-color has-text-color has-link-color" style="font-size:40vh">404</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
