@@ -359,3 +359,98 @@ p:last-of-type{
         font-size: 370px !important;
      }
 }
+
+.section-texte-multi-images{
+.section-wide__images{
+     @include p(1680){
+    figure{
+        &:nth-of-type(1){
+            transform: translateX(-20%);
+        }
+              &:nth-of-type(2){
+            transform: translateX(40%);
+        }
+                      &:nth-of-type(3){
+            transform: translateX(0);
+        }
+                      &:nth-of-type(4){
+            transform: translateX(-40%);
+        }
+                      &:nth-of-type(5){
+            transform: translateX(10%);
+        }
+    }
+        @include b(1024,1680){
+                    
+            &:nth-of-type(1){
+                transform: translateX(-120%);
+            }
+                &:nth-of-type(2){
+                transform: translateX(140%);
+            }
+                        &:nth-of-type(3){
+                transform: translateX(100%);
+            }
+                        &:nth-of-type(4){
+                transform: translateX(-140%);
+            }
+                        &:nth-of-type(5){
+                transform: translateX(110%);
+            }
+        }
+        @include b(740,1023){
+                    
+            &:nth-of-type(1){
+                transform: translateX(-170%);
+            }
+                &:nth-of-type(2){
+                transform: translateX(200%);
+            }
+                        &:nth-of-type(3){
+                transform: translateX(150%);
+            }
+                        &:nth-of-type(4){
+                transform: translateX(-190%);
+            }
+                        &:nth-of-type(5){
+                transform: translateX(160%);
+            }
+        }
+                @include b(500,740){
+                    
+            &:nth-of-type(1){
+                transform: translateX(-50%) translateY(-100%);
+            }
+                &:nth-of-type(2){
+                transform:  translateX(150%) translateY(-180%);
+            }
+                        &:nth-of-type(3){
+                transform: translateX(150%);
+            }
+                        &:nth-of-type(4){
+                transform: translateX(-190%);
+            }
+                        &:nth-of-type(5){
+                transform: translateX(160%);
+            }
+        }
+    }
+}
+@include m(500){
+    .grid-1-1-container{
+        display: flex;
+        
+        flex-direction:column-reverse;
+    }
+    .section-wide__images{
+        display: flex !important;
+
+        figure{
+            &:nth-of-type(2n){
+                transform:translateY(50%) scale(1.2);
+            }
+        }
+
+    }
+}
+}
