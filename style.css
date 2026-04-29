@@ -1088,6 +1088,7 @@ header.fixed {
   word-break: initial;
 }
 
+.no-link > a,
 .wp-block-post-excerpt__more-link[href="#"] {
   display: none;
 }
