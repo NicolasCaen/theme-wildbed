@@ -347,7 +347,13 @@ figure:nth-of-type(5) {
 //     padding-top: 7.5rem !important;
 //        }
 // }
-
+.section-banner-texte__wrapper{
+    padding-bottom: 0 !important;
+p:last-of-type{
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+}
 .title-404{
      @include p(600){
         font-size: 370px !important;

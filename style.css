@@ -323,6 +323,14 @@ html {
   }
 }
 
+.section-banner-texte__wrapper {
+  padding-bottom: 0 !important;
+}
+.section-banner-texte__wrapper p:last-of-type {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 @media (min-width: 600px) {
   .title-404 {
     font-size: 370px !important;
