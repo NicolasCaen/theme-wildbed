@@ -5,6 +5,10 @@
  * Post Types: wp_template
  */
 ?>
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:group {"tagName":"main","className":"grid-404","layout":{"type":"grid","minimumColumnWidth":null,"columnCount":1}} -->
 <main class="wp-block-group grid-404"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"40vh"},"elements":{"link":{"color":{"text":"var:preset|color|base-4"}}}},"textColor":"base-4"} -->
