@@ -13,7 +13,7 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"ng1-base/section-banner-texte"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-banner-texte--tarifs"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-information"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-32-72"} /-->

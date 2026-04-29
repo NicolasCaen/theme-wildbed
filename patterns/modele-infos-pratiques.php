@@ -12,7 +12,7 @@
  */
 
 ?>
-<!-- wp:pattern {"slug":"ng1-base/section-banner-texte"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-banner-texte--info"} /-->
  <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-bento-2-2-1"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->

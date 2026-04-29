@@ -89,7 +89,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
-<p class="has-base-2-color has-text-color has-link-color"><strong>Télécharger la plaquette du camping</strong></p>
+<!-- wp:paragraph {"className":"with-download-picto","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
+<p class="with-download-picto has-base-2-color has-text-color has-link-color"><strong><a href="<?php echo home_url(); ?>/camping/" data-type="page" data-id="94">Télécharger la plaquette du camping</a></strong></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->

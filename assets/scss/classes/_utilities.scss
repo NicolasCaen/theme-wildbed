@@ -78,3 +78,20 @@ min-height: 100svh !important;
 .mobile-wrap{
     text-wrap: wrap !important;
 }
+
+.with-download-picto a{
+       text-decoration: none;
+       &:hover{
+        color: var(--wp--preset--color--contrast);
+       }
+    &:after{
+
+        content:"";
+        display: inline-block;
+        height:1.1em;
+        width: 1.1em;
+        margin-left: 0.5rem;
+        background-size: contain;
+        background-image: url(assets/images/pictos/dowload.svg);
+    }
+}

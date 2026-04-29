@@ -966,6 +966,22 @@ header.fixed {
   text-wrap: wrap !important;
 }
 
+.with-download-picto a {
+  text-decoration: none;
+}
+.with-download-picto a:hover {
+  color: var(--wp--preset--color--contrast);
+}
+.with-download-picto a:after {
+  content: "";
+  display: inline-block;
+  height: 1.1em;
+  width: 1.1em;
+  margin-left: 0.5rem;
+  background-size: contain;
+  background-image: url(assets/images/pictos/dowload.svg);
+}
+
 .section-bento-contact__aside {
   flex: 0 0 clamp(36%, (740px - 100vw) * 1000, 100%);
   min-width: 300px;
@@ -1066,6 +1082,16 @@ header.fixed {
 
 .wp-block-post-excerpt__more-link[href="#"] {
   display: none;
+}
+
+.wp-block-post-excerpt__more-link:not([href="#"]):after {
+  content: "";
+  display: inline-block;
+  height: 0.9rem;
+  width: 0.9rem;
+  margin-left: 0.5rem;
+  background-size: contain;
+  background-image: url(assets/images/pictos/out.svg);
 }
 
 @media (min-width: 500px) and (max-width: 1200px) {
