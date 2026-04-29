@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Spacer 3.5rem (56px) → 10rem (160px)
- * Slug: ng1-base/spacer-56-160
+ * Slug: 
  * Categories: layout
  * Keywords: Spacer
  * Description: Spacer clamp(3.5rem, -0.1111rem + 11.5556vw, 10rem)

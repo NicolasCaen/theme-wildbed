@@ -360,9 +360,8 @@ p:last-of-type{
      }
 }
 
-.section-texte-multi-images{
+
 .section-wide__images{
-     @include p(1680){
     figure{
         &:nth-of-type(1){
             transform: translateX(-20%);
@@ -379,7 +378,6 @@ p:last-of-type{
                       &:nth-of-type(5){
             transform: translateX(10%);
         }
-    }
         @include b(1024,1680){
                     
             &:nth-of-type(1){
@@ -422,7 +420,7 @@ p:last-of-type{
                 transform: translateX(-50%) translateY(-100%);
             }
                 &:nth-of-type(2){
-                transform:  translateX(150%) translateY(-180%);
+                transform:  translateX(150%) translateY(-100%);
             }
                         &:nth-of-type(3){
                 transform: translateX(150%);
@@ -439,7 +437,6 @@ p:last-of-type{
 @include m(500){
     .grid-1-1-container{
         display: flex;
-        
         flex-direction:column-reverse;
     }
     .section-wide__images{
@@ -452,5 +449,4 @@ p:last-of-type{
         }
 
     }
-}
 }
