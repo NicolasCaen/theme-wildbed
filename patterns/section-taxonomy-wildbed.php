@@ -2,7 +2,7 @@
 /**
  * Title: Section wildbed
  * Slug: ng1-base/section-taxonomy-wildbed
- * Categories: taxonomy
+ * Categories: query
  * Block Types: core/group
  */
 ?>
