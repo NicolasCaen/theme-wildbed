@@ -460,7 +460,7 @@ html {
 }
 
 .align-ultrawide {
-  max-width: min(1680px, 100vw, 100% - 2 * var(--wp--preset--spacing--clamp-7-5)) !important !important;
+  max-width: min(1680px, 100vw, 100% - 2 * var(--wp--preset--spacing--clamp-7-5)) !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
