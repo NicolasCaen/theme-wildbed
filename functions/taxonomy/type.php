@@ -25,7 +25,7 @@ if ( ! function_exists( 'wildbed_register_aventure_type_taxonomy' ) ) {
             [ 'aventure' ],
             [
                 'labels'            => $labels,
-                'public'            => false,
+                'public'            => true,
                 'hierarchical'      => true,
                 'show_ui'           => true,
                 'show_admin_column' => true,

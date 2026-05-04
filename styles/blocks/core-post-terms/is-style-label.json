@@ -1,0 +1,16 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "slug": "label",
+    "title": "Label",
+    "blockTypes": [
+        "core/post-terms"
+    ],
+    "styles": {
+        "elements": {
+            "link": {
+                "css": "display:inline-flex;background-color: var(--wp--preset--color--base) ;font-weight:700; color: var(--wp--preset--color--base-2); height: 2rem; border-radius: 2rem; align-items: center; padding: 0 1rem;"  
+            }
+        }
+    }
+}
