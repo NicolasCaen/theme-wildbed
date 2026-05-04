@@ -1,3 +1,7 @@
+:root {
+  --wp--preset--spacing--clamp-7-5: var(--wp--preset--spacing--h-16-120);
+}
+
 html {
   overflow-wrap: break-word;
   word-break: keep-all;
