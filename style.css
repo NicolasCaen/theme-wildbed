@@ -451,6 +451,33 @@ html {
   background-image: url("assets/images/pictos/download-b.svg");
 }
 
+.with-stars {
+  position: relative;
+}
+.with-stars:after {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: inline-block;
+  transform: translateX(113px);
+}
+@media (max-width: 1200px) {
+  .with-stars:after {
+    transform: translateX(50%) translateY(-100%);
+    right: 50%;
+  }
+}
+.with-stars:after {
+  content: "";
+  display: inline-flex;
+  align-items: center;
+  height: 50px;
+  width: 150px;
+  background-image: url("assets/images/pictos/3stars.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 .align-s {
   max-width: 754px;
 }
@@ -1102,6 +1129,26 @@ header.fixed {
   margin-left: 0.5rem;
   background-size: contain;
   background-image: url(assets/images/pictos/dowload.svg);
+}
+
+.txt-one-line {
+  white-space: nowrap;
+}
+
+.with-chevron a {
+  display: inline-flex;
+  align-items: center;
+}
+.with-chevron a:after {
+  content: "";
+  display: inline-flex;
+  height: 1em;
+  width: 1.1em;
+  margin-left: 0.5rem;
+  background-size: contain;
+  background-image: url(assets/images/pictos/chevron-next.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .section-bento-contact__aside {

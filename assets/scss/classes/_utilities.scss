@@ -95,3 +95,25 @@ min-height: 100svh !important;
         background-image: url(assets/images/pictos/dowload.svg);
     }
 }
+
+.txt-one-line{
+white-space: nowrap;
+
+}
+.with-chevron a{
+     display:inline-flex;
+             align-items:center;   
+       &:after{
+
+        content:"";
+        display: inline-flex;
+      
+        height:1em;
+        width: 1.1em;
+        margin-left: 0.5rem;
+        background-size: contain;
+        background-image:  url(assets/images/pictos/chevron-next.svg);
+        background-repeat: no-repeat;
+        background-position: bottom;
+    } 
+}
