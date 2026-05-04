@@ -1200,6 +1200,12 @@ header.fixed {
 .wp-block-post-excerpt__more-link {
   font-weight: 700;
 }
+.wp-block-post-excerpt__more-link:hover {
+  color: var(--wp--preset--color--contrast);
+}
+.wp-block-post-excerpt__more-link:hover:after {
+  background-image: url(assets/images/pictos/out-contrast.svg);
+}
 
 @media (min-width: 500px) and (max-width: 1200px) {
   .wp-block-query > .columns-3 {

@@ -15,4 +15,10 @@
 }
 .wp-block-post-excerpt__more-link{
     font-weight: 700;
+    &:hover{
+        color: var(--wp--preset--color--contrast);
+        &:after{
+                background-image: url(assets/images/pictos/out-contrast.svg);
+        }
+    }
 }
