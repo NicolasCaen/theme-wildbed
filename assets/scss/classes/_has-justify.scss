@@ -1,0 +1,114 @@
+@use '../index' as *;
+
+// Mixin pour générer les classes responsive
+@mixin responsive-class($property, $value, $breakpoint: null) {
+    @if $breakpoint == mobile {
+        @include m($breakpoint-mobile) {
+            #{$property}: $value !important;
+        }
+    } @else if $breakpoint == mobitab {
+        @include m($breakpoint-mobitab) {
+            #{$property}: $value !important;
+        }
+    } @else {
+        #{$property}: $value !important;
+    }
+}
+
+// Justify Content
+$justify-values: (
+    'start': flex-start,
+    'end': flex-end,
+    'center': center,
+    'between': space-between,
+    'around': space-around,
+    'evenly': space-evenly
+);
+
+@each $name, $value in $justify-values {
+    .has-justify-#{$name} {
+        @include responsive-class(justify-content, $value);
+    }
+    .has-justify-#{$name}-mobile {
+        @include responsive-class(justify-content, $value, mobile);
+    }
+    .has-justify-#{$name}-mobitab {
+        @include responsive-class(justify-content, $value, mobitab);
+    }
+}
+
+// Align Items
+$align-items-values: (
+    'start': flex-start,
+    'end': flex-end,
+    'center': center,
+    'baseline': baseline,
+    'stretch': stretch
+);
+
+@each $name, $value in $align-items-values {
+    .has-align-#{$name} {
+        @include responsive-class(align-items, $value);
+    }
+    .has-align-#{$name}-mobile {
+        @include responsive-class(align-items, $value, mobile);
+    }
+    .has-align-#{$name}-mobitab {
+        @include responsive-class(align-items, $value, mobitab);
+    }
+}
+
+// Align Self
+@each $name, $value in $align-items-values {
+    .has-align-self-#{$name} {
+        @include responsive-class(align-self, $value);
+    }
+    .has-align-self-#{$name}-mobile {
+        @include responsive-class(align-self, $value, mobile);
+    }
+    .has-align-self-#{$name}-mobitab {
+        @include responsive-class(align-self, $value, mobitab);
+    }
+}
+
+// Align Content
+$align-content-values: (
+    'start': flex-start,
+    'end': flex-end,
+    'center': center,
+    'between': space-between,
+    'around': space-around,
+    'evenly': space-evenly,
+    'stretch': stretch
+);
+
+@each $name, $value in $align-content-values {
+    .has-align-content-#{$name} {
+        @include responsive-class(align-content, $value);
+    }
+    .has-align-content-#{$name}-mobile {
+        @include responsive-class(align-content, $value, mobile);
+    }
+    .has-align-content-#{$name}-mobitab {
+        @include responsive-class(align-content, $value, mobitab);
+    }
+}
+
+// Flex Wrap
+$flex-wrap-values: (
+    'wrap': wrap,
+    'nowrap': nowrap,
+    'wrap-reverse': wrap-reverse
+);
+
+@each $name, $value in $flex-wrap-values {
+    .has-flex-#{$name} {
+        @include responsive-class(flex-wrap, $value);
+    }
+    .has-flex-#{$name}-mobile {
+        @include responsive-class(flex-wrap, $value, mobile);
+    }
+    .has-flex-#{$name}-mobitab {
+        @include responsive-class(flex-wrap, $value, mobitab);
+    }
+}
