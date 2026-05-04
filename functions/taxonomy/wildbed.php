@@ -70,3 +70,14 @@ if ( ! function_exists( 'wildbed_register_default_terms' ) ) {
 }
 add_action( 'init', 'wildbed_register_default_terms', 20 );
 add_action( 'after_switch_theme', 'wildbed_register_default_terms' );
+
+if ( ! function_exists( 'wildbed_taxonomy_pagination_rewrite_rules' ) ) {
+    function wildbed_taxonomy_pagination_rewrite_rules() {
+        add_rewrite_rule(
+            '^aventures/([^/]+)/page/?([0-9]{1,})/?$',
+            'index.php?wildbed=$matches[1]&paged=$matches[2]',
+            'top'
+        );
+    }
+}
+add_action( 'init', 'wildbed_taxonomy_pagination_rewrite_rules' );
