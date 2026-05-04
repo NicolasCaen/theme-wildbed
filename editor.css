@@ -415,6 +415,52 @@ html {
     transform: translateY(50%) scale(1.2);
   }
 }
+.align-s {
+  max-width: 754px;
+}
+@media (min-width: 754px) {
+  .align-s {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.align-m {
+  max-width: 840px;
+}
+@media (min-width: 840px) {
+  .align-m {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.align-medium {
+  max-width: 898px;
+}
+@media (min-width: 898px) {
+  .align-medium {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.align-wide {
+  max-width: 1400px;
+}
+@media (min-width: 1400px) {
+  .align-wide {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.align-ultrawide {
+  max-width: min(1680px, 100vw, 100% - 2 * var(--wp--preset--spacing--clamp-7-5));
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .has-gap-4 {
   gap: var(--wp--preset--spacing--4);
 }

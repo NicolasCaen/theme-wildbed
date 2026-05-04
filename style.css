@@ -1194,6 +1194,7 @@ header.fixed {
   width: 0.9rem;
   margin-left: 0.5rem;
   background-size: contain;
+  background-repeat: no-repeat;
   background-image: url(assets/images/pictos/out.svg);
 }
 
