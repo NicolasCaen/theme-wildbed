@@ -263,7 +263,19 @@ figure:nth-of-type(5) {
 
 
 .wp-block-up-cb-carousel{
+    .upcb-button-next{
+        &::after{
+            background-image: url("assets/images/pictos/arrow-next.svg");
+        }
+    }
+        .upcb-button-prev{
+        &::after{
+            background-image: url("assets/images/pictos/arrow-prev.svg");
+        }
+    }
     .upcb-button-next,.upcb-button-prev{
+
+        box-sizing: border-box !important;
         padding: 0.5em;
         aspect-ratio: 1/1;
         display:inliine-flex;
@@ -274,6 +286,14 @@ figure:nth-of-type(5) {
         width:auto;
         height: 40px;
         color:white;
+        &:after{
+            content:"";
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 1.1rem;
+            height: 1.1rem;
+        }
         &:hover{
             background:var(--wp--preset--color--base-2)
         }

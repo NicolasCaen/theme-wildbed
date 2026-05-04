@@ -5,8 +5,8 @@
  * Block Types: core/group
  */
 ?>
-<!-- wp:group {"metadata":{"name":"Section"},"align":"","className":"section-link-3cols align-ultrawide","style":{"spacing":{"padding":{"top":"var:preset|spacing|56-120","bottom":"var:preset|spacing|32-72"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group section-link-3cols align-ultrawide" style="padding-top:var(--wp--preset--spacing--56-120);padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"full","className":"section-link-3cols__wrapper ","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Section"},"align":"","className":"section-link-3cols align-ultrawide","style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|32-72"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-link-3cols align-ultrawide" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"full","className":"section-link-3cols__wrapper ","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull section-link-3cols__wrapper"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"right":"var:preset|spacing|24","left":"var:preset|spacing|24"}}}} -->
 <h2 class="wp-block-heading has-text-align-center" style="margin-right:var(--wp--preset--spacing--24);margin-left:var(--wp--preset--spacing--24)">Vivez l’Aventure Wild Bed</h2>
 <!-- /wp:heading -->
@@ -55,7 +55,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Découvir l'aventure Wild Bed</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/aventures/explorer-amboise/">Découvir l'aventure Wild Bed</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

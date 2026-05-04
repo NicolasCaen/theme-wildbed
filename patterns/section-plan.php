@@ -18,7 +18,7 @@
 <!-- /wp:image -->
 
 <!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="<?php echo home_url(); ?>/tarifs-offres/">Voir les disponibilités</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="<?php echo home_url(); ?>/tarifs-offres#disponibilites">Voir les disponibilités</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
