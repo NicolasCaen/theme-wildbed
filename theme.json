@@ -298,12 +298,12 @@
                     ]
                 },
                 {
-                    "fontFamily": "\"pictos\", sans-serif",
-                    "name": "pictos",
-                    "slug": "pictos",
+                    "fontFamily": "pictowild",
+                    "name": "pictowild",
+                    "slug": "pictowild",
                     "fontFace": [
                         {
-                            "fontFamily": "pictos",
+                            "fontFamily": "pictowild",
                             "src": [
                                 "file:./assets/fonts/pictos/pictos.woff",
                                 "file:./assets/fonts/pictos/pictos.ttf",

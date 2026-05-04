@@ -70,8 +70,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"}},"layout":{"columnSpan":1},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-4","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group is-style-default has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph -->
-<p><strong>Télécharger la grille tarifaire saison 2026</strong></p>
+<div class="wp-block-group is-style-default has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph {"className":"download","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}}}} -->
+<p class="download has-link-color"><strong><a href="<?php echo home_url(); ?>/tarifs-offres/" data-type="page" data-id="96">Télécharger la grille tarifaire saison 2026</a></strong> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

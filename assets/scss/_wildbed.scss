@@ -471,3 +471,24 @@ p:last-of-type{
     }
 }
 
+.download a{
+       display:inline-flex;
+        align-items: center;
+        gap: .5rem;
+        text-decoration: none;
+    &:after{
+        content:"";
+            display:inline-flex;
+            align-items: center;
+        height: 1em;
+        width: 1em;
+       background-image: url("assets/images/pictos/download.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    &:hover{
+&:after{
+      background-image: url("assets/images/pictos/download-b.svg");
+}
+    }
+}

@@ -30,7 +30,7 @@
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query -->
 
-<!-- wp:paragraph {"align":"center","className":"with-download-picto","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","textDecoration":"none"}}} -->
-<p class="has-text-align-center with-download-picto has-link-color" style="font-style:normal;font-weight:600;text-decoration:none"><a href="/animations">Télécharger le calendrier des animations</a></p>
+<!-- wp:paragraph {"align":"center","className":"download","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","textDecoration":"none"}}} -->
+<p class="has-text-align-center download has-link-color" style="font-style:normal;font-weight:600;text-decoration:none"><a href="/animations">Télécharger le calendrier des animations</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
