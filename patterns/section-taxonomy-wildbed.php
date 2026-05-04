@@ -39,7 +39,7 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|4"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-terms {"term":"wildbed","className":"is-style-picto"} /-->
 
-<!-- wp:post-terms {"term":"aventure_type","className":"is-style-label"} /--></div>
+<!-- wp:post-terms {"term":"aventure_type","separator":" ","className":"is-style-label"} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:post-terms {"term":"distance","style":{"elements":{"link":{"color":{"text":"var:preset|color|inherit"}}},"typography":{"textDecoration":"none"}}} /--></div>
