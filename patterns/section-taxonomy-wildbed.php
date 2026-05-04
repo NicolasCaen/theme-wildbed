@@ -36,9 +36,11 @@
 
 <!-- wp:group {"className":"overflow-clip","style":{"spacing":{"padding":{"top":"var:preset|spacing|16","bottom":"var:preset|spacing|16","left":"var:preset|spacing|16","right":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group overflow-clip" style="padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|4"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:post-terms {"term":"wildbed","className":"is-style-picto"} /-->
 
-<!-- wp:post-terms {"term":"aventure_type","className":"is-style-label"} /-->
+<!-- wp:post-terms {"term":"aventure_type","className":"is-style-label"} /--></div>
+<!-- /wp:group -->
 
 <!-- wp:post-terms {"term":"distance","style":{"elements":{"link":{"color":{"text":"var:preset|color|inherit"}}},"typography":{"textDecoration":"none"}}} /--></div>
 <!-- /wp:group -->
@@ -50,7 +52,7 @@
 <!-- /wp:group -->
 <!-- /wp:post-template -->
 
-<!-- wp:query-pagination {"className":"query-loop__pagination"} -->
+<!-- wp:query-pagination {"className":"query-loop__pagination","layout":{"type":"flex","justifyContent":"center"}} -->
 <!-- wp:query-pagination-previous /-->
 
 <!-- wp:query-pagination-numbers /-->

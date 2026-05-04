@@ -64,10 +64,6 @@
 <!-- wp:paragraph {"align":"center","placeholder":"Ajouter un texte ou des blocs qui s’afficheront lorsqu’une requête ne renverra aucun résultat.","style":{"typography":{"lineHeight":"1.75"}},"fontSize":"ml"} -->
 <p class="has-text-align-center has-ml-font-size" style="line-height:1.75">Le programme des animations pour cette année arrive prochainement au Wild Bed Camping. Nous préparons de beaux moments de convivialité, de loisirs et de découvertes pour rythmer votre séjour. Revenez bientôt découvrir les animations qui vous attendent près de Amboise.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"placeholder":"Ajouter un texte ou des blocs qui s’afficheront lorsqu’une requête ne renverra aucun résultat."} -->
-<p></p>
-<!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query -->
 
