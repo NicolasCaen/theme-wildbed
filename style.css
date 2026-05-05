@@ -523,6 +523,10 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
+.align-ultrawide.align-ultrawide--1680 {
+  max-width: min(1680px, 100vw, 100% - 2 * var(--wp--preset--spacing--clamp-7-5));
+}
+
 .contact-form-grid {
   display: grid;
   gap: var(--wp--preset--spacing--8);

@@ -38,7 +38,9 @@
 	max-width: $ultrawide;
 	margin-left: auto;
 	margin-right: auto;	
-	&--1680.align-ultrawide  {
+	&.align-ultrawide--1680  {
 		 $ultrawide: min(1680px,100vw, calc(100% - 2 * var(--wp--preset--spacing--clamp-7-5)));
+		 	max-width: $ultrawide;
 	}
 }
+
