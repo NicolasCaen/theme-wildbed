@@ -21,20 +21,20 @@
 <!-- /wp:spacer -->
 
 <!-- wp:gallery {"columns":4,"linkTo":"none","aspectRatio":"3/4","className":"section-banner-with-images__galerie galerie-polaroid"} -->
-<figure class="wp-block-gallery has-nested-images columns-4 is-cropped section-banner-with-images__galerie galerie-polaroid"><!-- wp:image {"id":268,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1019.jpg" alt="" class="wp-image-268" style="aspect-ratio:3/4"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-4 is-cropped section-banner-with-images__galerie galerie-polaroid"><!-- wp:image {"id":268,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1019.jpg" alt="" class="wp-image-268" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":269,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1020.jpg" alt="" class="wp-image-269" style="aspect-ratio:3/4"/></figure>
+<!-- wp:image {"id":269,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1020.jpg" alt="" class="wp-image-269" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":270,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270" style="aspect-ratio:3/4"/></figure>
+<!-- wp:image {"id":270,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":271,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1021.jpg" alt="" class="wp-image-271" style="aspect-ratio:3/4"/></figure>
+<!-- wp:image {"id":271,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/03/Frame-1021.jpg" alt="" class="wp-image-271" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery --></div>
 <!-- /wp:group --></div></div>
