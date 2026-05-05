@@ -1913,6 +1913,9 @@ header .wp-block-navigation {
        column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
+html:not(.has-modal-open) a:hover {
+  color: var(--wp--preset--color--contrast) !important;
+}
 html:not(.has-modal-open) .upmma-toggle {
   display: inline-flex;
   position: relative;

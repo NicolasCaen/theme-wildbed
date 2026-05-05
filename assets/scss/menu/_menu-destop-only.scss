@@ -9,6 +9,9 @@
   }
 
 html:not(.has-modal-open) {
+  a:hover{
+    color: var(--wp--preset--color--contrast) !important;
+  }
   .upmma-toggle{
     display:inline-flex;
     position: relative;
