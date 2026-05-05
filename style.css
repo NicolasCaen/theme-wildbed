@@ -599,7 +599,7 @@ input[type=submit].wpcf7-submit {
   border-radius: 2rem !important;
   color: var(--wp--preset--color--accent-2) !important;
   border: 1px solid transparent;
-  font-size: var(--wp--preset--font-size--m);
+  font-size: inherit;
   transition: all 0.4s;
   width: -moz-fit-content;
   width: fit-content;
@@ -664,6 +664,7 @@ select {
   box-sizing: border-box;
   padding: 0.5rem 1rem;
   border-radius: 0.25rem;
+  font-size: inherit;
 }
 
 .wpcf7-not-valid-tip {

@@ -78,7 +78,7 @@
   border-radius: 2rem !important;
   color:var(--wp--preset--color--accent-2) !important;
   border: 1px solid transparent;
-  font-size: var(--wp--preset--font-size--m);
+  font-size:inherit;
 
   transition: all .4s;
   width: fit-content;
@@ -145,6 +145,7 @@ select
   box-sizing: border-box;
   padding: .5rem 1rem;
   border-radius: .25rem;
+  font-size:inherit;
 
 }
 

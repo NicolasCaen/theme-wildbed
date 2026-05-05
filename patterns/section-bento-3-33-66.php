@@ -18,16 +18,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Camping Les Pâtis<br>Rue Camille Breton<br>37530 Nazelles-Négron</p>
+<p>Camping Les Pâtis <br>Rue Camille Breton <br>37530 Nazelles-Négron</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>À 3 km du centre d'AmboiseBoulangerie, pharmacie, restaurant à 100 mSupermarché à 3 km</p>
+<p>À 3 km du centre d'Amboise Boulangerie, pharmacie, restaurant à 100 m Supermarché à 3 km</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"className":"min-h-50svh","style":{"layout":{"columnSpan":2,"rowSpan":2},"background":{"backgroundImage":{"url":"<?php echo home_url(); ?>/wp-content/uploads/2026/04/Mapposition.png","id":550,"source":"file","title":"Mapposition"},"backgroundSize":"cover"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group min-h-50svh" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"></div>
+<!-- wp:group {"className":"min-h-50svh overflow-hidden","style":{"layout":{"columnSpan":2,"rowSpan":2},"background":{"backgroundImage":{"url":"<?php echo home_url(); ?>/wp-content/uploads/2026/04/Mapposition.png","id":550,"source":"file","title":"Mapposition"},"backgroundSize":"cover"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group min-h-50svh overflow-hidden" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:wpgmza-standalone/map-block {"address":"Camping Les Patis, Rue Camille Breton, Les Patis, Nazelles-Négron, Loches, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37530, France","lat":"47.4312662","lng":"0.9544189","zoom":12,"height":"500px","className":"border-radius-8 overflow-hidden"} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|16"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
@@ -37,11 +37,11 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>En voiture</strong></p>
+<p><strong>En voiture </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Depuis Tours : A85 sortie Amboise, 20 min</p>
+<p>Depuis Tours : A85 sortie Amboise, 20 min </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,7 +51,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>En train</strong></p>
+<p><strong>En train </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -61,7 +61,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>À vélo</strong></p>
+<p><strong>À vélo </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

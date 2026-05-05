@@ -329,21 +329,25 @@
                 {
                     "slug": "m",
                     "name": "P default \u2014 16px",
+                    "fluid": false,
                     "size": "1rem"
                 },
                 {
                     "slug": "ml",
                     "name": "P large \u2014 18px",
+                        "fluid": false,
                     "size": "1.125rem"
                 },
                 {
                     "slug": "l",
                     "name": "P huge \u2014 24px",
+                    "fluid": false,
                     "size": "1.5rem"
                 },
                 {
                     "slug": "xl",
                     "name": "P giga \u2014 36px",
+                        "fluid": false,
                     "size": "2.25rem"
                 },
                 {
