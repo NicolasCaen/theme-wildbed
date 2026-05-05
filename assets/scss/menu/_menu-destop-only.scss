@@ -21,6 +21,7 @@ html:not(.has-modal-open) {
   }
     .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]~.wp-block-navigation__submenu-container, 
     .wp-block-navigation .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container, 
+
     .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within>.wp-block-navigation__submenu-container{
 
         //   z-index: 10;
@@ -45,11 +46,11 @@ html:not(.has-modal-open) {
           top: 0;
           left:0;
           right: 0;
-          height:2rem;
+          height:2.5rem;
           transform: translateY(-100%);
           background: var(--wp--preset--color--base);
           border-top-right-radius: .5rem;
-    border-top-left-radius: .5rem;
+        border-top-left-radius: .5rem;
         }
     }
     .wp-block-navigation-item.has-child:hover  {

@@ -1864,7 +1864,7 @@ html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):no
   top: 0;
   left: 0;
   right: 0;
-  height: 2rem;
+  height: 2.5rem;
   transform: translateY(-100%);
   background: var(--wp--preset--color--base);
   border-top-right-radius: 0.5rem;
