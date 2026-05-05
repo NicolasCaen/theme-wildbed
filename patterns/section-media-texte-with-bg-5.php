@@ -38,9 +38,9 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--32-72);padding-bottom:0;padding-left:var(--wp--preset--spacing--32-72)"><!-- wp:html -->
 <?php 
 if (!$is_editor) {
-    echo do_shortcode('[ctv_product_list type="accommodation"]');
+    echo do_shortcode('[ctv_product_list type="pitch"]');
 } else {
-    echo '[ctv_product_list type="accommodation"]';
+    echo '[ctv_product_list type="pitch"]';
 }
 ?>
 <!-- /wp:html -->
