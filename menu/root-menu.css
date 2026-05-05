@@ -37,6 +37,7 @@ html:not(.has-modal-open) .upmma-toggle {
 }
 html:not(.has-modal-open) .upmma-toggle svg {
   fill: var(--wp--preset--color--contrast) !important;
+  stroke: var(--wp--preset--color--contrast) !important;
   margin-left: 0.5rem;
   margin-right: 0.25rem;
 }

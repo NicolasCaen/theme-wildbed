@@ -16,6 +16,7 @@ html:not(.has-modal-open) {
     padding:0;
    svg{
     fill:var(--wp--preset--color--contrast) !important;
+    stroke: var(--wp--preset--color--contrast) !important;
     margin-left:.5rem;
     margin-right: .25rem;
    }
