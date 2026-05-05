@@ -1,0 +1,10 @@
+@use '../index' as *;
+
+@for $i from 0 through 20 {
+    $opacity-value: $i * 0.05;
+    $class-name: #{$i * 5};
+
+    .has-opacity-#{$class-name} {
+        opacity: $opacity-value !important;
+    }
+}
