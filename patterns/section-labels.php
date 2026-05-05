@@ -17,16 +17,16 @@
 <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/routard.png" alt="" class="wp-image-925" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
 <!-- /wp:image -->
 
+<!-- wp:image {"id":923,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/image-5.png" alt="" class="wp-image-923" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":922,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","className":"bg-white is-style-default","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border bg-white is-style-default"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/image-4.png" alt="" class="wp-image-922" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:image {"id":921,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","className":"bg-trip"} -->
 <figure class="wp-block-image size-full bg-trip"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/image-3.png" alt="" class="wp-image-921" style="aspect-ratio:1"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":922,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","className":"bg-white"} -->
-<figure class="wp-block-image size-full bg-white"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/image-4.png" alt="" class="wp-image-922" style="aspect-ratio:1"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":923,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/image-5.png" alt="" class="wp-image-923" style="aspect-ratio:1"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":924,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none"} -->
