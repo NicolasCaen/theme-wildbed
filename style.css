@@ -1613,9 +1613,23 @@ header.fixed {
 .min-h-100svh {
   min-height: calc(100svh - var(--decalage-top, 0)) !important;
 }
+@media (min-width: 600px) and (max-width: 1200px) {
+  .min-h-100svh {
+    min-height: auto !important;
+    aspect-ratio: 4/3 !important;
+  }
+}
+@media (max-width: 600px) {
+  .min-h-100svh {
+    min-height: auto !important;
+    aspect-ratio: 2/3 !important;
+  }
+}
 
-body.admin-bar .min-h-100svh {
-  min-height: calc(100svh - var(--decalage-top, 0) - 32px) !important;
+@media (min-width: 1200px) {
+  body.admin-bar .min-h-100svh {
+    min-height: calc(100svh - var(--decalage-top, 0) - 32px) !important;
+  }
 }
 
 .mobile-wrap {
