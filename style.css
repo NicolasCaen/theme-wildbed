@@ -1838,6 +1838,7 @@ html:not(.has-modal-open) .upmma-toggle {
 html:not(.has-modal-open) .upmma-toggle svg {
   fill: var(--wp--preset--color--contrast) !important;
   margin-left: 0.5rem;
+  margin-right: 0.25rem;
 }
 html:not(.has-modal-open) .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
 html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,

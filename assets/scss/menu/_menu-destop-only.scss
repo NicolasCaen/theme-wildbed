@@ -17,6 +17,7 @@ html:not(.has-modal-open) {
    svg{
     fill:var(--wp--preset--color--contrast) !important;
     margin-left:.5rem;
+    margin-right: .25rem;
    }
   }
     .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]~.wp-block-navigation__submenu-container, 
