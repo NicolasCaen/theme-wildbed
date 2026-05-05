@@ -72,9 +72,13 @@ background:#34E0A1;
 min-height: 50svh !important;
 }
 .min-h-100svh{
-min-height: 100svh !important;
+min-height: calc(100svh - var(--decalage-top,0)) !important;
 }
-
+body:has(.wpadminbar){
+    .min-h-100svh{
+        min-height: calc(100svh - var(--decalage-top,0) - 32px) !important;
+    }
+}
 .mobile-wrap{
     text-wrap: wrap !important;
 }
