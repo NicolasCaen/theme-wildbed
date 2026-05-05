@@ -13,9 +13,9 @@
 
 ?>
 <!-- wp:pattern {"slug":"ng1-base/banner-home"} /-->
-<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+
 <!-- wp:pattern {"slug":"ng1-base/section-texte-multi-images"} /-->
-<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+
 <!-- wp:pattern {"slug":"ng1-base/section-carousel-hebergement"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-link-3cols"} /-->

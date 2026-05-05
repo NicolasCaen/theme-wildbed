@@ -1613,16 +1613,16 @@ header.fixed {
 .min-h-100svh {
   min-height: calc(100svh - var(--decalage-top, 0)) !important;
 }
-@media (min-width: 600px) and (max-width: 1200px) {
+@media (min-width: 800px) and (max-width: 1200px) {
   .min-h-100svh {
     min-height: auto !important;
     aspect-ratio: 4/3 !important;
   }
 }
-@media (max-width: 600px) {
+@media (min-width: 550px) and (max-width: 799px) {
   .min-h-100svh {
     min-height: auto !important;
-    aspect-ratio: 2/3 !important;
+    aspect-ratio: 3/4 !important;
   }
 }
 

@@ -73,14 +73,18 @@ min-height: 50svh !important;
 }
 .min-h-100svh{
 min-height: calc(100svh - var(--decalage-top,0)) !important;
- @include b(600,1200){
+ @include b(800,1200){
     min-height: auto !important;
     aspect-ratio: 4/3 !important;
  }
-  @include m(600){
+  @include b(550,799){
     min-height: auto !important;
-    aspect-ratio: 2/3 !important;
+    aspect-ratio: 3/4 !important;
  }
+//   @include m(600){
+//     min-height: auto !important;
+//     aspect-ratio: 2/3 !important;
+//  }
 }
 
 body.admin-bar{
