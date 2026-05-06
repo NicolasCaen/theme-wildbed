@@ -5,11 +5,12 @@
  * Categories: section-cta-animation
  */
 ?>
-<!-- wp:group {"align":"full","className":"","layout":{"type":"default"}} -->
-<div class="wp-block-group alignfull"><!-- wp:heading {"className":"is-style-panneau","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|32-40"}}}} -->
+<!-- wp:group {"align":"","className":"align-ultrawide overflow-hidden","layout":{"type":"default"}} -->
+<div class="wp-block-group align-ultrawide overflow-hidden"><!-- wp:heading {"className":"is-style-panneau","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|32-40"}}}} -->
 <h2 class="wp-block-heading is-style-panneau" style="margin-bottom:var(--wp--preset--spacing--32-40)">Animations</h2>
 <!-- /wp:heading -->
 
+<!-- wp:up-cq/carousel {"pagination":false,"arrowCorner":"top-right","arrowColor":"#2E5448","arrowBg":"#F9A01E","arrowHoverColor":"#2E5448","arrowHoverBg":"#FFEEE3","arrowDisabledColor":"#ffffff","arrowDisabledBg":"#12211C","arrowOpacity":0.3,"arrowHoverOpacity":0.9,"arrowDisabledOpacity":0.1,"arrowWidth":48,"arrowHeight":48,"arrowIconSize":24,"arrowIconKey":"wildbed","breakpoints":[{"label":"Mobile","minWidth":0,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":12},{"label":"Tablet","minWidth":768,"slidesPerView":2,"slidesPerGroup":1,"spaceBetween":16},{"label":"Desktop","minWidth":1024,"slidesPerView":3,"slidesPerGroup":3,"spaceBetween":24}],"style":{"color":{"link":"#F9A01E"},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}}} -->
 <!-- wp:query {"queryId":0,"query":{"perPage":99,"pages":0,"offset":0,"postType":"animation","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"parents":[],"format":[]}} -->
 <div class="wp-block-query"><!-- wp:post-template {"align":"","className":"query-loop__item align-ultrawide has-gap-24","backgroundColor":"transparent","layout":{"type":"grid","columnCount":3}} -->
 <!-- wp:group {"className":"overflow-clip height-full is-style-default","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
@@ -29,6 +30,7 @@
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query -->
+<!-- /wp:up-cq/carousel -->
 
 <!-- wp:paragraph {"align":"center","className":"download","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}},"typography":{"fontStyle":"normal","fontWeight":"600","textDecoration":"none"}}} -->
 <p class="has-text-align-center download has-link-color" style="font-style:normal;font-weight:600;text-decoration:none"><a href="/animations">Télécharger le calendrier des animations</a></p>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[1254]]></id>
+  <slug><![CDATA[]]></slug>
+  <type><![CDATA[animation]]></type>
+  <status><![CDATA[draft]]></status>
+  <date><![CDATA[2026-05-05 15:06:18]]></date>
+  <date_gmt><![CDATA[0000-00-00 00:00:00]]></date_gmt>
+  <title><![CDATA[ANimation test]]></title>
+  <content><![CDATA[<!-- wp:paragraph -->
+<p>Présentation de l'animation</p>
+<!-- /wp:paragraph -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-05-05 15:06:18]]></modified>
+  <media/>
+  <meta/>
+  <taxonomies/>
+</content>

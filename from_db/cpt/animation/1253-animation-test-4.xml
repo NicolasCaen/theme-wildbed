@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[1253]]></id>
+  <slug><![CDATA[animation-test-4]]></slug>
+  <type><![CDATA[animation]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-05-05 15:07:02]]></date>
+  <date_gmt><![CDATA[2026-05-05 15:07:02]]></date_gmt>
+  <title><![CDATA[ANimation test]]></title>
+  <content><![CDATA[<!-- wp:paragraph -->
+<p>Présentation de l'animation</p>
+<!-- /wp:paragraph -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-05-05 15:07:02]]></modified>
+  <media>
+    <file type="featured" original_id="793">
+      <filename><![CDATA[2026/04/20220619_162430-scaled-1.jpg]]></filename>
+      <title><![CDATA[20220619_162430-scaled-1]]></title>
+      <alt><![CDATA[Bières locales, cidres normands]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
+  <meta>
+    <key name="_edit_lock"><![CDATA[1777039829:1]]></key>
+    <key name="_thumbnail_id"><![CDATA[793]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_ucm_content_mode"><![CDATA[simple]]></key>
+    <key name="_wp_page_template"><![CDATA[default]]></key>
+  </meta>
+  <taxonomies/>
+</content>
