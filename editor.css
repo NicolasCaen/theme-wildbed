@@ -340,6 +340,11 @@ html {
   }
 }
 
+@media (max-width: 500px) {
+  .section-wide__images {
+    transform: translateY(-3rem);
+  }
+}
 .section-wide__images figure:nth-of-type(1) {
   transform: translateX(-20%);
 }

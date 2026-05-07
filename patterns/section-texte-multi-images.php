@@ -6,8 +6,8 @@
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide section-texte-multi-images","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-wide section-texte-multi-images"><!-- wp:group {"align":"","className":"align-ultrawide grid-1-1-container","layout":{"type":"constrained"}} -->
-<div class="wp-block-group align-ultrawide grid-1-1-container"><!-- wp:group {"align":"","className":"section-wide__images grid-1-1-container__images align-ultrawide","layout":{"type":"grid","columnCount":9,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull section-wide section-texte-multi-images"><!-- wp:group {"align":"","className":"grid-1-1-container align-ultrawide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group grid-1-1-container align-ultrawide"><!-- wp:group {"align":"","className":"section-wide__images grid-1-1-container__images align-ultrawide","layout":{"type":"grid","columnCount":9,"minimumColumnWidth":null}} -->
 <div class="wp-block-group section-wide__images grid-1-1-container__images align-ultrawide"><!-- wp:image {"id":1123,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
 <figure class="wp-block-image size-full is-style-rounded"><img src="<?php echo home_url(); ?>/wp-content/uploads/2026/04/Emplacement.jpeg" alt="Emplacement camping" class="wp-image-1123"/></figure>
 <!-- /wp:image -->

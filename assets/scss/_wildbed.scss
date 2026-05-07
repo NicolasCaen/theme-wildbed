@@ -382,6 +382,9 @@ p:last-of-type:not(.is-style-panneau-rotated){
 
 
 .section-wide__images{
+    @include m(500){
+        transform: translateY(-3rem);
+    }
     figure{
         &:nth-of-type(1){
             transform: translateX(-20%);
