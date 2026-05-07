@@ -21,7 +21,7 @@
 <!-- wp:pattern {"slug":"ng1-base/section-link-3cols"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-pourquoi"} /-->
-<!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
-<!-- wp:pattern {"slug":"ng1-base/section-media-texte-with-bg-6"} /-->
+ <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
+<!-- wp:pattern {"slug":"ng1-base/section-slider-with-bg-3"} /-->
 <!-- wp:pattern {"slug":"ng1-base/spacer-56-120"} /-->
 <!-- wp:pattern {"slug":"ng1-base/section-labels"} /-->

@@ -1,0 +1,86 @@
+{
+    "name": "reglage1",
+    "block": "up-cq/carousel",
+    "slug": "reglage1",
+    "updated": "2026-05-06T13:08:20+00:00",
+    "attributes": {
+        "speed": 400,
+        "loop": false,
+        "navigation": true,
+        "pagination": true,
+        "autoplay": false,
+        "autoplaySpeed": 3000,
+        "pauseOnMouseEnter": true,
+        "centeredSlides": false,
+        "freeMode": false,
+        "overflowVisible": false,
+        "arrowPlacement": "outside",
+        "arrowCorner": "bottom-right",
+        "arrowGap": "8",
+        "arrowColor": "#ffffff",
+        "arrowBg": "#F9A01E",
+        "arrowHoverColor": "#ffffff",
+        "arrowHoverBg": "#F9A01E",
+        "arrowDisabledColor": "#ffffff",
+        "arrowDisabledBg": "#070707",
+        "arrowOpacity": 0.75,
+        "arrowHoverOpacity": 1,
+        "arrowDisabledOpacity": 0.5,
+        "arrowWidth": 40,
+        "arrowHeight": 40,
+        "arrowBorderRadius": 50,
+        "arrowIconSize": 16,
+        "prevIconKey": "arrow-left",
+        "nextIconKey": "arrow-right",
+        "paginationPosition": "bottom-center",
+        "paginationType": "icons",
+        "paginationIconKey": "arrow-left",
+        "paginationSize": 12,
+        "paginationGap": 20,
+        "breakpoints": [
+            {
+                "label": "Mobile",
+                "minWidth": 0,
+                "slidesPerView": 1,
+                "slidesPerGroup": 1,
+                "spaceBetween": 72
+            },
+            {
+                "label": "Tablet",
+                "minWidth": 768,
+                "slidesPerView": 1,
+                "slidesPerGroup": 1,
+                "spaceBetween": 72
+            },
+            {
+                "label": "Desktop",
+                "minWidth": 1024,
+                "slidesPerView": 1,
+                "slidesPerGroup": 1,
+                "spaceBetween": 72
+            }
+        ],
+        "align": "full",
+        "style": {
+            "spacing": {
+                "padding": {
+                    "top": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "right": "0"
+                },
+                "margin": {
+                    "top": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "right": "0"
+                }
+            }
+        },
+        "paginationBg": "#CEE4DD",
+        "paginationColor": "#F9A01E",
+        "paginationHoverColor": "#FFEEE3",
+        "paginationHoverBg": "#f70707"
+    },
+    "innerBlocks": []
+}

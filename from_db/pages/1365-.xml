@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[1365]]></id>
+  <slug><![CDATA[]]></slug>
+  <type><![CDATA[page]]></type>
+  <status><![CDATA[draft]]></status>
+  <date><![CDATA[2026-05-06 15:11:40]]></date>
+  <date_gmt><![CDATA[0000-00-00 00:00:00]]></date_gmt>
+  <title><![CDATA[]]></title>
+  <content><![CDATA[<!-- wp:spacer {"height":"275px"} -->
+<div style="height:275px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><span aria-hidden="true" data-icon="star" style="--upgi-icon-url:url(https://wildbed.local/wp-content/themes/wildbed/assets/icons/star.svg);" class="upgi-inline-svg"><a href="https://wildbed.local/hebergements/" data-type="page" data-id="254">TEST </a></span><span data-icon="chevron-next" aria-hidden="true" style="--upgi-icon-url:url(https://wildbed.local/wp-content/themes/wildbed/assets/icons/chevron-next.svg);" class="upgi-inline-svg"><a href="https://wildbed.local/hebergements/" data-type="page" data-id="254">​</a></span><span aria-hidden="true" data-icon="star" style="--upgi-icon-url:url(https://wildbed.local/wp-content/themes/wildbed/assets/icons/star.svg);" class="upgi-inline-svg"> </span></p>
+<!-- /wp:paragraph -->]]></content>
+  <excerpt><![CDATA[]]></excerpt>
+  <modified><![CDATA[2026-05-06 15:11:40]]></modified>
+  <media/>
+  <meta>
+    <key name="_edit_lock"><![CDATA[1778080299:1]]></key>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_uplg_file_name"><![CDATA[item-1365]]></key>
+  </meta>
+  <taxonomies/>
+</content>
