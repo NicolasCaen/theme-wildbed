@@ -482,7 +482,7 @@ html {
   margin-bottom: 0 !important;
 }
 
-.wp-block-post-excerpt__excerpt p {
+p.wp-block-post-excerpt__excerpt {
   margin-bottom: 0.75rem;
 }
 
