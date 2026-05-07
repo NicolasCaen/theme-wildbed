@@ -7,10 +7,123 @@
   <date><![CDATA[2026-03-13 12:58:29]]></date>
   <date_gmt><![CDATA[2026-03-13 12:58:29]]></date_gmt>
   <title><![CDATA[Mentions légales]]></title>
-  <content><![CDATA[]]></content>
+  <content><![CDATA[<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide" style="padding-right:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Editeur</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Le présent site « www.wildbed.fr » est la propriété de la société Wild Bed au capital social de 5 000,00 €, immatriculée sous n° 849 920 046 RCS Caen le 10-04-2019 dont le siège social est situé 1 RUE AUX HERVIEU 14790 FONTAINE ETOUPEFOUR.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Directeur de publication du site : M Jean-Yves BELLET</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Responsable de la rédaction : M Jean-Yves BELLET</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Adresse : 1 RUE AUX HERVIEU 14790 FONTAINE ETOUPEFOUR</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Téléphone :&nbsp;<a href="tel:0247577107">0247577107</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hébergement – Sécurité</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>L’Hébergement du site est assuré par GANDI SAS<br>Adresse : 63-65 boulevard Masséna Paris (75013) FRANCE<br>Siren 423 093 459 RCS PARIS<br>N° TVA : FR81423093459<br>Tel :&nbsp;<a href="tel:0170377661">0170377661</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’utilisateur reconnaît avoir été informé que le présent site est accessible sans interruption, à l’exception des cas de force majeure, difficultés informatiques, difficultés liées aux réseaux de communications ou de problèmes techniques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour des raisons de maintenance, WILD BED se réserve le droit d’interrompre le site à tout moment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>WILD BED met tout en œuvre pour offrir aux utilisateurs des informations et/ou outils disponibles et vérifiés, mais ne saurait être tenue pour responsable des erreurs, d’une absence de disponibilité des informations et/ou de la présence de virus sur son site.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Droits de propriété intellectuelle :</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La conception générale, ainsi que les textes, images animées ou non, sons, savoir faire et tout autres éléments composants le site sont la propriété exclusive de WILD BED et/ou de ses fournisseurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’ensemble de ce site relève de la législation française sur le droit d’auteur et la propriété intellectuelle. Il en est de même des bases de données figurant sur le site web, qui sont protégées par les dispositions de la loi du 1er juillet 1998 (article L112-3), et dont WILD BED est productrice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La reproduction de tout ou partie de ce site (autre que techniquement nécessaire à sa consultation) sur un support électronique quel qu’il soit est expressément interdite.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La reproduction d’un élément de ce site sur support papier est autorisée, sous réserve du respect des deux conditions suivantes :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Respect de l’intégrité des documents reproduits : pas de modification ni altération d’aucune sorte.</strong><br><strong>Citation claire et lisible de la source sous la forme suivante, par exemple : « ce document provient du site « www.wildbed.fr ». Droits de reproduction réservés et strictement limités ». L’adresse internet du site « www.wildbed.fr » doit toujours figurer dans la référence.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’utilisation du contenu du site en contravention avec ces prescriptions vaut contrefaçon au sens de l’article 335-2 du Code de la propriété intellectuelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Outre des dommages et intérêts au titre de la responsabilité civile, celle-ci peut être pénalement sanctionnée de 300 000 euros d’amende et/ou de 3 ans d’emprisonnement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Pour d’autres utilisations, merci de prendre contact avec nous.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tous liens hypertextes mis en place vers le présent site web « www.wildbed.fr » depuis d’autres ressources présentes sur le réseau Internet, doivent impérativement faire l’objet d’une autorisation écrite et expresse de www.wildbed.fr. A cette fin, merci de prendre contact avec nous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>WILD BED décline toute responsabilité relative au contenu des sites Internet vers lesquels des liens hypertextes pourraient renvoyer depuis le site « www.wildbed.fr »</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Réalisation</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Le site de WILD BED est réalisé par l’agence web « Studio Pixelea », dont le siège social est situé 10 Avenue de Garbsen – 14200 Hérouville St Clair, RCS Caen n°524 398 104 00025.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Téléphone :&nbsp;<a href="tel:0231248560">02 31 24 85 60</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Site Internet :&nbsp;<a href="https://www.pixelea.fr/">https://www.pixelea.fr/</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
+  <modified><![CDATA[2026-05-07 11:12:06]]></modified>
   <media/>
-  <meta/>
+  <meta>
+    <key name="_edit_last"><![CDATA[1]]></key>
+    <key name="_edit_lock"><![CDATA[1778152320:1]]></key>
+    <key name="_uplg_file_name"><![CDATA[mentions-legales]]></key>
+    <key name="_wp_page_template"><![CDATA[index-page-texte]]></key>
+  </meta>
   <taxonomies/>
 </content>
