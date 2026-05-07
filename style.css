@@ -1901,6 +1901,10 @@ header.fixed {
   background-color: var(--wp--preset--color--base-2) !important;
 }
 
+.is-style-style-3 .is-style-label {
+  background-color: var(--wp--preset--color--base-4);
+}
+
 .section-conditions strong {
   color: var(--wp--preset--color--base-2);
 }
