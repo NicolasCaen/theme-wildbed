@@ -329,7 +329,7 @@ html {
 .section-banner-texte__wrapper {
   padding-bottom: 0 !important;
 }
-.section-banner-texte__wrapper p:last-of-type {
+.section-banner-texte__wrapper p:last-of-type:not(.is-style-panneau-rotated) {
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
 }

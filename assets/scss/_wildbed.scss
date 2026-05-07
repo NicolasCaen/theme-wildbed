@@ -369,7 +369,7 @@ figure:nth-of-type(5) {
 // }
 .section-banner-texte__wrapper{
     padding-bottom: 0 !important;
-p:last-of-type{
+p:last-of-type:not(.is-style-panneau-rotated){
     padding-bottom: 0 !important;
     margin-bottom: 0 !important;
 }
