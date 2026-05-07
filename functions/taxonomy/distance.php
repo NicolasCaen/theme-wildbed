@@ -23,17 +23,16 @@ if ( ! function_exists( 'wildbed_register_aventure_distance_taxonomy' ) ) {
             [ 'aventure' ],
             [
                 'labels'            => $labels,
-                'public'            => true,
-                'hierarchical'      => false,
-                'show_ui'           => true,
-                'show_admin_column' => true,
-                'show_in_rest'      => true,
-                'show_in_quick_edit'=> true,
-                'rewrite'           => [
-                    'slug'       => 'aventures/distance',
-                    'with_front' => false,
-                ],
-            ]
+                'public'            => false,
+                'publicly_queryable'  => true,  // ← accessible en REST filter
+                'hierarchical'        => true,
+                'show_ui'             => true,
+                'show_admin_column'   => true,
+                'show_in_rest'        => true,  // ← expose l'endpoint /wp-json/wp/v2/animation_emplacement
+                'show_in_quick_edit'  => true,
+                'rewrite'             => false,
+            ],
+            
         );
     }
 }

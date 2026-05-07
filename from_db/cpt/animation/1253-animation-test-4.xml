@@ -11,7 +11,7 @@
 <p>Présentation de l'animation</p>
 <!-- /wp:paragraph -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-05-05 15:07:02]]></modified>
+  <modified><![CDATA[2026-05-07 07:05:20]]></modified>
   <media>
     <file type="featured" original_id="793">
       <filename><![CDATA[2026/04/20220619_162430-scaled-1.jpg]]></filename>
@@ -21,11 +21,16 @@
     </file>
   </media>
   <meta>
-    <key name="_edit_lock"><![CDATA[1777039829:1]]></key>
+    <key name="_edit_lock"><![CDATA[1777993622:1]]></key>
     <key name="_thumbnail_id"><![CDATA[793]]></key>
     <key name="_edit_last"><![CDATA[1]]></key>
     <key name="_ucm_content_mode"><![CDATA[simple]]></key>
     <key name="_wp_page_template"><![CDATA[default]]></key>
   </meta>
-  <taxonomies/>
+  <taxonomies>
+    <taxonomy name="animation_emplacement">
+      <term slug="animation"/>
+      <term slug="nouveaute"/>
+    </taxonomy>
+  </taxonomies>
 </content>
