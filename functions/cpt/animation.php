@@ -10,7 +10,7 @@ if ( ! function_exists( 'wildbed_register_animation_cpt' ) ) {
 
         $labels = [
             'name'               => __( 'Animation', 'wildbed' ),
-            'singular_name'      => __( 'Animatio', 'wildbed' ),
+            'singular_name'      => __( 'Animation', 'wildbed' ),
             'add_new'            => __( 'Ajouter', 'wildbed' ),
             'add_new_item'       => __( 'Ajouter une animation', 'wildbed' ),
             'edit_item'          => __( "Modifier l'animation", 'wildbed' ),
@@ -20,7 +20,7 @@ if ( ! function_exists( 'wildbed_register_animation_cpt' ) ) {
             'not_found'          => __( 'Aucune animation trouvée', 'wildbed' ),
             'not_found_in_trash' => __( 'Aucune animation dans la corbeille', 'wildbed' ),
             'all_items'          => __( 'Toutes les animations', 'wildbed' ),
-            'menu_name'          => __( 'Animation & Nouveauté', 'wildbed' ),
+            'menu_name'          => __( 'Animations Nouveauté', 'wildbed' ),
         ];
 
         register_post_type(

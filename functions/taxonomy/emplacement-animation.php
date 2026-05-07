@@ -49,7 +49,7 @@ if ( ! function_exists( 'wildbed_register_default_animation_emplacement_terms' )
         $terms = [
             'nouveaute' => __( 'Nouveauté', 'wildbed' ),
             'animation' => __( 'Animation', 'wildbed' ),
-            'archive' => __( 'Archivé', 'wildbed' ),
+            'archive' => __( 'Archivé', 'wildbed' )
         ];
 
         foreach ( $terms as $slug => $name ) {
