@@ -470,6 +470,10 @@ html {
   margin-bottom: 0 !important;
 }
 
+.wp-block-post-excerpt__excerpt p {
+  margin-bottom: 0.75rem;
+}
+
 .align-s {
   max-width: 754px;
 }
