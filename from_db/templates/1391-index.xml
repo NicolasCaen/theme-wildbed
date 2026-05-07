@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content site_url="https://wildbed.local">
+  <id><![CDATA[1391]]></id>
+  <slug><![CDATA[index]]></slug>
+  <type><![CDATA[wp_template]]></type>
+  <status><![CDATA[publish]]></status>
+  <date><![CDATA[2026-05-07 09:36:33]]></date>
+  <date_gmt><![CDATA[2026-05-07 09:36:33]]></date_gmt>
+  <title><![CDATA[Index]]></title>
+  <content><![CDATA[<!-- wp:template-part {"slug":"header","theme":"wildbed","className":"fixed"} /-->
+
+<!-- wp:group {"tagName":"main"} -->
+<main class="wp-block-group"><!-- wp:post-content {"className":"main-area","style":{"spacing":{"blockGap":"var:preset|spacing|3"}},"layout":{"type":"default"}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"wildbed"} /-->]]></content>
+  <excerpt><![CDATA[Utilisé comme modèle par défaut pour toutes les pages lorsque aucun modèle plus précis n’a été défini.]]></excerpt>
+  <modified><![CDATA[2026-05-07 09:36:33]]></modified>
+  <media/>
+  <meta>
+    <key name="origin"><![CDATA[theme]]></key>
+  </meta>
+  <taxonomies>
+    <taxonomy name="wp_theme">
+      <term slug="wildbed"/>
+    </taxonomy>
+  </taxonomies>
+</content>

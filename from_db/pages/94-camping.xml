@@ -7,15 +7,327 @@
   <date><![CDATA[2026-03-13 13:23:44]]></date>
   <date_gmt><![CDATA[2026-03-13 13:23:44]]></date_gmt>
   <title><![CDATA[Camping]]></title>
-  <content><![CDATA[]]></content>
+  <content><![CDATA[<!-- wp:cover {"overlayColor":"base-2","isUserOverlayColor":true,"align":"full","className":"section-banner-with-images is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|200","bottom":"var:preset|spacing|56-120"}}}} -->
+<div class="wp-block-cover alignfull section-banner-with-images is-style-style-2" style="padding-top:var(--wp--preset--spacing--200);padding-bottom:var(--wp--preset--spacing--56-120)"><span aria-hidden="true" class="wp-block-cover__background has-base-2-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Section | Banner avec images"},"align":"wide","className":"section-banner-with-images__wrapper is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|8"}}},"layout":{"type":"constrained","contentSize":"1143px"}} -->
+<div class="wp-block-group alignwide section-banner-with-images__wrapper is-style-default" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--8)"><!-- wp:paragraph {"className":"section-banner-with-images__panneau is-style-panneau-rotated"} -->
+<p class="section-banner-with-images__panneau is-style-panneau-rotated">Le Camping</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"align":"wide"} -->
+<h1 class="wp-block-heading alignwide has-text-align-center">Le camping nature au coeur d'Amboise</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
+<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:gallery {"columns":4,"linkTo":"none","aspectRatio":"3/4","className":"section-banner-with-images__galerie galerie-polaroid"} -->
+<figure class="wp-block-gallery has-nested-images columns-4 is-cropped section-banner-with-images__galerie galerie-polaroid"><!-- wp:image {"id":268,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1019.jpg" alt="" class="wp-image-268" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":269,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1020.jpg" alt="" class="wp-image-269" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":270,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270" style="aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":271,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1021.jpg" alt="" class="wp-image-271" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","className":"has-media-aspect-ratio-4-3 no-padding-content align-ultrawide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-4-3 no-padding-content align-ultrawide" style="margin-top:0;margin-bottom:0"><div class="wp-block-media-text__content"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="les-patis" class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Bienvenue au Camping Les Pâtis</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Vous cherchez un camping à Amboise, au cœur du Val de Loire, où la nature reprend ses droits et où le temps s'étire doucement ? Le Camping Les Pâtis est fait pour vous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Implanté à Nazelles-Négron, à deux pas du château d'Amboise et des bords de Loire, notre camping vous accueille dans un cadre verdoyant, paisible et authentique. Ici, les enfants courent librement, les randonneurs reprennent leur souffle, et les familles retrouvent le plaisir des vacances simples et vraies, loin du bruit, loin de l'agitation, proches de l'essentiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Que vous arriviez à vélo sur la Loire à Vélo, en voiture pour un week-end en Touraine, ou en itinérance pour une grande traversée de la région, le Camping Les Pâtis vous offre un point de chute chaleureux, bien équipé et fièrement ancré dans son territoire. Bienvenue chez nous.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","className":"overflow-x-hidden section-slider ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull overflow-x-hidden section-slider"><!-- wp:group {"metadata":{"name":"Section | Slider | Wrapper"},"align":"","className":"section-slider__wrapper align-ultrawide ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-slider__wrapper align-ultrawide"><!-- wp:up-cb/carousel {"pagination":false,"arrowCorner":"top-right","arrowGap":"24","arrowColor":"#ffffff","arrowBg":"#F9A01E","arrowHoverColor":"#ffffff","arrowHoverBg":"#2E5448","arrowDisabledColor":"#ffffff","arrowDisabledBg":"#2E5448","prevIconKey":"arrow-prev","nextIconKey":"arrow-next","align":"full","className":"overflow-visible section-slider__slider","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}}} -->
+<div class="wp-block-up-cb-carousel alignfull upcb-carousel-block upcb-single-slide upcb-arrows-top-right upcb-pagination-type-dots overflow-visible section-slider__slider has-link-color" style="--upcb-arrow-gap:var(--wp--preset--spacing--24, 24px);--upcb-arrow-color:#ffffff;--upcb-arrow-bg:#F9A01E;--upcb-arrow-hover-color:#ffffff;--upcb-arrow-hover-bg:#2E5448;--upcb-arrow-disabled-color:#ffffff;--upcb-arrow-disabled-bg:#2E5448;--upcb-arrow-opacity:1;--upcb-arrow-hover-opacity:1;--upcb-arrow-disabled-opacity:0.5;--upcb-arrow-width:40px;--upcb-arrow-height:40px;--upcb-arrow-border-radius:50%;--upcb-arrow-icon-size:16px;--upcb-pagination-size:10px;--upcb-pagination-gap:8px" data-upcb-loop="false" data-upcb-breakpoints="{&quot;0&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15},&quot;1024&quot;:{&quot;slidesPerView&quot;:3,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15}}" data-upcb-slides-per-view="1" data-upcb-slides-per-group="1" data-upcb-space-between="10" data-upcb-speed="300" data-upcb-resize-observer="false" data-upcb-navigation="true"><div class="swiper"><div class="upcb-wrapper swiper-wrapper"><!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide"><!-- wp:image {"id":721,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/04/general-img-landscape-1024x768.png" alt="Aucune image disponible" class="wp-image-721"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:up-cb/slide -->
+
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide"><!-- wp:image {"id":721,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/04/general-img-landscape-1024x768.png" alt="Aucune image disponible" class="wp-image-721"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:up-cb/slide -->
+
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide"><!-- wp:image {"id":721,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/04/general-img-landscape-1024x768.png" alt="Aucune image disponible" class="wp-image-721"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:up-cb/slide -->
+
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide"><!-- wp:image {"id":721,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/04/general-img-landscape-1024x768.png" alt="Aucune image disponible" class="wp-image-721"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:up-cb/slide -->
+
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide"><!-- wp:image {"id":721,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/uploads/2026/04/general-img-landscape-1024x768.png" alt="Aucune image disponible" class="wp-image-721"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:up-cb/slide --></div></div><div class="upcb-button-prev swiper-button-prev"><svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.53033 0L6.59099 1.06066L2.87132 4.78033L16.0607 4.78033V6.28033L2.87132 6.28033L6.59099 10L5.53033 11.0607L0 5.53033L5.53033 0Z" fill="white" />
+</svg></div><div class="upcb-button-next swiper-button-next"><svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5303 11.0607L9.46967 10L13.1893 6.28033L0 6.28033L1.31134e-07 4.78033L13.1893 4.78033L9.46967 1.06066L10.5303 0L16.0607 5.53033L10.5303 11.0607Z" fill="white" />
+</svg></div></div>
+<!-- /wp:up-cb/carousel --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg__wrapper align-ultrawide","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-4","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-media-texte-with-bg__wrapper align-ultrawide has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:group {"align":"full","className":"is-style-decal-50-percent","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-decal-50-percent"><!-- wp:heading {"align":"full","className":"is-style-one-row-grid is-style-panneau"} -->
+<h2 class="wp-block-heading alignfull is-style-one-row-grid is-style-panneau">Le concept Wild Bed</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","imageFill":false,"className":"has-media-aspect-ratio-3-4 no-padding-content","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-72"}},"border":{"radius":{"topLeft":"var:preset|border-radius|m","topRight":"var:preset|border-radius|m","bottomLeft":"var:preset|border-radius|m","bottomRight":"var:preset|border-radius|m"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-3-4 no-padding-content" style="border-top-left-radius:var(--wp--preset--border-radius--m);border-top-right-radius:var(--wp--preset--border-radius--m);border-bottom-left-radius:var(--wp--preset--border-radius--m);border-bottom-right-radius:var(--wp--preset--border-radius--m);padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-72);padding-left:var(--wp--preset--spacing--h-16-72)"><div class="wp-block-media-text__content"><!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"spacing":{"margin":{"top":"0"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0">Bienvenue au Camping </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Le Camping Les Pâtis fait partie du réseau Wild Bed, fondé par Jean-Yves Bellet, passionné de nature, ancien responsable scout et amoureux du grand air depuis plus de 30 ans. Wild Bed, c'est une philosophie de vie.g Les Pâtis est fait pour vous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'idée est simple : vous offrir des vacances qui ont du sens. Des hébergements qui s'intègrent dans le paysage plutôt qu'ils ne le défigurent. Des animations qui font découvrir la faune et la flore locales plutôt que de les ignorer. Une équipe qui vous accueille comme des amis, avec la fierté de partager ce coin de Touraine qu'elle connaît et aime.e l'essentiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chez Wild Bed, l'engagement éco-responsable est une conviction profonde. Produits éco-labellisés, tri sélectif, matériaux naturels, recrutement local, partenariats avec les producteurs du territoire… Tout est pensé pour construire un tourisme qui respecte les hommes et la nature, aujourd'hui comme demain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wildbed.local/tarifs-offres/">Voir les disponibilités</a></div>
+<!-- /wp:button -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"align":"","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","metadata":{"name":"Média \u0026 texte Reverse"},"className":"has-media-aspect-ratio-1-1 no-padding-content align-ultrawide section-media-texte section-media-texte\u002d\u002dreverse"} -->
+<div class="wp-block-media-text is-stacked-on-mobile has-media-aspect-ratio-1-1 no-padding-content align-ultrawide section-media-texte section-media-texte--reverse"><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div id="insolites" class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Des hébergements insolites</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Au Camping Les Pâtis, l'hébergement fait partie de l'expérience. Loin des bungalows standardisés, nous avons imaginé des espaces où le bois et les matériaux naturels dominent, où chaque ouverture est une invitation à observer la nature environnante, et où le confort intérieur rivalise avec la beauté du dehors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Que vous optiez pour un emplacement de camping traditionnel ou pour l'un de nos hébergements locatifs insolites, vous trouverez toujours ce souci du détail qui fait la différence : literie de qualité, linge réservable à l'avance, kit bébé disponible à la location, et même un service de petits-déjeuners pour commencer la journée du bon pied.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour les randonneurs et cyclistes de passage, nos hébergements toile et bois sont loués à la nuitée avec services inclus pour que vous repartiez le lendemain matin légers et ressourcés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Découvrir les hébergements</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg is-style-style-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg is-style-style-2"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"full","className":"section-media-texte-with-bg__wrapper is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg__wrapper is-style-default"><!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","imageFill":false,"className":"has-media-aspect-ratio-3-4 no-padding-content align-ultrawide","style":{"spacing":{"padding":{"right":"0","left":"0","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-40"}}}} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-3-4 no-padding-content align-ultrawide" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:0;padding-bottom:var(--wp--preset--spacing--32-40);padding-left:0"><div class="wp-block-media-text__content"><!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div id="amboise" class="wp-block-group"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"0"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0">Des activités pour toute la famille autour d'Amboise</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Au Camping Les Pâtis, les journées sont aussi riches qu'on le souhaite. Pour les familles, le camping propose tout au long de la saison des animations nature pensées pour éveiller la curiosité des enfants : ateliers d'observation des insectes et des oiseaux, land'art, construction de nichoirs, visites de la mini-ferme… De quoi transmettre le goût du vivant dès le plus jeune âge, dans la bonne humeur et la découverte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour les randonneurs et les cyclistes, le camping est idéalement positionné sur le tracé de la Loire à Vélo. Sentiers balisés, pistes cyclables sécurisées, location de vélos à assistance électrique, partenariats avec des guides locaux pour des sorties en canoë ou à cheval… La région d'Amboise regorge d'aventures à vivre à son rythme, et notre équipe est là pour vous conseiller les meilleurs itinéraires et bonnes adresses du coin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le soir venu, la convivialité prend le relais : pot d'accueil hebdomadaire, soirées jeux en bois, concerts d'été, vente de produits locaux… L'esprit Wild Bed, c'est aussi ça.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/aventures/explorer-amboise/">Découvrir l'Aventure Wild Bed</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg-3","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg-3"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg-3__wrapper align-ultrawide","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-4","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-media-texte-with-bg-3__wrapper align-ultrawide has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:group {"align":"full","className":"is-style-decal-50-percent","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group alignfull is-style-decal-50-percent"><!-- wp:heading {"className":"is-style-one-row-grid is-style-panneau","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-40","left":"var:preset|spacing|h-16-40"}}}} -->
+<h2 class="wp-block-heading is-style-one-row-grid is-style-panneau" style="padding-right:var(--wp--preset--spacing--h-16-40);padding-left:var(--wp--preset--spacing--h-16-40)">Le Food Truck</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","imageFill":false,"className":"has-media-aspect-ratio-3-4 no-padding-content has-gap-h-32","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-40"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-3-4 no-padding-content has-gap-h-32" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-40);padding-left:var(--wp--preset--spacing--h-16-72)"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|h-16-72","bottom":"var:preset|spacing|h-16-72"}}},"layout":{"type":"constrained"}} -->
+<div id="foodtruck" class="wp-block-group" style="padding-top:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--h-16-72)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"l"} -->
+<p class="has-base-2-color has-text-color has-link-color has-l-font-size"><strong>Notre cuisine, nos producteurs, votre plaisir</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chez Wild Bed, on pense que les bonnes vacances passent aussi par les bonnes assiettes. Le Food Truck des Pâtis c'est notre cuisine. Notre équipe prépare chaque soir des plats simples, généreux et accessibles, à base de produits frais sourcés directement auprès des agriculteurs et artisans d'Indre-et-Loire : burgers maison, frites fraîches, salades de saison… le tout accompagné de bières artisanales et de vins du Val de Loire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est aussi le cœur de vie du camping en soirée : l'endroit où les familles se retrouvent après une journée de vélo, où les randonneurs reprennent des forces, où les concerts d'été donnent envie de rester une nuit de plus. Si vous arrivez hors des horaires habituels, appelez-nous : on s'arrangera.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|h-16-40"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--h-16-40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}}}} -->
+<p class="has-link-color"><strong><a href="/carte">Consulter la carte de la saison 2026</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|8"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
+<p class="has-base-2-color has-text-color has-link-color"><strong>Avril, mai, juin &amp; septembre</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">Ven, Sam, Dim</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
+<p class="has-base-2-color has-text-color has-link-color"><strong>Sur demande (autres soirs)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">Idéal pour les randonneurs vélo</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|12","left":"var:preset|spacing|h-16","right":"var:preset|spacing|h-16"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group is-style-style-3" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--12);padding-right:var(--wp--preset--spacing--h-16);padding-bottom:var(--wp--preset--spacing--12);padding-left:var(--wp--preset--spacing--h-16)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
+<p class="has-base-2-color has-text-color has-link-color"><strong>Juillet &amp; août</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">7j/7 . 16h-21h30</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-29 09:19:32]]></modified>
-  <media/>
+  <modified><![CDATA[2026-05-07 10:01:58]]></modified>
+  <media>
+    <file type="content" original_id="270">
+      <filename><![CDATA[2026/03/Frame-1022.jpg]]></filename>
+      <title><![CDATA[Frame 1022]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="721">
+      <filename><![CDATA[2026/04/general-img-landscape-scaled.png]]></filename>
+      <title><![CDATA[general-img-landscape]]></title>
+      <alt><![CDATA[Aucune image disponible]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="268">
+      <filename><![CDATA[2026/03/Frame-1019.jpg]]></filename>
+      <title><![CDATA[Frame 1019]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="269">
+      <filename><![CDATA[2026/03/Frame-1020.jpg]]></filename>
+      <title><![CDATA[Frame 1020]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="271">
+      <filename><![CDATA[2026/03/Frame-1021.jpg]]></filename>
+      <title><![CDATA[Frame 1021]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
   <meta>
-    <key name="_edit_lock"><![CDATA[1777454370:1]]></key>
+    <key name="_edit_lock"><![CDATA[1778148116:1]]></key>
     <key name="_edit_last"><![CDATA[1]]></key>
     <key name="_uplg_file_name"><![CDATA[camping]]></key>
     <key name="blah"><![CDATA[merci]]></key>
+    <key name="_wp_page_template"><![CDATA[]]></key>
   </meta>
   <taxonomies/>
 </content>

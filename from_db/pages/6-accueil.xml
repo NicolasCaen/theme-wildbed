@@ -7,14 +7,14 @@
   <date><![CDATA[2026-03-12 16:30:56]]></date>
   <date_gmt><![CDATA[2026-03-12 16:30:56]]></date_gmt>
   <title><![CDATA[Accueil]]></title>
-  <content><![CDATA[<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/03/Ellipse-47-1024x485.jpg","id":256,"alt":"Vue du camping les patis","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"large","align":"full","className":"is-style-default  overflow-visible","style":{"spacing":{"padding":{"top":"var:preset|spacing|5","bottom":"var:preset|spacing|5"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center is-style-default overflow-visible" style="padding-top:var(--wp--preset--spacing--5);padding-bottom:var(--wp--preset--spacing--5);min-height:100vh"><img class="wp-block-cover__image-background wp-image-256 size-large" alt="Vue du camping les patis" src="https://wildbed.local/wp-content/uploads/2026/03/Ellipse-47-1024x485.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"840px"}} -->
-<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="wp-block-heading has-text-align-center">Camping les Pâtis</h1>
+  <content><![CDATA[<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/video-accueil-reduce.mp4","id":1176,"dimRatio":50,"isUserOverlayColor":true,"backgroundType":"video","minHeight":100,"minHeightUnit":"vh","gradient":"black-to-transparent","contentPosition":"bottom center","isDark":false,"sizeSlug":"full","align":"full","className":"is-style-default  overflow-visible min-h-100svh","style":{"spacing":{"padding":{"top":"var:preset|spacing|5","bottom":"var:preset|spacing|5"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-custom-content-position is-position-bottom-center is-style-default overflow-visible min-h-100svh" style="padding-top:var(--wp--preset--spacing--5);padding-bottom:var(--wp--preset--spacing--5);min-height:100vh"><video class="wp-block-cover__video-background intrinsic-ignore" autoplay muted loop playsinline src="https://wildbed.local/wp-content/uploads/2026/04/video-accueil-reduce.mp4" data-object-fit="cover"></video><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|56"},"blockGap":"var:preset|spacing|12"}},"layout":{"type":"constrained","contentSize":"840px"}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--56)"><!-- wp:heading {"textAlign":"center","level":1,"className":"with-stars","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
+<h1 class="wp-block-heading has-text-align-center with-stars has-accent-2-color has-text-color has-link-color">Camping les Pâtis</h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Séjournez dans un camping à Amboise, au cœur des Châteaux de la Loire</p>
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-2"}}}},"textColor":"accent-2"} -->
+<p class="has-text-align-center has-accent-2-color has-text-color has-link-color">Séjournez dans un camping à Amboise, au cœur des Châteaux de la Loire</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -25,9 +25,32 @@
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-wide__wrapper align-ultrawide","layout":{"type":"constrained","contentSize":"754px"}} -->
-<div class="wp-block-group section-wide__wrapper align-ultrawide"><!-- wp:heading {"textAlign":"center"} -->
+<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide section-texte-multi-images","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-wide section-texte-multi-images"><!-- wp:group {"align":"","className":"align-ultrawide grid-1-1-container","layout":{"type":"constrained"}} -->
+<div class="wp-block-group align-ultrawide grid-1-1-container"><!-- wp:group {"align":"","className":"section-wide__images grid-1-1-container__images align-ultrawide","layout":{"type":"grid","columnCount":9,"minimumColumnWidth":null}} -->
+<div class="wp-block-group section-wide__images grid-1-1-container__images align-ultrawide"><!-- wp:image {"id":1123,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://wildbed.local/wp-content/uploads/2026/04/Emplacement.jpeg" alt="Emplacement camping" class="wp-image-1123"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1122,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://wildbed.local/wp-content/uploads/2026/04/Chalet-bois.jpeg" alt="Chalet bois" class="wp-image-1122"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1131,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://wildbed.local/wp-content/uploads/2026/04/Ellipse-51.jpg" alt="Photo d'enfants au camping" class="wp-image-1131"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1132,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://wildbed.local/wp-content/uploads/2026/04/Ellipse-49.jpg" alt="Photo des locaux wildbed" class="wp-image-1132"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1133,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://wildbed.local/wp-content/uploads/2026/04/Ellipse-50.jpg" alt="photo du chemin" class="wp-image-1133"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-wide__wrapper align-ultrawide grid-1-1-container__content","style":{"spacing":{"padding":{"top":"var:preset|spacing|56-120","bottom":"var:preset|spacing|56-120"},"blockGap":"var:preset|spacing|h-24"}},"layout":{"type":"constrained","contentSize":"754px"}} -->
+<div class="wp-block-group section-wide__wrapper align-ultrawide grid-1-1-container__content" style="padding-top:var(--wp--preset--spacing--56-120);padding-bottom:var(--wp--preset--spacing--56-120)"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center">Séjournez au plus près de la nature, explorez la faune et le patrimoine du Val de Loire</h2>
 <!-- /wp:heading -->
 
@@ -37,48 +60,120 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">En savoir plus</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/hebergements/">En savoir plus</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Section Full"},"align":"full","className":"section-full is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-full is-style-style-2" style="padding-top:var(--wp--preset--spacing--7);padding-bottom:var(--wp--preset--spacing--7)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-full__wrapper align-ultrawide","layout":{"type":"default"}} -->
-<div class="wp-block-group section-full__wrapper align-ultrawide"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Nos hébergements pour un séjour unique</h2>
+<!-- wp:group {"metadata":{"name":"Section | Carousel Hebergement"},"align":"full","className":"overflow-hidden is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|32-72","bottom":"var:preset|spacing|32-72"},"blockGap":"var:preset|spacing|h-16-40"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull overflow-hidden is-style-style-2" style="padding-top:var(--wp--preset--spacing--32-72);padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:heading {"textAlign":"center","align":"wide","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16"}}}} -->
+<h2 class="wp-block-heading alignwide has-text-align-center" style="padding-right:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)">Nos hébergements pour un séjour unique</h2>
 <!-- /wp:heading -->
 
-<!-- wp:shortcode -->
-[ctv_product_list type="accommodation"]
-<!-- /wp:shortcode -->
+<!-- wp:up-cb/carousel {"spaceBetween":40,"navigation":false,"rtl":false,"resizeObserver":true,"breakpoints":[{"label":"Mobile","minWidth":0,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":false,"pagination":true,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false},{"label":"Tablet","minWidth":768,"slidesPerView":2,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":true,"pagination":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false},{"label":"Desktop","minWidth":1240,"slidesPerView":3,"slidesPerGroup":1,"spaceBetween":40,"speed":300,"navigation":true,"pagination":true,"autoplay":false,"autoplaySpeed":3000,"pauseOnMouseEnter":false,"disableOnInteraction":false}],"className":"upcb-arrows-top-left align-ultrawide overflow-visible"} -->
+<div class="wp-block-up-cb-carousel upcb-carousel-block upcb-single-slide upcb-arrows-top-left align-ultrawide overflow-visible" style="--upcb-arrow-gap:var(--wp--preset--spacing--8, 8px)" data-upcb-loop="false" data-upcb-breakpoints="{&quot;0&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:40},&quot;768&quot;:{&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:40},&quot;1240&quot;:{&quot;slidesPerView&quot;:3,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:40}}" data-upcb-slides-per-view="1" data-upcb-slides-per-group="1" data-upcb-space-between="40" data-upcb-speed="300" data-upcb-resize-observer="true" data-upcb-pagination="true"><div class="swiper"><div class="upcb-wrapper swiper-wrapper">
+<!-- wp:up-cb/slide {"className":"overflow-visible"} -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide overflow-visible">
+<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/Chalet-bois.jpeg","id":1122,"alt":"Chalet bois","dimRatio":50,"isUserOverlayColor":true,"gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"full","className":"is-style-style-2","style":{"spacing":{"blockGap":"var:preset|spacing|4","padding":{"right":"var:preset|spacing|32-40","left":"var:preset|spacing|32-40","top":"var:preset|spacing|16-32","bottom":"var:preset|spacing|16-32"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"dimensions":{"aspectRatio":"3/4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-center is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-32);padding-right:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--16-32);padding-left:var(--wp--preset--spacing--32-40)"><img class="wp-block-cover__image-background wp-image-1122 size-full" alt="Chalet bois" src="https://wildbed.local/wp-content/uploads/2026/04/Chalet-bois.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"left","placeholder":"Rédigez le titre…","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"l"} -->
+<p class="has-text-align-left has-l-font-size" style="font-style:normal;font-weight:700">Chalet Bois </p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>1 / 2 personnes</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+</div>
+<!-- /wp:up-cb/slide -->
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide">
+<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/Tente-Bivouac.jpeg","id":1124,"alt":"Tente Bivouac","dimRatio":50,"isUserOverlayColor":true,"gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"full","className":"is-style-style-2","style":{"spacing":{"blockGap":"var:preset|spacing|4","padding":{"right":"var:preset|spacing|32-40","left":"var:preset|spacing|32-40","top":"var:preset|spacing|16-32","bottom":"var:preset|spacing|16-32"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"dimensions":{"aspectRatio":"3/4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-center is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-32);padding-right:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--16-32);padding-left:var(--wp--preset--spacing--32-40)"><img class="wp-block-cover__image-background wp-image-1124 size-full" alt="Tente Bivouac" src="https://wildbed.local/wp-content/uploads/2026/04/Tente-Bivouac.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"left","placeholder":"Rédigez le titre…","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"l"} -->
+<p class="has-text-align-left has-l-font-size" style="font-style:normal;font-weight:700">Tente Bivouac</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>1 / 2 personnes</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+</div>
+<!-- /wp:up-cb/slide -->
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide">
+<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/Tente-Glamping.jpeg","id":1125,"alt":"Tente Glamping","dimRatio":50,"isUserOverlayColor":true,"gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"full","className":"is-style-style-2","style":{"spacing":{"blockGap":"var:preset|spacing|4","padding":{"right":"var:preset|spacing|32-40","left":"var:preset|spacing|32-40","top":"var:preset|spacing|16-32","bottom":"var:preset|spacing|16-32"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"dimensions":{"aspectRatio":"3/4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-center is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-32);padding-right:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--16-32);padding-left:var(--wp--preset--spacing--32-40)"><img class="wp-block-cover__image-background wp-image-1125 size-full" alt="Tente Glamping" src="https://wildbed.local/wp-content/uploads/2026/04/Tente-Glamping.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"left","placeholder":"Rédigez le titre…","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"l"} -->
+<p class="has-text-align-left has-l-font-size" style="font-style:normal;font-weight:700">Tente Glamping</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>4 / 5 personnes</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+</div>
+<!-- /wp:up-cb/slide -->
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide">
+<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/yourte.jpeg","id":1126,"alt":"yourte","dimRatio":50,"isUserOverlayColor":true,"gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"full","className":"is-style-style-2","style":{"spacing":{"blockGap":"var:preset|spacing|4","padding":{"right":"var:preset|spacing|32-40","left":"var:preset|spacing|32-40","top":"var:preset|spacing|16-32","bottom":"var:preset|spacing|16-32"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"dimensions":{"aspectRatio":"3/4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-center is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-32);padding-right:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--16-32);padding-left:var(--wp--preset--spacing--32-40)"><img class="wp-block-cover__image-background wp-image-1126 size-full" alt="yourte" src="https://wildbed.local/wp-content/uploads/2026/04/yourte.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"left","placeholder":"Rédigez le titre…","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"l"} -->
+<p class="has-text-align-left has-l-font-size" style="font-style:normal;font-weight:700">Chalet Bois </p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>4 personnes</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+</div>
+<!-- /wp:up-cb/slide -->
+<!-- wp:up-cb/slide -->
+<div class="wp-block-up-cb-slide upcb-slide swiper-slide">
+<!-- wp:cover {"url":"https://wildbed.local/wp-content/uploads/2026/04/Emplacement.jpeg","id":1123,"alt":"Emplacement camping","dimRatio":50,"isUserOverlayColor":true,"gradient":"black-to-transparent","contentPosition":"bottom center","sizeSlug":"full","className":"is-style-style-2","style":{"spacing":{"blockGap":"var:preset|spacing|4","padding":{"right":"var:preset|spacing|32-40","left":"var:preset|spacing|32-40","top":"var:preset|spacing|16-32","bottom":"var:preset|spacing|16-32"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"dimensions":{"aspectRatio":"3/4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-center is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-32);padding-right:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--16-32);padding-left:var(--wp--preset--spacing--32-40)"><img class="wp-block-cover__image-background wp-image-1123 size-full" alt="Emplacement camping" src="https://wildbed.local/wp-content/uploads/2026/04/Emplacement.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim wp-block-cover__gradient-background has-background-gradient has-black-to-transparent-gradient-background"></span><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"left","placeholder":"Rédigez le titre…","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"l"} -->
+<p class="has-text-align-left has-l-font-size" style="font-style:normal;font-weight:700">Chalet Bois </p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>5personnes</p>
+<!-- /wp:paragraph -->
+</div></div>
+<!-- /wp:cover -->
+</div>
+<!-- /wp:up-cb/slide -->
+</div></div><div class="upcb-pagination swiper-pagination"></div></div>
+<!-- /wp:up-cb/carousel -->
 
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wildbed.local/?page_id=254">Découvrir nos hébergements</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/hebergements/">Découvrir nos hébergements</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":"var:preset|spacing|8","metadata":{"name":"Espacement 7.5 | 120px","categories":["layout"],"patternName":"ng1-base/spacer-8"},"className":"is-style-spacer-8"} -->
-<div style="height:var(--wp--preset--spacing--8)" aria-hidden="true" class="wp-block-spacer is-style-spacer-8"></div>
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide section-wide__wrapper"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Vivez l’Aventure Wild Bed</h2>
+<!-- wp:group {"metadata":{"name":"Section"},"align":"","className":"section-link-3cols align-ultrawide","style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|32-72"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-link-3cols align-ultrawide" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--32-72)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"full","className":"section-link-3cols__wrapper ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull section-link-3cols__wrapper"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"right":"var:preset|spacing|24","left":"var:preset|spacing|24"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-right:var(--wp--preset--spacing--24);margin-left:var(--wp--preset--spacing--24)">Vivez l’Aventure Wild Bed</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontFamily":"first"} -->
 <p class="has-text-align-center has-first-font-family">Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"align":"full","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
-<div class="wp-block-group alignfull"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
-<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<!-- wp:group {"align":"full","className":"section-link-3cols__grid","style":{"spacing":{"padding":{"top":"var:preset|spacing|32-40","bottom":"var:preset|spacing|32-40"},"blockGap":"var:preset|spacing|32-40"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull section-link-3cols__grid" style="padding-top:var(--wp--preset--spacing--32-40);padding-bottom:var(--wp--preset--spacing--32-40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|12"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"has-aspect-ratio-1-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|16","right":"var:preset|spacing|16"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-aspect-ratio-1-1 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--16)"><!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
 <figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-heritage-1.svg" alt="" class="wp-image-138"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
@@ -88,9 +183,9 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-4","style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
-<div class="wp-block-group is-style-style-4" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|12"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"is-style-style-4 has-aspect-ratio-1-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|16","right":"var:preset|spacing|16"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group is-style-style-4 has-aspect-ratio-1-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--16)"><!-- wp:image {"id":139,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
 <figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-nature-1.svg" alt="" class="wp-image-139"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
@@ -100,9 +195,9 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|7","bottom":"var:preset|spacing|7","left":"var:preset|spacing|3","right":"var:preset|spacing|3"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
-<div class="wp-block-group has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--7);padding-right:var(--wp--preset--spacing--3);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--3)"><!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|12"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"has-aspect-ratio-1-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|16","right":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-aspect-ratio-1-1 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--16)"><!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
 <figure class="wp-block-image alignfull size-large"><img src="https://wildbed.local/wp-content/uploads/2026/03/wildbed-animal-1.svg" alt="" class="wp-image-137"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
@@ -115,100 +210,214 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Découvir l'aventure Wild Bed</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/aventures/explorer-amboise/">Découvir l'aventure Wild Bed</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
-<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
-<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- wp:group {"metadata":{"name":"Section | Pourquoi"},"align":"","className":"section-pourquoi align-ultrawide","layout":{"type":"constrained","contentSize":"1190px"}} -->
+<div class="wp-block-group section-pourquoi align-ultrawide"><!-- wp:heading {"textAlign":"center","align":"full"} -->
+<h2 class="wp-block-heading alignfull has-text-align-center">Pourquoi choisir le Camping Les Pâtis ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-80","metadata":{"name":"Espacement clamp(2rem, 0.3333rem + 5.3333vw, 5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-80"},"className":"is-style-spacer-32-80"} -->
+<div style="height:var(--wp--preset--spacing--32-80)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-80"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"metadata":{"name":"Section"},"align":"full","className":"section-wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-wide"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide section-wide__wrapper"><!-- wp:heading -->
-<h2 class="wp-block-heading">Pourquoi choisir le Camping Les Pâtis ?</h2>
+<!-- wp:columns {"align":"full","className":"section-pourquoi__columns"} -->
+<div class="wp-block-columns alignfull section-pourquoi__columns"><!-- wp:column {"className":"section-pourquoi__column section-pourquoi__column\u002d\u002d1","style":{"spacing":{"blockGap":"var:preset|spacing|custom"}}} -->
+<div class="wp-block-column section-pourquoi__column section-pourquoi__column--1"><!-- wp:group {"metadata":{"name":"Card 1"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d1","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--1 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>À 3km d’Amboise</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Un emplacement idéal pour découvrir le Val de Loire tout en profitant du calme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Card 2"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d2","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--2 has-contrast-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Au coeur des châteaux de la Loire</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Chenonceau, Chambord, Clos Lucé… les incontournables à portée de séjour.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Card 3"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d3","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--3 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Sur l’itinéraire de la Loire à Vélo</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Une étape parfaite pour les cyclistes et les amoureux de mobilité douce. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"section-pourquoi__column section-pourquoi__column\u002d\u002d2"} -->
+<div class="wp-block-column is-vertically-aligned-center section-pourquoi__column section-pourquoi__column--2"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/pourquoi.svg" alt="pourquoi.svg"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"section-pourquoi__column section-pourquoi__column\u002d\u002d3","style":{"spacing":{"blockGap":"var:preset|spacing|custom"}}} -->
+<div class="wp-block-column section-pourquoi__column section-pourquoi__column--3"><!-- wp:group {"metadata":{"name":"Card 4"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d4","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--4 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Camping 3 étoiles à taille humaine</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Convivial, familial et loin des grandes structures impersonnelles.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Card 5"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d5","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--5 has-contrast-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Nature &amp; sérénité</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Un cadre verdoyant pour se ressourcer et ralentir.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Card 6"},"className":"is-style-style-2 section-pourquoi__card section-pourquoi__card\u002d\u002d6","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16","top":"var:preset|spacing|16","bottom":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2 section-pourquoi__card section-pourquoi__card--6 has-base-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--16);padding-bottom:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Expérience Wild Bed</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Hébergements intégrés au paysage et activités nature pour petits et grands.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG 6"},"align":"full","className":"section-media-texte-with-bg-6","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg-6" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg-6__wrapper align-ultrawide is-style-style-2 ","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-media-texte-with-bg-6__wrapper align-ultrawide is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:group {"align":"full","className":"is-style-decal-50-percent","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group alignfull is-style-decal-50-percent"><!-- wp:heading {"className":"is-style-one-row-grid is-style-panneau","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-40","left":"var:preset|spacing|h-16-40"}}}} -->
+<h2 class="wp-block-heading is-style-one-row-grid is-style-panneau" style="padding-right:var(--wp--preset--spacing--h-16-40);padding-left:var(--wp--preset--spacing--h-16-40)">Quoi de nouveau ici ?</h2>
 <!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"is-style-style-2 overflow-hidden","style":{"spacing":{"padding":{"top":"var:preset|spacing|32-72","bottom":"var:preset|spacing|32-72","left":"var:preset|spacing|h-16-72","right":"var:preset|spacing|h-16-72"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull is-style-style-2 overflow-hidden" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--32-72);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-72);padding-left:var(--wp--preset--spacing--h-16-72)"><!-- wp:up-cq/carousel {"navigation":false,"arrowCorner":"bottom-right","arrowColor":"#ffffff","arrowBg":"#F9A01E","arrowHoverColor":"#ffffff","arrowHoverBg":"#F9A01E","arrowOpacity":0.75,"prevIconKey":"arrow-prev","nextIconKey":"arrow-next","paginationIconKey":"arrow-left","paginationColor":"#E8F2EF","paginationBg":"#E8F2EF","paginationHoverColor":"#F9A01E","paginationHoverBg":"#F9A01E","paginationActiveColor":"#F9A01E","paginationActiveBg":"#F9A01E","paginationSize":12,"breakpoints":[{"label":"Mobile","minWidth":0,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":72},{"label":"Tablet","minWidth":768,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":72},{"label":"Desktop","minWidth":1024,"slidesPerView":1,"slidesPerGroup":1,"spaceBetween":72}],"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<!-- wp:query {"queryId":0,"query":{"perPage":99,"pages":0,"offset":0,"postType":"animation","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"parents":[],"format":[],"taxQuery":{"animation_emplacement":[41]}},"align":"full","className":"alignfull","layout":{"type":"default"}} -->
+<div class="wp-block-query alignfull"><!-- wp:post-template {"style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaType":"image","imageFill":false,"useFeaturedImage":true,"className":"has-media-aspect-ratio-4-3 no-padding-content has-gap-h-32 is-style-default","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-4-3 no-padding-content has-gap-h-32 is-style-default" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|h-16-72","bottom":"var:preset|spacing|h-16-72"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--h-16-72)"><!-- wp:post-title {"fontSize":"l","fontFamily":"first"} /-->
+
+<!-- wp:post-excerpt {"moreText":"En savoir plus"} /--></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"></figure></div>
+<!-- /wp:media-text -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph {"placeholder":"Ajouter un texte ou des blocs qui s’afficheront lorsqu’une requête ne renverra aucun résultat."} -->
+<p></p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query -->
+<!-- /wp:up-cq/carousel --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Section | not mobile"},"align":"full","className":"section-wide section-wide\u002d\u002dnot-mobile","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull section-wide section-wide--not-mobile"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"wide","className":"section-wide__wrapper is-style-style-4","style":{"spacing":{"padding":{"right":"var:preset|spacing|clamp-7-5","left":"var:preset|spacing|clamp-7-5","bottom":"var:preset|spacing|7","top":"5.25rem"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide section-wide__wrapper is-style-style-4 has-base-2-background-color has-background" style="padding-top:5.25rem;padding-right:var(--wp--preset--spacing--clamp-7-5);padding-bottom:var(--wp--preset--spacing--7);padding-left:var(--wp--preset--spacing--clamp-7-5)"><!-- wp:heading {"textAlign":"center","className":"is-style-panneau"} -->
-<h2 class="wp-block-heading has-text-align-center is-style-panneau">Quoi de nouveau ?</h2>
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"","className":"align-s","style":{"spacing":{"padding":{"right":"var:preset|spacing|16","left":"var:preset|spacing|16"},"blockGap":"var:preset|spacing|32-40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group align-s" style="padding-right:var(--wp--preset--spacing--16);padding-left:var(--wp--preset--spacing--16)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Nos labels &amp; distinctions</h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"align":"wide","mediaPosition":"right","mediaId":133,"mediaLink":"https://wildbed.local/accueil/picsum-id-39/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Contenu…"} -->
-<p>Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
-<!-- /wp:paragraph -->
+<!-- wp:gallery {"columns":5,"linkTo":"none","sizeSlug":"full","aspectRatio":"1","className":"is-style-square-label","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-gallery has-nested-images columns-5 is-cropped is-style-square-label" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0"><!-- wp:image {"id":925,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/04/routard.png" alt="" class="wp-image-925" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
+<!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p>Plongez au cœur de la nature et laissez-vous surprendre. Chaque séjour Wild Bed vous offre une parenthèse unique : un cadre authentique, des hébergements qui se fondent dans le paysage et des moments pensés pour se reconnecter au simple, au beau et au vivant.</p>
-<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/image.jpeg" alt="" class="wp-image-133 size-full"/></figure></div>
-<!-- /wp:media-text --></div>
+<!-- wp:image {"id":923,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/04/image-5.png" alt="" class="wp-image-923" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":922,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","className":"bg-white is-style-default","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border bg-white is-style-default"><img src="https://wildbed.local/wp-content/uploads/2026/04/image-4.png" alt="" class="wp-image-922" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:1"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":921,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none","className":"bg-trip"} -->
+<figure class="wp-block-image size-full bg-trip"><img src="https://wildbed.local/wp-content/uploads/2026/04/image-3.png" alt="" class="wp-image-921" style="aspect-ratio:1"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":924,"aspectRatio":"1","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://wildbed.local/wp-content/uploads/2026/04/unnamed-1.png" alt="" class="wp-image-924" style="aspect-ratio:1"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:group {"className":"has-justify-center-mobile has-flex-wrap-mobile","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}},"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-32","right":"var:preset|spacing|h-32"}}},"backgroundColor":"accent-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group has-justify-center-mobile has-flex-wrap-mobile has-accent-2-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-32);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-32)"><!-- wp:html -->
+[trustindex no-registration=google]
+<!-- /wp:html -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"txt-one-line with-chevron"} -->
+<div class="wp-block-button txt-one-line with-chevron"><a class="wp-block-button__link wp-element-button" href="https://admin.trustindex.io/api/googleReview?place-id=ChIJ-70cd6LL_EcRFQ75OuKm3G4">Vois les avis clients</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-style-1","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-style-1"><!-- wp:heading -->
-<h2 class="wp-block-heading">TITRE H2</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat <a href="https://wildbed.local/" data-type="page" data-id="32-48">non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-style-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-style-2"><!-- wp:heading -->
-<h2 class="wp-block-heading">TITRE H2</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat <a href="https://wildbed.local/" data-type="page" data-id="32-48">non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"is-style-style-2","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-style-2"><!-- wp:paragraph -->
-<p>TEST</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>TEST</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">TITRE H2</h2>
-<!-- /wp:heading -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CECI EST UN TEST</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
 <!-- /wp:group -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
+  <modified><![CDATA[2026-05-07 09:21:33]]></modified>
   <media>
+    <file type="content" original_id="1123">
+      <filename><![CDATA[2026/04/Emplacement.jpeg]]></filename>
+      <title><![CDATA[Emplacement]]></title>
+      <alt><![CDATA[Emplacement camping]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1122">
+      <filename><![CDATA[2026/04/Chalet-bois.jpeg]]></filename>
+      <title><![CDATA[Chalet bois]]></title>
+      <alt><![CDATA[Chalet bois]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1131">
+      <filename><![CDATA[2026/04/Ellipse-51.jpg]]></filename>
+      <title><![CDATA[Ellipse 51]]></title>
+      <alt><![CDATA[Photo d'enfants au camping]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1132">
+      <filename><![CDATA[2026/04/Ellipse-49.jpg]]></filename>
+      <title><![CDATA[Ellipse 49]]></title>
+      <alt><![CDATA[Photo des locaux wildbed]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1133">
+      <filename><![CDATA[2026/04/Ellipse-50.jpg]]></filename>
+      <title><![CDATA[Ellipse 50]]></title>
+      <alt><![CDATA[photo du chemin]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
     <file type="content" original_id="138">
       <filename><![CDATA[2026/03/wildbed-heritage-1.svg]]></filename>
       <title><![CDATA[wildbed heritage 1]]></title>
@@ -227,15 +436,57 @@
       <alt><![CDATA[]]></alt>
       <mime><![CDATA[image/svg+xml]]></mime>
     </file>
-    <file type="content" original_id="133">
-      <filename><![CDATA[2026/03/image.jpeg]]></filename>
-      <title><![CDATA[Picsum ID: 39]]></title>
+    <file type="content" original_id="921">
+      <filename><![CDATA[2026/04/image-3.png]]></filename>
+      <title><![CDATA[image 3]]></title>
       <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="924">
+      <filename><![CDATA[2026/04/unnamed-1.png]]></filename>
+      <title><![CDATA[unnamed 1]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1124">
+      <filename><![CDATA[2026/04/Tente-Bivouac.jpeg]]></filename>
+      <title><![CDATA[Tente Bivouac]]></title>
+      <alt><![CDATA[Tente Bivouac]]></alt>
       <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1125">
+      <filename><![CDATA[2026/04/Tente-Glamping.jpeg]]></filename>
+      <title><![CDATA[Tente Glamping]]></title>
+      <alt><![CDATA[Tente Glamping]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="1126">
+      <filename><![CDATA[2026/04/yourte.jpeg]]></filename>
+      <title><![CDATA[yourte]]></title>
+      <alt><![CDATA[yourte]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="925">
+      <filename><![CDATA[2026/04/routard.png]]></filename>
+      <title><![CDATA[routard]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="923">
+      <filename><![CDATA[2026/04/image-5.png]]></filename>
+      <title><![CDATA[image 5]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="922">
+      <filename><![CDATA[2026/04/image-4.png]]></filename>
+      <title><![CDATA[image 4]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
     </file>
   </media>
   <meta>
-    <key name="_edit_lock"><![CDATA[1776699994:1]]></key>
+    <key name="_edit_lock"><![CDATA[1778145688:1]]></key>
     <key name="_edit_last"><![CDATA[1]]></key>
     <key name="_uplg_file_name"><![CDATA[accueil]]></key>
     <key name="blah"><![CDATA[]]></key>

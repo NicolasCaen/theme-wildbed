@@ -7,12 +7,189 @@
   <date><![CDATA[2026-04-10 08:56:12]]></date>
   <date_gmt><![CDATA[2026-04-10 08:56:12]]></date_gmt>
   <title><![CDATA[Hébergements]]></title>
-  <content><![CDATA[]]></content>
+  <content><![CDATA[<!-- wp:cover {"overlayColor":"base","isUserOverlayColor":true,"isDark":false,"align":"wide","className":"section-banner-with-images is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|200","bottom":"var:preset|spacing|56-120"}}}} -->
+<div class="wp-block-cover alignwide is-light section-banner-with-images is-style-style-1" style="padding-top:var(--wp--preset--spacing--200);padding-bottom:var(--wp--preset--spacing--56-120)"><span aria-hidden="true" class="wp-block-cover__background has-base-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Section | Banner avec images"},"align":"wide","className":"section-banner-with-images__wrapper is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|8"}}},"layout":{"type":"constrained","contentSize":"1143px"}} -->
+<div class="wp-block-group alignwide section-banner-with-images__wrapper is-style-default" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--8)"><!-- wp:paragraph {"className":"section-banner-with-images__panneau is-style-panneau-rotated"} -->
+<p class="section-banner-with-images__panneau is-style-panneau-rotated">Hébergements</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"align":"wide"} -->
+<h1 class="wp-block-heading alignwide has-text-align-center">Tente sous les étoiles ou lodge en pleine nature</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
+<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:gallery {"columns":4,"linkTo":"none","aspectRatio":"3/4","className":"section-banner-with-images__galerie galerie-polaroid"} -->
+<figure class="wp-block-gallery has-nested-images columns-4 is-cropped section-banner-with-images__galerie galerie-polaroid"><!-- wp:image {"id":268,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1019.jpg" alt="" class="wp-image-268" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":269,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1020.jpg" alt="" class="wp-image-269" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":270,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":271,"aspectRatio":"3/4","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"0","topRight":"0","bottomLeft":"0","bottomRight":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1021.jpg" alt="" class="wp-image-271" style="border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;aspect-ratio:3/4"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg-4","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg-4"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg-4__wrapper align-ultrawide","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-4","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-media-texte-with-bg-4__wrapper align-ultrawide has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:media-text {"align":"full","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","imageFill":false,"className":"has-media-aspect-ratio-3-4 no-padding-content ","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-40"}}}} -->
+<div class="wp-block-media-text alignfull is-stacked-on-mobile has-media-aspect-ratio-3-4 no-padding-content" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-40);padding-left:var(--wp--preset--spacing--h-16-72)"><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|h-16-72","bottom":"var:preset|spacing|h-16-72"}}},"layout":{"type":"constrained"}} -->
+<div id="locations" class="wp-block-group" style="padding-top:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--h-16-72)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|12"}}},"textColor":"base-2"} -->
+<p class="has-base-2-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--12)"><strong>Insolites et confortables</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|32-40"}},"typography":{"lineHeight":"1.25"}}} -->
+<h2 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--12);margin-bottom:var(--wp--preset--spacing--32-40);line-height:1.25">Nos hébergements locatifs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Envie de nature sans renoncer au confort ? Nos hébergements locatifs sont faits pour vous. Construits en bois et matériaux naturels, ils s'intègrent harmonieusement dans le paysage du camping et vous offrent tout le nécessaire pour des vacances douces et ressourçantes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"is-style-spacing-1-5"} -->
+<ul class="wp-block-list is-style-spacing-1-5"><!-- wp:list-item -->
+<li><strong>Les tentes lodges&nbsp;: </strong>Spacieuses et bien équipées, avec coin cuisine, elles sont idéales pour les familles qui veulent l'expérience du camping sans la contrainte du matériel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Les cabanes en bois&nbsp;: </strong>Nos trois cabanes bois sont équipées d'une douche privée, d'un mini-réfrigérateur, d'un micro-ondes, d'une bouilloire et de la vaisselle.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>La cabane simple&nbsp;:</strong> Parfaite pour un randonneur ou un couple, avec deux lits simples et l'essentiel pour une nuit au calme.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>La tente glamping&nbsp;: </strong>Pour ceux qui veulent l'ambiance nomade avec le confort en plus.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Les tentes bivouac&nbsp;:</strong> L'hébergement idéal pour les cyclo-randonneurs : simple, fonctionnel, et à deux pas de la Loire à Vélo.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|32-72","left":"var:preset|spacing|32-72","top":"var:preset|spacing|16","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--32-72);padding-bottom:0;padding-left:var(--wp--preset--spacing--32-72)"><!-- wp:html -->
+[ctv_product_list type="accommodation"]
+<!-- /wp:html -->
+
+<!-- wp:spacer {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-40","metadata":{"name":"Espacement clamp(2rem, 1.7222rem + 0.8889vw, 2.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-40"},"className":"is-style-spacer-32-40"} -->
+<div style="height:var(--wp--preset--spacing--32-40)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-40"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section Media Texte With BG"},"align":"full","className":"section-media-texte-with-bg-5","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull section-media-texte-with-bg-5"><!-- wp:group {"metadata":{"name":"Section | Wrapper"},"align":"","className":"section-media-texte-with-bg-5__wrapper align-ultrawide is-style-style-2","style":{"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-media-texte-with-bg-5__wrapper align-ultrawide is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s)"><!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":270,"mediaLink":"https://wildbed.local/camping/frame-1022/","mediaType":"image","imageFill":false,"className":"has-media-aspect-ratio-1-1 no-padding-content is-style-default","style":{"spacing":{"padding":{"right":"var:preset|spacing|h-16-72","left":"var:preset|spacing|h-16-72","top":"var:preset|spacing|32-80","bottom":"var:preset|spacing|32-40"}}}} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile has-media-aspect-ratio-1-1 no-padding-content is-style-default" style="padding-top:var(--wp--preset--spacing--32-80);padding-right:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--32-40);padding-left:var(--wp--preset--spacing--h-16-72)"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|h-16-72","bottom":"var:preset|spacing|h-16-72"}}},"layout":{"type":"constrained"}} -->
+<div id="emplacements" class="wp-block-group" style="padding-top:var(--wp--preset--spacing--h-16-72);padding-bottom:var(--wp--preset--spacing--h-16-72)"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|12"}}}} -->
+<p style="margin-bottom:var(--wp--preset--spacing--12)"><strong>Le camping sous toile à Amboise</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|12","bottom":"var:preset|spacing|32-40"}},"typography":{"lineHeight":"1.25"}}} -->
+<h2 class="wp-block-heading" style="margin-top:var(--wp--preset--spacing--12);margin-bottom:var(--wp--preset--spacing--32-40);line-height:1.25">Nos emplacements</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Vous avez votre propre tente, caravane ou camping-car ? Installez-vous sur l'un de nos 70 emplacements spacieux, ombragés ou ensoleillés selon vos préférences, répartis dans notre parc de 1,5 hectare en bord de rivière.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chaque emplacement est pensé pour votre confort : pergola couverte avec table de jardin, frigo, plaque de cuisson et évier à disposition, bornes électriques, points d'eau répartis sur le site… Ici, le camping sous toile ne rime pas avec inconfort. Il rime avec liberté, nature et bonne humeur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour les randonneurs et cyclistes de passage sur la Loire à Vélo, nous proposons également des&nbsp;tentes bivouac prêtes à camper, louées à la nuitée avec services inclus, linge, petit-déjeuner, et même portage de bagages sur demande. Le label&nbsp;Accueil Vélo&nbsp;que nous portons fièrement, c'est aussi ça : une vraie attention pour ceux qui voyagent léger.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://wildbed.local/wp-content/uploads/2026/03/Frame-1022.jpg" alt="" class="wp-image-270 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|32-72","left":"var:preset|spacing|32-72","top":"var:preset|spacing|16","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--16);padding-right:var(--wp--preset--spacing--32-72);padding-bottom:0;padding-left:var(--wp--preset--spacing--32-72)"><!-- wp:html -->
+[ctv_product_list type="pitch"]
+<!-- /wp:html -->
+
+<!-- wp:spacer {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section | Plan"},"align":"","className":"section-plan align-ultrawide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-plan align-ultrawide"><!-- wp:group {"metadata":{"name":"Section | Plan | Wrapper"},"align":"full","className":"section-plan__wrapper","style":{"spacing":{"blockGap":"var:preset|spacing|32-40"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull section-plan__wrapper" id="plan"><!-- wp:heading {"textAlign":"center","className":"is-style-panneau mobile-wrap"} -->
+<h2 class="wp-block-heading has-text-align-center is-style-panneau mobile-wrap">Plan du Camping Les Pâtis</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":637,"sizeSlug":"full","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-full"><img src="https://wildbed.local/wp-content/uploads/2026/04/plan-camping-les-patis.jpg" alt="Plan du Camping les pâtis" class="wp-image-637"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wildbed.local/tarifs-offres#disponibilites">Voir les disponibilités</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
-  <media/>
+  <modified><![CDATA[2026-05-07 10:02:41]]></modified>
+  <media>
+    <file type="content" original_id="637">
+      <filename><![CDATA[2026/04/plan-camping-les-patis.jpg]]></filename>
+      <title><![CDATA[plan camping les pâtis]]></title>
+      <alt><![CDATA[Plan du Camping les pâtis]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="268">
+      <filename><![CDATA[2026/03/Frame-1019.jpg]]></filename>
+      <title><![CDATA[Frame 1019]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="269">
+      <filename><![CDATA[2026/03/Frame-1020.jpg]]></filename>
+      <title><![CDATA[Frame 1020]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="270">
+      <filename><![CDATA[2026/03/Frame-1022.jpg]]></filename>
+      <title><![CDATA[Frame 1022]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+    <file type="content" original_id="271">
+      <filename><![CDATA[2026/03/Frame-1021.jpg]]></filename>
+      <title><![CDATA[Frame 1021]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/jpeg]]></mime>
+    </file>
+  </media>
   <meta>
-    <key name="_edit_lock"><![CDATA[1776756467:1]]></key>
+    <key name="_edit_lock"><![CDATA[1778148156:1]]></key>
     <key name="_edit_last"><![CDATA[1]]></key>
     <key name="_uplg_file_name"><![CDATA[hebergements]]></key>
     <key name="blah"><![CDATA[]]></key>

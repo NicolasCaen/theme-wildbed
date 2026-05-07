@@ -7,12 +7,333 @@
   <date><![CDATA[2026-03-13 13:24:44]]></date>
   <date_gmt><![CDATA[2026-03-13 13:24:44]]></date_gmt>
   <title><![CDATA[Tarifs & Offres]]></title>
-  <content><![CDATA[]]></content>
+  <content><![CDATA[<!-- wp:cover {"overlayColor":"base-2","isUserOverlayColor":true,"align":"wide","className":"section-banner-texte is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|200","bottom":"var:preset|spacing|56-120"}}}} -->
+<div class="wp-block-cover alignwide section-banner-texte is-style-style-2" style="padding-top:var(--wp--preset--spacing--200);padding-bottom:var(--wp--preset--spacing--56-120)"><span aria-hidden="true" class="wp-block-cover__background has-base-2-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Section | Banner avec images"},"align":"wide","className":"section-banner-texte__wrapper is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|8"}}},"layout":{"type":"constrained","contentSize":"1143px"}} -->
+<div class="wp-block-group alignwide section-banner-texte__wrapper is-style-default" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--8)"><!-- wp:paragraph {"className":"section-banner-texte__panneau is-style-panneau-rotated"} -->
+<p class="section-banner-texte__panneau is-style-panneau-rotated">Saison 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit…","align":"wide","className":"section-banner-texte__title"} -->
+<h1 class="wp-block-heading alignwide has-text-align-center section-banner-texte__title">Tarifs &amp; Offres</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"l"} -->
+<p class="has-text-align-center has-l-font-size">Ouverture le samedi 11 avril · Fermeture le 30 septembre 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|7","metadata":{"name":"Espacement 4.5 | 72px","categories":["layout"],"patternName":"ng1-base/spacer-7"},"className":"is-style-spacer-7"} -->
+<div style="height:var(--wp--preset--spacing--7)" aria-hidden="true" class="wp-block-spacer is-style-spacer-7"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|56-120","metadata":{"name":"Espacement clamp(3.5rem, 1.2778rem + 7.1111vw, 7.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-56-120"},"className":"is-style-spacer-56-120"} -->
+<div style="height:var(--wp--preset--spacing--56-120)" aria-hidden="true" class="wp-block-spacer is-style-spacer-56-120"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section | Bento Informations"},"align":"","className":"bento-information align-ultrawide","layout":{"type":"default"}} -->
+<div id="tarifs" class="wp-block-group bento-information align-ultrawide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Les tarifs en un coup d’oeil</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"full","layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group alignfull"><!-- wp:group {"align":"full","className":"bento-information__row bento-information__row\u002d\u002d1","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull bento-information__row bento-information__row--1"><!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph -->
+<p><strong>Emplacements</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"h-five","fontFamily":"second"} -->
+<p class="has-base-2-color has-text-color has-link-color has-second-font-family has-h-five-font-size"><strong>20,50 – 25,50 €</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>par nuit pour 2, électricité incluse <br>hors taxe de séjour</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph -->
+<p><strong>Hébergements insolites</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"h-five","fontFamily":"second"} -->
+<p class="has-base-2-color has-text-color has-link-color has-second-font-family has-h-five-font-size">32 – 110 €</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>par nuit selon le modèle <br>de 2 à 5 personnes</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph -->
+<p><strong>Réduction séjour long</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2","fontSize":"h-five","fontFamily":"second"} -->
+<p class="has-base-2-color has-text-color has-link-color has-second-font-family has-h-five-font-size">À partir de 7 nuits</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>sur les emplacements et les locatifs</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"bento-information__row bento-information__row\u002d\u002d2","style":{"spacing":{"blockGap":"var:preset|spacing|24"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull bento-information__row bento-information__row--2"><!-- wp:group {"className":"is-style-style-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|24","right":"var:preset|spacing|24"},"blockGap":"var:preset|spacing|12"},"layout":{"columnSpan":2},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-2" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--24)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|12"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://wildbed.local/wp-content/themes/wildbed/assets/images/paw-1.svg" alt="paw-1.svg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Chiens bienvenus, sans supplément !&nbsp;</strong> Le Camping Les Pâtis est labellisé Qualidog : vos compagnons sont les bienvenus gratuitement.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|24","bottom":"var:preset|spacing|24","left":"var:preset|spacing|h-24","right":"var:preset|spacing|h-24"}},"layout":{"columnSpan":1},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"backgroundColor":"base-4","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group is-style-default has-base-4-background-color has-background" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--24);padding-right:var(--wp--preset--spacing--h-24);padding-bottom:var(--wp--preset--spacing--24);padding-left:var(--wp--preset--spacing--h-24)"><!-- wp:paragraph {"className":"download","style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"},":hover":{"color":{"text":"var:preset|color|contrast"}}}}}} -->
+<p class="download has-link-color"><strong><a href="https://wildbed.local/tarifs-offres/" data-type="page" data-id="96">Télécharger la grille tarifaire saison 2026</a></strong> </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Offres Speciales"},"align":"","className":"section-offres-speciales align-ultrawide","layout":{"type":"default"}} -->
+<div class="wp-block-group section-offres-speciales align-ultrawide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Offres spéciales</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="offres" class="wp-block-group"><!-- wp:html -->
+[ctv_offers display="classic"]
+<!-- /wp:html --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Disponibilites"},"align":"","className":"align-ultra align-ultrawide","layout":{"type":"default"}} -->
+<div class="wp-block-group align-ultra align-ultrawide"><!-- wp:heading {"align":"full"} -->
+<h2 class="wp-block-heading alignfull">Vérifiez les disponibilités et réservez </h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+[ctv_calendar product_id="94258"]
+<!-- /wp:html -->
+
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" id="disponibilites"></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section | Texte Ultrawide "},"align":"","className":"section-conditions align-ultrawide","layout":{"type":"default"}} -->
+<div class="wp-block-group section-conditions align-ultrawide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Conditions de séjour</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p id="conditions"><strong>Séjour minimum — week-ends et ponts :</strong>&nbsp;2 à 4 nuits minimum pour les locatifs selon le modèle (Ascension, Pentecôte, ponts de mai…)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p><strong>Séjour minimum — haute saison :</strong>&nbsp;3 nuits minimum pour les tentes lodges en juillet et août.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p><strong>Réduction séjour long :&nbsp;</strong>une réduction est appliquée automatiquement pour tout séjour supérieur à 7 nuits, sur les emplacements comme sur les locatifs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tarifs à la semaine ou à la nuitée :&nbsp;</strong>les tarifs affichés sont à la semaine par défaut. Pour la plupart des hébergements, la réservation à la nuitée est possible en sélectionnant vos dates.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"","className":"section-bento-2cols align-ultrawide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-bento-2cols align-ultrawide"><!-- wp:group {"align":"full","className":"section-bento-2cols__row bento-information__row\u002d\u002d1","layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}} -->
+<div class="wp-block-group alignfull section-bento-2cols__row bento-information__row--1"><!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|16-36","bottom":"var:preset|spacing|16-36","left":"var:preset|spacing|16-36","right":"var:preset|spacing|16-36"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div id="paiement" class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-36);padding-right:var(--wp--preset--spacing--16-36);padding-bottom:var(--wp--preset--spacing--16-36);padding-left:var(--wp--preset--spacing--16-36)"><!-- wp:paragraph -->
+<p><strong>Paiements en 4 fois</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Étalez le règlement de votre séjour en 4 fois sans frais avec&nbsp;<strong>Floa</strong>. Option disponible lors de la réservation en ligne, 90 jours avant le début du séjour. Des frais supplémentaires s'appliquent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label">Disponible en ligne</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"is-style-style-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|16-36","bottom":"var:preset|spacing|16-36","left":"var:preset|spacing|16-36","right":"var:preset|spacing|16-36"},"blockGap":"var:preset|spacing|12"},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-style-1" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-36);padding-right:var(--wp--preset--spacing--16-36);padding-bottom:var(--wp--preset--spacing--16-36);padding-left:var(--wp--preset--spacing--16-36)"><!-- wp:paragraph -->
+<p><strong>Assurance annulation</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Réservez en toute sérénité grâce à l'assurance annulation proposée par notre partenaire<strong>&nbsp;Meetch</strong>, disponible lors de votre réservation en ligne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|16"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label"><a href="/fr">FR</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label">EN</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label">NL</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label">DE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-label is-style-label"} -->
+<p class="is-label is-style-label">ES</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section | Labels"},"align":"","className":"section-labels align-ultrawide","layout":{"type":"default"}} -->
+<div class="wp-block-group section-labels align-ultrawide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Moyens de paiement acceptés</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"740px","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Labels | items"},"className":"section-labels__items","style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group section-labels__items"><!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Carte bancaire <img class="wp-image-1033" style="width: 148px;" src="https://wildbed.local/wp-content/uploads/2026/04/visa.png" alt=""> <img class="wp-image-1032" style="width: 104px;" src="https://wildbed.local/wp-content/uploads/2026/04/mastercard-.png" alt="">  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Chèques vacances ANCV <img class="wp-image-1028" style="width: 105px;" src="https://wildbed.local/wp-content/uploads/2026/04/ancv.png" alt=""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">ANCV Connect  <img class="wp-image-1027" style="width: 150px;" src="https://wildbed.local/wp-content/uploads/2026/04/ancv-connect.png" alt=""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Ideal <img class="wp-image-1031" style="width: 60px;" src="https://wildbed.local/wp-content/uploads/2026/04/ideal.png" alt=""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Bancontact <img class="wp-image-1029" style="width: 96px;" src="https://wildbed.local/wp-content/uploads/2026/04/bancontact.png" alt=""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Giropay <img class="wp-image-1030" style="width: 132px;" src="https://wildbed.local/wp-content/uploads/2026/04/giropay.png" alt=""></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Virement bancaire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-label"} -->
+<p class="is-style-label">Espèces</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|32-72","metadata":{"name":"Espacement clamp(2rem, 0.6111rem + 4.4444vw, 4.5rem)","categories":["layout"],"patternName":"ng1-base/spacer-32-72"},"className":"is-style-spacer-32-72"} -->
+<div style="height:var(--wp--preset--spacing--32-72)" aria-hidden="true" class="wp-block-spacer is-style-spacer-32-72"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Section CTA | Bon Cadeau"},"align":"","className":"align-ultrawide is-style-style-2 section-cta-bon-cadeau","style":{"spacing":{"padding":{"top":"var:preset|spacing|16-36","bottom":"var:preset|spacing|16-36","left":"var:preset|spacing|16-36","right":"var:preset|spacing|16-36"}},"border":{"radius":{"topLeft":"var:preset|border-radius|s","topRight":"var:preset|border-radius|s","bottomLeft":"var:preset|border-radius|s","bottomRight":"var:preset|border-radius|s"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div id="bon-cadeau" class="wp-block-group align-ultrawide is-style-style-2 section-cta-bon-cadeau" style="border-top-left-radius:var(--wp--preset--border-radius--s);border-top-right-radius:var(--wp--preset--border-radius--s);border-bottom-left-radius:var(--wp--preset--border-radius--s);border-bottom-right-radius:var(--wp--preset--border-radius--s);padding-top:var(--wp--preset--spacing--16-36);padding-right:var(--wp--preset--spacing--16-36);padding-bottom:var(--wp--preset--spacing--16-36);padding-left:var(--wp--preset--spacing--16-36)"><!-- wp:group {"className":"section-cta-bon-cadeau__txt","layout":{"type":"constrained"}} -->
+<div class="wp-block-group section-cta-bon-cadeau__txt"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|12"}}}} -->
+<h3 class="wp-block-heading" style="margin-bottom:var(--wp--preset--spacing--12)">Offrez un bon cadeau</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor…"} -->
+<p>Offrez une expérience inoubliable au cœur de notre camping !Avec ce bon cadeau, laissez vos proches choisir librement parmi toutes nos prestations et vivre un séjour qui leur ressemble.<br>Bon cadeau utilisable pour offrir toutes les prestations du camping (hébergements insolites, emplacement pour tente/caravane/camping-car, repas, animations payantes, locations de vélos...)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:button {"className":"section-cta-bon-cadeau__btn"} -->
+<div class="wp-block-button section-cta-bon-cadeau__btn"><a class="wp-block-button__link wp-element-button" href="https://bookingpremium.secureholiday.net/FR/16098/giftVoucher?_gl=1*h2rtcj*_ga*MjQwNTIxOTMwLjE3Nzc5MjM3MTE.*_ga_SGSPCSP02V*czE3Nzc5MjM3MTEkbzEkZzEkdDE3Nzc5MjM3NTQkajE3JGwwJGgw&amp;_ga=2.171287648.1128567833.1777923713-240521930.1777923711">Offrir un bon cadeau</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:group -->]]></content>
   <excerpt><![CDATA[]]></excerpt>
-  <modified><![CDATA[2026-04-21 07:30:59]]></modified>
-  <media/>
+  <modified><![CDATA[2026-05-07 10:10:13]]></modified>
+  <media>
+    <file type="content" original_id="1033">
+      <filename><![CDATA[2026/04/visa.png]]></filename>
+      <title><![CDATA[visa]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1032">
+      <filename><![CDATA[2026/04/mastercard-.png]]></filename>
+      <title><![CDATA[mastercard]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1028">
+      <filename><![CDATA[2026/04/ancv.png]]></filename>
+      <title><![CDATA[ancv]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1027">
+      <filename><![CDATA[2026/04/ancv-connect.png]]></filename>
+      <title><![CDATA[ancv-connect]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1031">
+      <filename><![CDATA[2026/04/ideal.png]]></filename>
+      <title><![CDATA[ideal]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1029">
+      <filename><![CDATA[2026/04/bancontact.png]]></filename>
+      <title><![CDATA[bancontact]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+    <file type="content" original_id="1030">
+      <filename><![CDATA[2026/04/giropay.png]]></filename>
+      <title><![CDATA[giropay]]></title>
+      <alt><![CDATA[]]></alt>
+      <mime><![CDATA[image/png]]></mime>
+    </file>
+  </media>
   <meta>
-    <key name="_edit_lock"><![CDATA[1776756626:1]]></key>
+    <key name="_edit_lock"><![CDATA[1778148611:1]]></key>
     <key name="_edit_last"><![CDATA[1]]></key>
     <key name="_uplg_file_name"><![CDATA[tarifs-offres]]></key>
     <key name="blah"><![CDATA[]]></key>

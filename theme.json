@@ -30,7 +30,32 @@
         {
             "name": "search",
             "title": "Recherche"
-        }
+        },
+            {
+        "name": "modele-front-page",
+        "title": "Modèle Front Page",
+          "postTypes": ["page"]
+    },
+    {
+        "name": "modele-page-camping",
+        "title": "Modèle Page Camping",
+          "postTypes": ["page"]
+    },
+    {
+        "name": "modele-page-hebergements",
+        "title": "Modèle Page Hébergements",
+          "postTypes": ["page"]
+    },
+    {
+        "name": "modele-page-infos-pratiques",
+        "title": "Modèle Page Infos Pratiques",
+          "postTypes": ["page"]
+    },
+    {
+        "name": "modele-page-tarifs-offres",
+        "title": "Modèle Page Tarifs Offres",
+          "postTypes": ["page"]
+    }
     ],
     "settings": {
         "custom": {
