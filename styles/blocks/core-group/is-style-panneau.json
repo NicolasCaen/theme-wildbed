@@ -9,7 +9,7 @@
         "core/post-terms"
     ],
     "styles": {
-        "css": "width:fit-content; margin:0 auto;text-wrap:nowrap",
+        "css": "width:fit-content; margin:0 auto;",
         "color": {
             "background": "var(--wp--preset--color--contrast)",
             "text":"var(--wp--preset--color--accent-2)"

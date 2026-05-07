@@ -29,24 +29,24 @@ header .wp-block-navigation {
        column-gap: clamp(1rem, -3.2273rem + 5.4545vw, 2.5rem);
 }
 
-html:not(.has-modal-open) a:hover {
+html:not(.has-modal-open) header .wp-block-navigation a:hover {
   color: var(--wp--preset--color--contrast) !important;
 }
-html:not(.has-modal-open) .upmma-toggle {
+html:not(.has-modal-open) header .wp-block-navigation .upmma-toggle {
   display: inline-flex;
   position: relative;
   z-index: 10;
   padding: 0;
 }
-html:not(.has-modal-open) .upmma-toggle svg {
+html:not(.has-modal-open) header .wp-block-navigation .upmma-toggle svg {
   fill: var(--wp--preset--color--contrast) !important;
   stroke: var(--wp--preset--color--contrast) !important;
   margin-left: 0.5rem;
   margin-right: 0.25rem;
 }
-html:not(.has-modal-open) .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
-html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,
-html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container,
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container,
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container {
   background: var(--wp--preset--color--base);
   border-bottom-right-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
@@ -61,9 +61,9 @@ html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):no
   width: auto;
   min-width: var(--parent-width) !important;
 }
-html:not(.has-modal-open) .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container:before,
-html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container:before,
-html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container:before {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true] ~ .wp-block-navigation__submenu-container:before,
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child:not(.open-on-click):hover > .wp-block-navigation__submenu-container:before,
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within > .wp-block-navigation__submenu-container:before {
   content: "";
   position: absolute;
   top: 0;
@@ -75,25 +75,25 @@ html:not(.has-modal-open) .wp-block-navigation .has-child:not(.open-on-click):no
   border-top-right-radius: 0.5rem;
   border-top-left-radius: 0.5rem;
 }
-html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation-item.has-child:hover {
   background: white;
 }
-html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover > .wp-block-navigation-item__content {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation-item.has-child:hover > .wp-block-navigation-item__content {
   position: relative;
   z-index: 100;
   padding: 0 !important;
 }
-html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover::after {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation-item.has-child:hover::after {
   content: "";
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
 }
-html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container {
   border: none;
 }
-html:not(.has-modal-open) .wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
+html:not(.has-modal-open) header .wp-block-navigation .wp-block-navigation-item.has-child:hover .wp-block-navigation__submenu-container .wp-block-navigation-item__content {
   padding: 6px 0 !important;
 }
 

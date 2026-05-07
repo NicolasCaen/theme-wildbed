@@ -82,3 +82,12 @@
 
     }
 }
+
+
+
+    .is-style-categories-label .current-cat{
+    a::before{
+            background-color:var(--wp--preset--color--base-2) !important;
+        }
+    }
+   

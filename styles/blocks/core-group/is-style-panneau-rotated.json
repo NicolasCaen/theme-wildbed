@@ -10,7 +10,7 @@
         "core/query-title"
     ],
     "styles": {
-        "css": "width:fit-content; margin:0 auto;text-wrap :no-wrap; transform:rotate(-3.315deg)",
+        "css": "width:fit-content; margin:0 auto; transform:rotate(-3.315deg)",
         "color": {
             "background": "var(--wp--preset--color--contrast)",
             "text":"var(--wp--preset--color--accent-2)"
